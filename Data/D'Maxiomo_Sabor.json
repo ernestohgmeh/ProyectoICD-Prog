@@ -32,58 +32,396 @@
             "parallevar": null,
             "reservation": null,
             "tipoDeMoneda": ["CUP"],
-            "parqueo": false,
-            "porCiento": false,
-            "alquiler": false,
-            "comentarios": "string/ algun comentario sobre el lugar"
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
         },
         "ambientacion":
         {
-            "inside": false,
+            "inside": true,
             "outside": false,
-            "bajos": false,
+            "bajos": true,
             "altos": false,
             "ac": false,
-            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
-            "comentarios": "string/ algun comentario sobre el lugar"
+            "entretenimiento": [],
+            "comentarios": ""
 
         },
-        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "vestimenta": ["casual"],
         "estatal": false,
-        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "tipoDeComidaEspecializada": [],
         "menu":
         {
             "entrantes":
             [
                 {
-                    "foodName": "string/ nombre del plato",
-                    "foodPrecio": "int/precio del plato"
+                    "foodName": "Crema de queso",
+                    "foodPrecio":350 
+                },
+                {
+                    "foodName": "Crema aurora",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Crema virginia",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Agrego de queso crema ",
+                    "foodPrecio": 200
+                },
+                {
+                    "foodName": "Agrego de jamon Crema",
+                    "foodPrecio": 200
+                },
+                {
+                    "foodName": "Tostones rellenos de jamon",
+                    "foodPrecio": 380
+                },
+                {
+                    "foodName": "Tostones rellenos de jamon y queso",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Tostones rellenos de atun",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Tostones al ajillo",
+                    "foodPrecio": 250
+                },
+                {
+                    "foodName": "Coctel de pescado",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Coctel de camarones",
+                    "foodPrecio": 490
+                },
+                {
+                    "foodName": "Coctel de langosta",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Fajitas de pollo",
+                    "foodPrecio": 680
+                },
+                {
+                    "foodName": "Fajitas de cerdo",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Eperlan",
+                    "foodPrecio": 680
+                },
+                {
+                    "foodName": "Camaron rebosado",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Ensalada fria",
+                    "foodPrecio": 380
                 }
             ],
             "platoFuerte":
             [
                 {
-                    "foodName": "string/ nombre del plato",
-                    "foodPrecio": "int/precio del plato",
-                    "description": "string-null/ en caso de q el nombre del plato sea un nombre unico y no diga de q esta hecho; de otra forma el valor es null",
-                    "clasificacion": "string/ carne roja, blanca, guarniciones etc"
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Spaguettis Napolitano",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasificacion": "pastas"
+                },
+                {
+                    "foodName": "Lasaña",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasificacion": "pastas"
+                },
+                {
+                    "foodName": "Pechuga de pollo grille ",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pechuga de pollo empanada",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pollo Gordon Blue",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de pescado grille",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de pescado empanado",
+                    "foodPrecio": 1050,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de pescado Montetoro",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Canciller",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Jhon Bill ",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Camarones Grille",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasificacion": "crustaceos"
+                },
+                {
+                    "foodName": "Camarones enchilados",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasificacion": "crustaceos"
+                },
+                {
+                    "foodName": "Langosta Grille",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasificacion": "crustaceos"
+                },
+                {
+                    "foodName": "Langosta Enchilada",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasificacion": "crustaceos"
+                },
+                {
+                    "foodName": "Arroz frito",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasificacion": "guarnicion"
+                },
+                {
+                    "foodName": "Ropa vieja de res",
+                    "foodPrecio": 980,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Higado al gusto",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Arroz blanco",
+                    "foodPrecio": 130,
+                    "description": null,
+                    "clasificacion": "guarnicion"
+                },
+                {
+                    "foodName": "Arroz Moro",
+                    "foodPrecio": 150,
+                    "description": null,
+                    "clasificacion": "guarnicion"
+                },
+                {
+                    "foodName": "Ensalada de estacion",
+                    "foodPrecio": 250,
+                    "description": null,
+                    "clasificacion": "ensalada"
+                },
+                {
+                    "foodName": "vianda frita",
+                    "foodPrecio": 250,
+                    "description": null,
+                    "clasificacion": "guarnicion"
                 }
             ],
             "postre":
             [
                 {
-                    "foodName": "string/ nombre del plato",
-                    "foodPrecio": "int/precio del plato"
+                    "foodName": "helado",
+                    "foodPrecio": 100
                 }
             ],
             "bebidas":
             [
                 {
-                    "foodName": "string/ nombre de la bebida",
-                    "foodPrecio": "int/precio del plato",
+                    "foodName": "Agua Natural",
+                    "foodPrecio": 180,
                     "alcoholica": false,
                     "importada": false
-                }
+                },
+                {
+                    "foodName": "Refresco importado",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jugo enlatado",
+                    "foodPrecio": 290,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta nacional",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta importada",
+                    "foodPrecio": 270,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza nacional",
+                    "foodPrecio": 320,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Importada",
+                    "foodPrecio": 260,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Corona",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malteada",
+                    "foodPrecio": 480,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Expreso",
+                    "foodPrecio": 150,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada nacional",
+                    "foodPrecio": 490,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada importada",
+                    "foodPrecio": 470,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Mihelada con corona",
+                    "foodPrecio": 690,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "sangria",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Habana club cuban spiced",
+                    "foodPrecio": 280,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Habana club 7 years",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tequila olmega",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Bellantines",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "J&B",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Red Label",
+                    "foodPrecio": 460,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Chivas Regal 12 years",
+                    "foodPrecio": 460,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Black Label",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Seleccion Maestro",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Botella de vino",
+                    "foodPrecio": 2200,
+                    "alcoholica": true,
+                    "importada": false
+                },
             ]
         }
     }
