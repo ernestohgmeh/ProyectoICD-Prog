@@ -11,7 +11,7 @@
         },
         "horarios": 
         {
-            "monday": "string/ horario de apertura o 'open' en caso de no tener horario",
+            "monday": "string/ horario de apertura en formato militar o 'open' en caso de no tener horario",
             "thuesday": "0900-1200",
             "wednesday": "",
             "thursday": "",
@@ -29,7 +29,7 @@
         {
             "tranfer": false,
             "delivery": false,
-            "parallevar": ["string/ los diferentes tipos de envase"],
+            "parallevar": false,
             "reservation": false,
             "tipoDeMoneda": ["string/ siglas de las monedas q acepta"],
             "parqueo": false,
@@ -50,7 +50,7 @@
         },
         "vestimenta": ["string/ tipo de ropa adecuada"],
         "estatal": false,
-        "tipoDeComida": ["string/ tipo de comida q ofrece"],
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
         "menu":
         {
             "entrantes":

@@ -29,7 +29,7 @@
     {
         "tranfer": false,
         "delivery": true,
-        "parallevar": ["Termopac"],
+        "parallevar": true,
         "reservation": true,
         "tipoDeMoneda": ["CUP"],
         "parqueo": true,
@@ -50,7 +50,7 @@
     },
     "vestimenta": ["casual"],
     "estatal": false,
-    "tipoDeComida": ["Criollo","Grill"],
+    "tipoDeComidaEspecializada": ["criollo","grill"],
     "menu":
     {
         "entrantes":
@@ -547,6 +547,228 @@
                 "foodPrecio": 1000,
                 "alcohol":true,
                 "importada":true
+            },
+            {
+                "foodName": "Blood Mary",
+                "foodPrecio": 550,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Caipirisima",
+                "foodPrecio": 550,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "caipirina",
+                "foodPrecio": 550,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Caipiroska",
+                "foodPrecio": 550,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Chelada",
+                "foodPrecio": 550,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Gintonic",
+                "foodPrecio": 550,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Ron collins",
+                "foodPrecio": 550,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Sangria",
+                "foodPrecio": 550,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Cubalibre",
+                "foodPrecio": 550,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Cubanito",
+                "foodPrecio": 550,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Cubata",
+                "foodPrecio": 550,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Limonada frape",
+                "foodPrecio": 450,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Limonada frecura",
+                "foodPrecio": 550,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Limonada natural",
+                "foodPrecio": 450,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Malteada",
+                "foodPrecio": 600,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Michelada",
+                "foodPrecio": 600,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Cafe americano",
+                "foodPrecio": 150,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Cafe bombom",
+                "foodPrecio": 350,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Cafe con leche",
+                "foodPrecio": 300,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Carajillo",
+                "foodPrecio": 350,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Cortadito",
+                "foodPrecio": 250,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Expreso",
+                "foodPrecio": 150,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Frapuchino",
+                "foodPrecio": 350,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Rocio Criollo",
+                "foodPrecio": 350,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Cristal Lata",
+                "foodPrecio": 300,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Cristal botella",
+                "foodPrecio": 300,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Corono botella",
+                "foodPrecio": 380,
+                "alcoholica": true,
+                "importada": true
+            },
+            {
+                "foodName": "Sol",
+                "foodPrecio": 350,
+                "alcoholica": true,
+                "importada": true
+            },
+            {
+                "foodName": "Bucanero Botella",
+                "foodPrecio": 300,
+                "alcoholica": true,
+                "importada": false
+            },
+            {
+                "foodName": "Tigon",
+                "foodPrecio": 300,
+                "alcoholica": false,
+                "importada": true
+            },
+            {
+                "foodName": "Malta Bucanero",
+                "foodPrecio": 300,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Pepsi",
+                "foodPrecio": 250,
+                "alcoholica": false,
+                "importada": true
+            },
+            {
+                "foodName": "7 Up",
+                "foodPrecio": 250,
+                "alcoholica": false,
+                "importada": true
+            },
+            {
+                "foodName": "Agua natural",
+                "foodPrecio": 180,
+                "alcoholica": false,
+                "importada": false
+            },
+            {
+                "foodName": "Red Bull",
+                "foodPrecio": 500,
+                "alcoholica": false,
+                "importada": true
+            },
+            {
+                "foodName": "Jugo de lata",
+                "foodPrecio": 250,
+                "alcoholica": false,
+                "importada": true
+            },
+            {
+                "foodName": "Jugo de caja",
+                "foodPrecio": 180,
+                "alcoholica": false,
+                "importada": true
             }
         ]
     }
