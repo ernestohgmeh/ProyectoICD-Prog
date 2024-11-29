@@ -45,7 +45,7 @@
             "altos": false,
             "ac": false,
             "entretenimiento": [],
-            "comentarios": ""
+            "comentarios": null
 
         },
         "vestimenta": ["casual"],
@@ -200,25 +200,25 @@
                     "foodName": "Camarones Grille",
                     "foodPrecio": 1250,
                     "description": null,
-                    "clasificacion": "crustaceos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Camarones enchilados",
                     "foodPrecio": 1350,
                     "description": null,
-                    "clasificacion": "crustaceos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Langosta Grille",
                     "foodPrecio": 1600,
                     "description": null,
-                    "clasificacion": "crustaceos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Langosta Enchilada",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasificacion": "crustaceos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Arroz frito",
@@ -421,7 +421,7 @@
                     "foodPrecio": 2200,
                     "alcoholica": true,
                     "importada": false
-                },
+                }
             ]
         }
     }

@@ -364,19 +364,19 @@
                     "foodName": "Langosta grille",
                     "foodPrecio": 4860,
                     "description": null,
-                    "clasificacion": "crustaceo"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Langosta Americana",
                     "foodPrecio": 4860,
                     "description": null,
-                    "clasificacion": "crustaceo"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Langosta al termidor",
                     "foodPrecio": 5000,
                     "description": null,
-                    "clasificacion": "crustaceo"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Cazuela de mariscos para 2",
@@ -640,37 +640,37 @@
                     "foodName": "Camaron grille",
                     "foodPrecio": 2520,
                     "description": null,
-                    "clasificacion": "crustaceo"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "camaron al ajillo",
                     "foodPrecio": 2570,
                     "description": null,
-                    "clasificacion": "crustaceo"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "camaron enchilado",
                     "foodPrecio": 2570,
                     "description": null,
-                    "clasificacion": "crustaceo"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Camaron empanado",
                     "foodPrecio": 3000,
                     "description": null,
-                    "clasificacion": "crustaceo"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Camaron Rebozado",
                     "foodPrecio": 3000,
                     "description": null,
-                    "clasificacion": "crustaceo"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Camaron tropical",
                     "foodPrecio": 3200,
                     "description": null,
-                    "clasificacion": "crustaceo"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Ensaladade estacion",

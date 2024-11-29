@@ -1,0 +1,534 @@
+{
+    "municipality": "Habana del Este",
+    "info":
+        {
+        "nameLocal": "La Ruta de Hemingway",
+        "location":
+        {
+            "address": "Calle Real % Victoria & Marcos",
+            "barrio": "Cojimar",
+            "GPS": null
+        },
+        "horarios": 
+        {
+            "monday": "1200-2300",
+            "thuesday": "1200-2300",
+            "wednesday": "1200-2300",
+            "thursday": "1200-2300",
+            "friday": "1200-2300",
+            "saturday": "1200-2300",
+            "sunday": "1200-2300"
+        },
+        "contactUs":
+        {
+            "phone": [50813470],
+            "web": "https://larutadehemingway.godaddysites.com/",
+            "social": ["https://www.instagram.com/la_ruta_de_hemingway/","https://www.facebook.com/profile.php?id=61551913808787"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": 10,
+            "alquiler": false,
+            "comentarios": null
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["music","artistas invitados"],
+            "comentarios": null
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["Mariscos"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Carpaccio de Res",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Carpaccio de Salmon",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Carpaccio de Pulpo",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Picadera Costa Azul",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Canoa de Aguacate",
+                    "foodPrecio": 1700
+                },
+                {
+                    "foodName": "Ceviche de Pescado",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Coctel de Camaron",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Coctel de Langosta",
+                    "foodPrecio": 1450
+                },
+                {
+                    "foodName": "Coctel de Pescado",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Ensalada de Atun",
+                    "foodPrecio": 1350
+                },
+                {
+                    "foodName": "El Tablazo de Hemingway",
+                    "foodPrecio": 4000
+                },
+                {
+                    "foodName": "Rollos de Jamon Serrano",
+                    "foodPrecio": 2700
+                },
+                {
+                    "foodName": "Chicharron de Pescado",
+                    "foodPrecio": 1650
+                },
+                {
+                    "foodName": "Croquetas de la Casa",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Islas en el Golfo",
+                    "foodPrecio": 2800
+                },
+                {
+                    "foodName": "Garbanzos Fritos",
+                    "foodPrecio": 2800
+                },
+                {
+                    "foodName": "Mariscada Tropical",
+                    "foodPrecio": 1800
+                },
+                {
+                    "foodName": "Eperlan de Pescado con salsa a su Gusto",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Tostones Rellenos",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "Tamal en Cazuela",
+                    "foodPrecio": 1850
+                },
+                {
+                    "foodName": "Fajitas de Pollo",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "Bolitas de Queso Enfangadas",
+                    "foodPrecio": 1450
+                },
+                {
+                    "foodName": "Baguette al Olivo",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Tamal Marinero",
+                    "foodPrecio": 2800
+                },
+                {
+                    "foodName": "Majua Frita",
+                    "foodPrecio": 600
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Ajiaco Cojimero al Estilo Hemingway",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "Sopas y Cremas"
+                },
+                {
+                    "foodName": "Consome Marinero",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "Sopas y Cremas"
+                },
+                {
+                    "foodName": "Consome de Pescado",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasificacion": "Sopas y Cremas"
+                },
+                {
+                    "foodName": "Filete de Atun Rojo Importado",
+                    "foodPrecio": "3500",
+                    "description": null,
+                    "clasificacion": "Carne Blanca"
+                },
+                {
+                    "foodName": "Filete de Pescado en Salsa de Limon",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "Carne Blanca"
+                },
+                {
+                    "foodName": "Filete Canciller",
+                    "foodPrecio": 2950,
+                    "description": null,
+                    "clasificacion": "Carne Blanca"
+                },
+                {
+                    "foodName": "Rueda de Pescado Frita de 1Kg",
+                    "foodPrecio": 3250,
+                    "description": null,
+                    "clasificacion": "Carne Blanca"
+                },
+                {
+                    "foodName": "Pescado Entero Frito",
+                    "foodPrecio": 3250,
+                    "description": null,
+                    "clasificacion": "Carne Blanca"
+                },
+                {
+                    "foodName": "Arpon Mar y Tierra",
+                    "foodPrecio": 3400,
+                    "description": "Brochetas del Mar (Pescado, Langosta, Pulpo) y La Tierra (Cerdo, Pollo, Res) al carbon",
+                    "clasificacion": "Carne Blanca, Carne Roja, Mariscos"
+                },
+                {
+                    "foodName": "Camaron Enchilado",
+                    "foodPrecio": 2900,
+                    "description": null,
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Filete de Pescado Mar Rojo",
+                    "foodPrecio": 2800,
+                    "description": "Filete de Pescado bañado con enchilada de Frutos del Mar (Pulpo, Camaron, Langosta y Masa de Pescado)",
+                    "clasificacion": "Carne Blanca, Mariscos"
+                },
+                {
+                    "foodName": "Camaron al Ajillo",
+                    "foodPrecio": 3100,
+                    "description": null,
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Camaron Empanado",
+                    "foodPrecio": 2950,
+                    "description": null,
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Pulpo al Ajillo",
+                    "foodPrecio": 3500,
+                    "description": null,
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Camaron al Estilo La Ruta",
+                    "foodPrecio": 3200,
+                    "description": "Camarones Enchilados con Frutos del Mar (Pulpo, Camaron, Langosta y Masa de Pescado",
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Pulpo al Estilo La Ruta",
+                    "foodPrecio": 4000,
+                    "description": "Lechos de Frutos del Mar (Pulpo, Camaron, Langosta y Masa de Pescado) montado con Pulpo al Carbon",
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Calamar Relleno",
+                    "foodPrecio": 4000,
+                    "description": null,
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Langosta Grille",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Langosta al Estilo la Ruta",
+                    "foodPrecio": 3350,
+                    "description": "Langosta Grille montada con Frutos del Mar (Pulpo, Camaron, Langosta y Masa de Pescado)",
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Langosta Termidor",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Langosta Cordon Bleu",
+                    "foodPrecio": 3250,
+                    "description": null,
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Enchilado de Cangrejo",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasificacion": "Marisco"
+                },
+                {
+                    "foodName": "Enchilado de Calamar perfumado con Brandy",
+                    "foodPrecio": 3500,
+                    "description": null,
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Papas & Mary",
+                    "foodPrecio": 4500,
+                    "description": "Una Combinacion e Carne de Res corte Picaña y una Cola de Langosta Enchilada",
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Cordero al Vino Tinto",
+                    "foodPrecio": 4000,
+                    "description": null,
+                    "clasificacion": "Carne Roja"
+                },
+                {
+                    "foodName": "Filete Mignon",
+                    "foodPrecio": 5200,
+                    "description": "Extremo del solomillo de Vacuno al Vino Tinto con Champiñones",
+                    "clasificacion": "Carne Roja"
+                },
+                {
+                    "foodName": "Media Picaña de Res",
+                    "foodPrecio": 5000,
+                    "description": null,
+                    "clasificacion": "Carne Roja"
+                },
+                {
+                    "foodName": "Suprema de Pollo",
+                    "foodPrecio": 2400,
+                    "description": null,
+                    "clasificacion": "Carne Blanca"
+                },
+                {
+                    "foodName": "Bistec Importado de Res",
+                    "foodPrecio": 4800,
+                    "description": null,
+                    "clasificacion": "Carne Roja"
+                },
+                {
+                    "foodName": "Picaña de Res",
+                    "foodPrecio": 10000,
+                    "description": null,
+                    "clasificacion": "Carne Roja"
+                },
+                {
+                    "foodName": "Chateaubriand",
+                    "foodPrecio": 7000,
+                    "description": "Elaboracion que se obtiene a partir del solomillo de ternera o vacuno, asado en una pieza",
+                    "clasificacion": "Carne Roja"
+                },
+                {
+                    "foodName": "Masas Fritas",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasificacion": "Carne Roja"
+                },
+                {
+                    "foodName": "Costillas de Cerdo",
+                    "foodPrecio": 6500,
+                    "description": null,
+                    "clasificacion": "Carne Roja"
+                },
+                {
+                    "foodName": "Picadillo a la Habanera",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasificacion": "Carne Roja"
+                },
+                {
+                    "foodName": "El Lechon Pescador",
+                    "foodPrecio": 3500,
+                    "description": "Plato a base de un enchilado de langosta con masas fritas, bacon y mayonesa de mariscos",
+                    "clasificacion": "Mariscos"
+                },
+                {
+                    "foodName": "Bistec de Cerdo Encebollado",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "Carne Roja"
+                },
+                {
+                    "foodName": "Fricase de Costillas de Cerdo",
+                    "foodPrecio": 6500,
+                    "description": null,
+                    "clasificacion": "Carne Roja"
+                },
+                {
+                    "foodName": "Paella Marinera al Estilo Hemingway",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasificacion": "Mixta"
+                },
+                {
+                    "foodName": "Arroz a la Campesina",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasificacion": "Mixta"
+                },
+                {
+                    "foodName": "Arros con Vegetales",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasificacion": "Guarnicion"
+                },
+                {
+                    "foodName": "Arroz Frito Chino de Ultramar",
+                    "foodPrecio": 2500,
+                    "description": "Camaron y Jamon",
+                    "clasificacion": "Mixta"
+                },
+                {
+                    "foodName": "Arroz Blanco",
+                    "foodPrecio": 400,
+                    "description": null,
+                    "clasificacion": "Guarnicion"
+                },
+                {
+                    "foodName": "Arroz Pilaf",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasificacion": "Guarnicion"
+                },
+                {
+                    "foodName": "Frijoles Negros",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasificacion": "Guarnicion"
+                },
+                {
+                    "foodName": "Vegetales Salteados",
+                    "foodPrecio": 400,
+                    "description": null,
+                    "clasificacion": "Guarnicion"
+                },
+                {
+                    "foodName": "Viandas Fritas",
+                    "foodPrecio": 450,
+                    "description": null,
+                    "clasificacion": "Guarnicion"
+                },
+                {
+                    "foodName": "Arroz Moro",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasificacion": "Guarnicion"
+                },
+                {
+                    "foodName": "Ensalada de Estacion",
+                    "foodPrecio": 450,
+                    "description": null,
+                    "clasificacion": "Ensalada"
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasificacion": "Guarnicion"
+                },
+                {
+                    "foodName": "Viandas al Mojo Criollo",
+                    "foodPrecio": 450,
+                    "description": null,
+                    "clasificacion": "Guarnicion"
+                },
+                {
+                    "foodName": "Pizza Hemingway",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "Horneado"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasificacion": "Horneado"
+                },
+                {
+                    "foodName": "Calzone La Costa",
+                    "foodPrecio": 2300,
+                    "description": "Atun, Cebolla, Aceituna, Queso Gouda, Queso Crema",
+                    "clasificacion": "Horneado"
+                },
+                {
+                    "foodName": "Pizza Hawaiana Marina",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasificacion": "Horneado"
+                },
+                {
+                    "foodName": "Don Gregorio",
+                    "foodPrecio": 1800,
+                    "description": "Pizza de Atun, Cebolla y Aceituna",
+                    "clasificacion": "Horneado"
+                },
+                {
+                    "foodName": "Calzone El Pilar",
+                    "foodPrecio": 2200,
+                    "description": "Camarones, Queso Gouda, Queso Crema",
+                    "clasificacion": "Horneado"
+                },
+                {
+                    "foodName": "Calzone Popeye",
+                    "foodPrecio": 2300,
+                    "description": "Con Frutos del Mar (Camaron, Langosta, Pescado, Pulpo Baby, Atun)",
+                    "clasificacion": "Horneado"
+                },
+                {
+                    "foodName": "Spaguettis Napolitano",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasificacion": "Pastas"
+                },
+                {
+                    "foodName": "Spaguettis Frutos del Mar",
+                    "foodPrecio": 2000,
+                    "description": "Camaron, Langosta, Pescado y Pulpo Baby",
+                    "clasificacion": "Pastas"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Postre del Dia",
+                    "foodPrecio": 850
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "string/ nombre de la bebida",
+                    "foodPrecio": "int/precio del plato",
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}
