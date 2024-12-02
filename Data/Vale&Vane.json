@@ -1,0 +1,221 @@
+{
+    "municipality": "Guanabacoa",
+    "info":
+        {
+        "nameLocal": "Vale&Vane",
+        "location":
+        {
+            "address": "Santa Marta % Corrales & Aparicion",
+            "barrio": "",
+            "GPS": null
+        },
+        "horarios": 
+        {
+            "monday": "closed",
+            "thuesday": "0900-2100",
+            "wednesday": "0900-2100",
+            "thursday": "0900-2100",
+            "friday": "0900-2100",
+            "saturday": "0900-2100",
+            "sunday": "0900-2100"
+        },
+        "contactUs":
+        {
+            "phone": [77947261],
+            "web": null,
+            "social": ["https://www.facebook.com/profile.php?id=100063975733161&ref=page_internal"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": false,
+            "parallevar": true,
+            "reservation": null,
+            "tipoDeMoneda": ["CuP"],
+            "parqueo": false,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": true,
+            "entretenimiento": ["music"],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Chuleta de cerdo",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec de cerdo grille",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Masa de cerdo frita",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec de cerdo encebollado",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Costilla de cerdo ",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Lomo ahumado",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Uruguayo de cerdo",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec de cerdo princesa",
+                    "foodPrecio": 1720,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Vaca frita",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Ropa vieja de res",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Pollo frito",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Suprema Grille (Pollo)",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Bistec de pollo princesa",
+                    "foodPrecio": 1920,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Suprema Encebollado (Pollo)",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de Pescado Grille",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Camaron Grille",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasificacion": "marisco"
+                },
+                {
+                    "foodName": "Enchilado de camaron",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasificacion": "marisco"
+                },
+                {
+                    "foodName": "Mar y Tierra",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "mixto"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Napolitana Plus",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Familiar",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Espagueti Napolitano",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasificacion": "pasta"
+                },
+                {
+                    "foodName": "espagueti con Jamon",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasificacion": "pasta"
+                },
+                {
+                    "foodName": "Espagueti con chorizo",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasificacion": "pasta"
+                },
+                {
+                    "foodName": "Espagueti doble queso",
+                    "foodPrecio": 920,
+                    "description": null,
+                    "clasificacion": "pasta"
+                }
+            ],
+            "postre":
+            [
+                {}
+            ],
+            "bebidas":
+            [
+                {}
+            ]
+        }
+    }
+}

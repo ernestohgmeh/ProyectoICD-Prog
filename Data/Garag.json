@@ -1,0 +1,398 @@
+{
+    "municipality": "San Miguel del Padron",
+    "info":
+        {
+        "nameLocal": "Garag",
+        "location":
+        {
+            "address": "Calzada de Guanabacoa % B & C",
+            "barrio": "Virgen del Camino",
+            "GPS": null
+        },
+        "horarios": 
+        {
+            "monday": "",
+            "thuesday": "0900-1200",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": null,
+            "social": ["https://www.facebook.com/p/GARAG-Bar-Restaurante-100064683952235/","https://www.instagram.com/garag.bar.restaurante/"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": true,
+            "entretenimiento": ["music","show humoristicos","musica en vivo"],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual elegante"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [""],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Picadera Garag",
+                    "foodPrecio": 2955
+                },
+                {
+                    "foodName": "Toston Alfredo",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Eperlan",
+                    "foodPrecio": 1650
+                },
+                {
+                    "foodName": "Fajitas de pollo",
+                    "foodPrecio": 1225
+                },
+                {
+                    "foodName": "Fajitas de cerdo",
+                    "foodPrecio": 1550
+                },
+                {
+                    "foodName": "Croquetas de Mima",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Ceviche",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Tabla de Gamon Serrano",
+                    "foodPrecio": 1800
+                },
+                {
+                    "foodName": "Tacos de carnita",
+                    "foodPrecio": 1205
+                },
+                {
+                    "foodName": "Tacos marineros",
+                    "foodPrecio": 1295
+                },
+                {
+                    "foodName": "Ensalada fria de gamon/queso",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Ensalada fria de atun",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Coctel de camarones",
+                    "foodPrecio": 1250
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pasta Napoles",
+                    "foodPrecio": 930,
+                    "description": null,
+                    "clasificacion": "pasta"
+                },
+                {
+                    "foodName": "Pasta Carbonara",
+                    "foodPrecio": 1375,
+                    "description": null,
+                    "clasificacion": "pasta"
+                },
+                {
+                    "foodName": "Macarrons extraquemosos al Garag",
+                    "foodPrecio": 1375,
+                    "description": null,
+                    "clasificacion": "pasta"
+                },
+                {
+                    "foodName": "Lazaña de gamon",
+                    "foodPrecio": 1375,
+                    "description": null,
+                    "clasificacion": "pasta"
+                },
+                {
+                    "foodName": "Lazaña Boloñesa",
+                    "foodPrecio": 1375,
+                    "description": null,
+                    "clasificacion": "pasta"
+                },
+                {
+                    "foodName": "Pizza Napoles",
+                    "foodPrecio": 930,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Lokka",
+                    "foodPrecio": 1445,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza AntiHawaiana",
+                    "foodPrecio": 1555,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza lechoncita",
+                    "foodPrecio": 1595,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza tio de carne",
+                    "foodPrecio": 1655,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Cinco quesos",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Filete Grille de pescado",
+                    "foodPrecio": 1920,
+                    "description": null,
+                    "clasificacion": "Carne blanca"
+                },
+                {
+                    "foodName": "Filete de pecado empanado",
+                    "foodPrecio": 1980,
+                    "description": null,
+                    "clasificacion": "Carne blanca"
+                },
+                {
+                    "foodName": "Filete de pescado garag",
+                    "foodPrecio": 2225,
+                    "description": null,
+                    "clasificacion": "Carne blanca"
+                },
+                {
+                    "foodName": "Canciller",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasificacion": "Carne blanca"
+                },
+                {
+                    "foodName": "Filete de pescado Alfredo",
+                    "foodPrecio": 2195,
+                    "description": null,
+                    "clasificacion": "Carne blanca"
+                },
+                {
+                    "foodName": "Masa de pescado al ajillo",
+                    "foodPrecio": 1920,
+                    "description": null,
+                    "clasificacion": "Carne blanca"
+                },
+                {
+                    "foodName": "Bistec Grille de Pollo",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasificacion": "Carne blanca"
+                },
+                {
+                    "foodName": "Empanado de pollo",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasificacion": "Carne blanca"
+                },
+                {
+                    "foodName": "Cordon Blue de pollo",
+                    "foodPrecio": 1925,
+                    "description": null,
+                    "clasificacion": "Carne blanca"
+                },
+                {
+                    "foodName": "Bistec encebollado de cerdo",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasificacion": "Carne roja"
+                },
+                {
+                    "foodName": "Cerdo grille",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasificacion": "Carne roja"
+                },
+                {
+                    "foodName": "Cerdo empanado",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasificacion": "Carne roja"
+                },
+                {
+                    "foodName": "Uruguayo de cerdo",
+                    "foodPrecio": 1955,
+                    "description": null,
+                    "clasificacion": "Carne roja"
+                },
+                {
+                    "foodName": "Masa de cerdo frita",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "Carne roja"
+                },
+                {
+                    "foodName": "Cerdo Asado",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasificacion": "Carne roja"
+                },
+                {
+                    "foodName": "Aporrado de res",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasificacion": "Carne roja"
+                },
+                {
+                    "foodName": "Ropa vieja",
+                    "foodPrecio": 1930,
+                    "description": null,
+                    "clasificacion": "Carne roja"
+                },
+                {
+                    "foodName": "Camaron al ajillo",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasificacion": "marisco"
+                },
+                {
+                    "foodName": "Camaron grille",
+                    "foodPrecio": 2105,
+                    "description": null,
+                    "clasificacion": "marisco"
+                },
+                {
+                    "foodName": "Camaron empanado",
+                    "foodPrecio": 2290,
+                    "description": null,
+                    "clasificacion": "marisco"
+                },
+                {
+                    "foodName": "Cazuela de mariscos",
+                    "foodPrecio": 2850,
+                    "description": null,
+                    "clasificacion": "marisco"
+                },
+                {
+                    "foodName": "Mariposa (Langosta)",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasificacion": "marisco"
+                },
+                {
+                    "foodName": "Langosta al ajillo",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "marisco"
+                },
+                {
+                    "foodName": "Enchilado de langosta",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "marisco"
+                },
+                {
+                    "foodName": "Ensalada de estacion",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasificacion": "Ensalada"
+                },
+                {
+                    "foodName": "Vegetales salteados",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasificacion": "Ensalada"
+                },
+                {
+                    "foodName": "Paella Marinera",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasificacion": "marisco"
+                },
+                {
+                    "foodName": "Paella Mar y Tierra",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "mixto"
+                },
+                {
+                    "foodName": "Arroz frito especial",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasificacion": "guarnicion"
+                },
+                {
+                    "foodName": "Arroz frito",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasificacion": "guarnicion"
+                },
+                {
+                    "foodName": "Arroz español",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasificacion": "guarnicion"
+                },
+                {
+                    "foodName": "Arroz negro con pulpo en su tinta",
+                    "foodPrecio": 2225,
+                    "description": null,
+                    "clasificacion": "mixto"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Copa de Helado",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Copa lolita",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Copa de Helado",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Kake a la moda",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Batido de helado",
+                    "foodPrecio": 750
+                }
+            ],
+            "bebidas":[]
+        }
+    }
+}

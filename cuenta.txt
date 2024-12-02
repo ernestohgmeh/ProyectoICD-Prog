@@ -1,8 +1,49 @@
-Boyeros:
-1-El pinareno(coordenadas)
+Notas:
+nombre
+photo(metadatos)
+menu(photos)
+municipio
+ofertas
 
-Habana del Este:
-1-Al campestre
-2-Ernest's Place
-3-D'Maximo Sabor
-4-La ruta de Hemingway
+
+1+Boyeros:
+1-El pinareno(coordenadas)(restaurant)
+
+15+Habana del Este:
+
+1-Al campestre(restaurant)
+2-Ernest's Place(restaurant)
+3-D'Maximo Sabor(restaurant)
+4-La ruta de Hemingway(restaurant)
+
+
+2+Guanabacoa:
+
+1-Vale&Vane(restaurant)
+2-Finca Vista Hermosa(restaurant)
+
+3+San Miguel del Padron:
+
+1-Garage(restaurant)
+
+4+Cerro:
+
+5+10/10:
+
+6+Plaza:
+
+7+Playa:
+
+8+Regla:
+
+9+La lisa:
+
+10+Arroyo:
+
+11+Centro Habana:
+
+12+Habana Vieja:
+
+13+Marianao
+
+14+Cotorro

@@ -1,0 +1,282 @@
+{
+    "municipality": "Guanabacoa",
+    "info":
+        {
+        "nameLocal": "Finca Vista Hermosa",
+        "location":
+        {
+            "address": "Camino la Esperanza",
+            "barrio": "Bacuranao",
+            "GPS": null
+        },
+        "horarios": 
+        {
+            "monday": "closed",
+            "thuesday": "closed",
+            "wednesday": "closed",
+            "thursday": "closed",
+            "friday": "1000-1900",
+            "saturday": "1000-1900",
+            "sunday": "1000-1900"
+        },
+        "contactUs":
+        {
+            "phone": [51945171],
+            "web": null,
+            "social": ["https://www.facebook.com/finca.vistahermosahavana/?locale=es_LA","https://www.instagram.com/finca.vistahermosahavana/?hl=es"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": true,
+            "porCiento": null,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["music"],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["Criolla"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Cesta de Pan",
+                    "foodPrecio": 320
+                },
+                {
+                    "foodName": "Focaccia con crema",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Croquetas de carne y queso",
+                    "foodPrecio": 340
+                },
+                {
+                    "foodName": "Empanada de carne y queso",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Queso de la casa",
+                    "foodPrecio": 630
+                },
+                {
+                    "foodName": "Chatino de platano burro con ropa vieja",
+                    "foodPrecio": 470
+                },
+                {
+                    "foodName": "Fritura de yuca con miel",
+                    "foodPrecio": 160
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Lonjas de cerdo",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Vaca frita en lonjas",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Ropa vieja de res",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Stogonof de chef",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Lazaña boloñesa",
+                    "foodPrecio": 890,
+                    "description": null,
+                    "clasificacion": "pastas"
+                },
+                {
+                    "foodName": "Fricase de res",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Conejo estofado",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                },
+                {
+                    "foodName": "Chilindron de chivo",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec en casuela",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec de higado de res",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Punta de filete a la juliana",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Entrecott de res (BBQ)",
+                    "foodPrecio": 1760,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Costilla de res(BBQ)",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Chuleta de cerdo(BBQ)",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Costilla de cerdo(BBQ)",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasificacion": "carne roja"
+                },
+                {
+                    "foodName": "Pizza Vista Hermosa",
+                    "foodPrecio": 740,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de queso",
+                    "foodPrecio": 580,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza calzone",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza 4 estaciones",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasificacion": "horneado"
+                },
+                {
+                    "foodName": "Ensalada mixta",
+                    "foodPrecio": 110,
+                    "description": null,
+                    "clasificacion": "ensalada"
+                },
+                {
+                    "foodName": "Ensalada de la casa",
+                    "foodPrecio": 210,
+                    "description": null,
+                    "clasificacion": "Ensalada"
+                },
+                {
+                    "foodName": "Arroz blanco",
+                    "foodPrecio": 110,
+                    "description": null,
+                    "clasificacion": "guarniciones"
+                },
+                {
+                    "foodName": "Arroz moro",
+                    "foodPrecio": 130,
+                    "description": null,
+                    "clasificacion": "guarniciones"
+                },
+                {
+                    "foodName": "Frijol negro",
+                    "foodPrecio": 110,
+                    "description": null,
+                    "clasificacion": "sopas y cremas"
+                },
+                {
+                    "foodName": "Vianda cosida",
+                    "foodPrecio": 260,
+                    "description": null,
+                    "clasificacion": "guarniciones"
+                },
+                {
+                    "foodName": "",
+                    "foodPrecio": ,
+                    "description": null,
+                    "clasificacion": ""
+                },
+                {
+                    "foodName": "Vianda frita",
+                    "foodPrecio": 260,
+                    "description": null,
+                    "clasificacion": "guarniciones"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Dulce de leche",
+                    "foodPrecio": 210
+                },
+                {
+                    "foodName": "Mermelada de guayaba",
+                    "foodPrecio": 190
+                },
+                {
+                    "foodName": "Cheesecake de guayaba",
+                    "foodPrecio": 260
+                },
+                {
+                    "foodName": "Casquito guayaba con queso",
+                    "foodPrecio": 190
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "string/ nombre de la bebida",
+                    "foodPrecio": "int/precio del plato",
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}

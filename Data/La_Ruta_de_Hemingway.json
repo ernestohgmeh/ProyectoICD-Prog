@@ -523,8 +523,122 @@
             "bebidas":
             [
                 {
-                    "foodName": "string/ nombre de la bebida",
-                    "foodPrecio": "int/precio del plato",
+                    "foodName": "Agua Natural Nacional",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Gaseada Nacional",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Afua natural importada",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Agua naturla importada 1L",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Agua natural nacional 1.5L",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batido de helado",
+                    "foodPrecio": 800,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batido de fruta",
+                    "foodPrecio": 800,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Botella de vino",
+                    "foodPrecio": 6000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Nacional",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza importada",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cubetazo de Heiniken",
+                    "foodPrecio": 2500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Energetico Monster",
+                    "foodPrecio": 1500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Energetioi",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },       
+                {
+                    "foodName": "Kermato",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Frape",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "limonada frescura",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Redbull",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco importado",
+                    "foodPrecio": 499,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco Nacional",
+                    "foodPrecio": 300,
                     "alcoholica": false,
                     "importada": false
                 }
