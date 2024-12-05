@@ -1,0 +1,360 @@
+{
+    "municipality": "Habana del Este",
+    "info":
+        {
+        "nameLocal": "Aires de Cojimar",
+        "location":
+        {
+            "address": "Pezuela % La Rua & Espartero",
+            "barrio": "Cojimar",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1200-2300",
+            "thuesday": "1200-2300",
+            "wednesday": "1200-2300",
+            "thursday": "1200-2300",
+            "friday": "1200-2300",
+            "saturday": "1200-2300",
+            "sunday": "1200-2300"
+        },
+        "contactUs":
+        {
+            "phone": [77666890],
+            "web": "",
+            "social": ["https://www.instagram.com/aires_decojimar/","https://www.facebook.com/groups/750679669616425/"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": true,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["Casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Coctel 'Bella Mar'",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Ceviche 'Aires de Cojimar'",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Lomo de Pescado en Escabeche",
+                    "foodPrecio": 1250
+                },
+                {
+                    "foodName": "Bolitas de Queso",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Eperlan",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "Frituras de Malanga",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Tapas Caprichosas",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Surtido de Croquetas",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Tostones al Ajo",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Coctel de Ostiones",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Coctel de Pescado",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Picadera Mixta",
+                    "foodPrecio": 1350
+                },
+                {
+                    "foodName": "Bastones de Pollo",
+                    "foodPrecio": 1100
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Cascada Imperial",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Ensalada Mixta de Vegetales",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "ensalada"
+                },
+                {
+                    "foodName": "Chilindron de Cordero",
+                    "foodPrecio": 2850,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Estofado de Cordero",
+                    "foodPrecio": 2850,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Uruguayo",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Pulpo al Ajillo",
+                    "foodPrecio": 3750,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Pulpo al Vino Tinto",
+                    "foodPrecio": 3750,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Milanesa Napolitana",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Langosta Grille",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Escalope de Cerdo",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Rollitos de Pollo",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Langosta Varadero",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Langosta Busito",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Langosta Aires de Cojimar",
+                    "foodPrecio": 6500,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Sopon de Mariscos",
+                    "foodPrecio": 750,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Sopa de Pollo y Vegetales",
+                    "foodPrecio": 550,
+                    "description": null,
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Crema de Calabaza y Queso",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "sopa y cremas"
+                },
+                {
+                    "foodName": "Crema de Queso",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "sopa y cremas"
+                },
+                {
+                    "foodName": "Crema de Mariscos",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasficacion": "sopa y cremas"
+                },
+                {
+                    "foodName": "Filete de Pescado Grille",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de Pescado en Salsa de Romero y Limon",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de Pescado con Camarones al Graten",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de Pescado Canciller",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Camarones Tropicales",
+                    "foodPrecio": 2100,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Enchilado de Camarones",
+                    "foodPrecio": 2100,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Camarones al Sesamo",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Caldereta Doña Blanca",
+                    "foodPrecio": 5500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Parrillada Marinera",
+                    "foodPrecio": 5500,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Pizza Napolitana Queso Blanco",
+                    "foodPrecio": 575,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Napolitana Queso Gouda",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Dados de Cerdo a la Cojimera",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec de Cerdo al Mojo Criollo",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Pollo con Camarones al Graten",
+                    "foodPrecio": 1550,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pollo Hawaiano",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Sabor del Cielo",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Paella Especial 'Aires de Cojimar'",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Arroz Negro Marinero",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Arroz Campesino al Graten",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "mixto"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "string/ nombre del plato",
+                    "foodPrecio": "int/precio del plato"
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "string/ nombre de la bebida",
+                    "foodPrecio": "int/precio del plato",
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}

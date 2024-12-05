@@ -1,0 +1,606 @@
+{
+    "municipality": "Boyeros",
+    "info":
+        {
+        "nameLocal": "Cafe Tilin",
+        "location":
+        {
+            "address": "Avenida Independencia Km 9 1/2",
+            "barrio": "Fontanar",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1100-2200",
+            "thuesday": "1100-2200",
+            "wednesday": "1100-2200",
+            "thursday": "1100-2200",
+            "friday": "1100-2200",
+            "saturday": "1100-2200",
+            "sunday": "1100-2200"
+        },
+        "contactUs":
+        {
+            "phone": [53857447],
+            "web": "",
+            "social": ["https://www.instagram.com/cafe_tilin_fontanar/","https://www.facebook.com/p/Caf%C3%A9-Til%C3%ADn-Fontanar-100091993113611/?_rdr"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": true,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": true,
+            "altos": true,
+            "ac": true,
+            "entretenimiento": ["music","eventos especiales","artistas invitados"],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["Casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Croquetas de la Casa",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Tostones Rellenos de Jamon y Queso",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Tostones Rellenos de Atun",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Tostones Rellenos de Ropa Vieja",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Frituras de Malanga",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Fajitas de Pollo",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Fajitas de Cerdo",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Picadera Tilin",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Hamburguesa Clasica",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "Hamburguesa Bar",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Hamburguesa Mexicana",
+                    "foodPrecio": 1750
+                },
+                {
+                    "foodName": "Hamburguesa Tilin",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Combo Americano",
+                    "foodPrecio": 1750
+                },
+                {
+                    "foodName": "Hamburguesa La Cubana",
+                    "foodPrecio": 1800
+                },
+                {
+                    "foodName": "Hamburguesa Super Clasica",
+                    "foodPrecio": 1750
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Bistec de Cerdo Encebollado",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec de Cerdo Grille",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Masas de Cerdo",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Escalope de Cerdo",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Ropa Vieja de Cerdo",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Arroz Frito",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Suprema de Pollo",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Fajitas de Pollo Salteadas con Vegetales",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pollo Frito",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Brochetas Mixtas al Carbon",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "mixta"
+                },
+                {
+                    "foodName": "Cordon Bleu",
+                    "foodPrecio": 3050,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Bistec Uruguayo",
+                    "foodPrecio": 3250,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Milanesa a la Napolitana",
+                    "foodPrecio": 3300,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Arroz Moro",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Arroz Blanco",
+                    "foodPrecio": 250,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Crema de Malanga",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "sopas y cremas"
+                },
+                {
+                    "foodName": "Ensalada Mixta",
+                    "foodPrecio": 750,
+                    "description": null,
+                    "clasficacion": "ensalada"
+                },
+                {
+                    "foodName": "Viandas Fritas",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 750,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Spaghetti Napolitano",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaghetti de Jamon",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Chorizo",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Atun",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Hawaiana",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Tilin",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Jamon",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Cebolla",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Napolitana de 21cm",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "horneado"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Postre del Dia",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Tarta Helada",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Flan de Caramelo",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Copa de Helado",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Copa Lolita",
+                    "foodPrecio": 650
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cafe Expresso",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Americano",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Cortado",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Cappuccino",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Frapuchino",
+                    "foodPrecio": 750,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Tilin",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Tolon",
+                    "foodPrecio": 750,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo de Frutas",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Suero de Helado",
+                    "foodPrecio": 850,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Natural Nacional",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Natural Importada",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco Importado",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta Importada",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Nacional",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña Colada",
+                    "foodPrecio": 950,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Frappe",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubanito",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito de Fruta",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daiquiri",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daiquiri de Fruta",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiriña",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiroska",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipirisima",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Bloody Mary",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Screwdriver",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubalibre",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangria",
+                    "foodPrecio": 850,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tequila",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Margarita",
+                    "foodPrecio": 1250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "San Francisco",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Blue Lagon",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Coctel de La Casa \"Un Tilin\"",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Copa de Vino Frontera",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Copa de Vino Casillero del Diablo",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Linea Chanceler",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Linea Jaggermeister",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Linea Red Label",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Linea Ballentines Finest",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Linea Ballentines 10 Años",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Linea Chivas Regal 12 Años",
+                    "foodPrecio": 1800,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Linea Jack Daniels",
+                    "foodPrecio": 2500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Botella de Vino Frontera",
+                    "foodPrecio": 4500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Botella de Vino Casillero del Diablo",
+                    "foodPrecio": 8000,
+                    "alcoholica": true,
+                    "importada": true
+                }
+            ]            
+        }
+    }
+}

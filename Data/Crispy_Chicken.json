@@ -1,0 +1,153 @@
+{
+    "municipality": "10 de Octubre",
+    "info":
+        {
+        "nameLocal": "Crispy Chicken",
+        "location":
+        {
+            "address": "Ave. Acosta & Juan Delgado",
+            "barrio": "Monaco",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1100-2300",
+            "thuesday": "1100-2300",
+            "wednesday": "1100-2300",
+            "thursday": "1100-2300",
+            "friday": "1100-2300",
+            "saturday": "1100-2300",
+            "sunday": "1100-2300"
+        },
+        "contactUs":
+        {
+            "phone": [63182745],
+            "web": "",
+            "social": ["https://www.facebook.com/crispychickenmonaco","https://www.instagram.com/crispy.chicken.monaco/"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": "FALTA REVISAR TODO ESTE CAMPO"
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["Comida Rapida"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Sandwich de Pollo",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Mini Hot Dogs",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Tostones Rellenos de Jamon y Queso",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Entreme de Jamon, Queso y Aceitunas",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Picadera de la Casa",
+                    "foodPrecio": 3000
+                },
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 1000
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pollo Frito",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pollo Chiflado con Hueso",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pollo Chiflado Sin Hueso",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pollo Frito Relleno de Jamon y Queso",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Chips de Boniato",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "gaurniciones"
+                },
+                {
+                    "foodName": "Boniatos Fritos",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "gaurniciones"
+                }
+            ],
+            "postre":
+            [],
+            "bebidas":
+            [
+                {
+                    "foodName": "Malteada",
+                    "foodPrecio": 900,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubetazo de Cervezas",
+                    "foodPrecio": 2400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubetazo de Cerveza Cristal",
+                    "foodPrecio": 3100,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubetazo de Cerveza Bucanero",
+                    "foodPrecio": 2900,
+                    "alcoholica": true,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

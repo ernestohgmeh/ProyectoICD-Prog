@@ -1,0 +1,196 @@
+{
+    "municipality": "Plaza de la Revolucion",
+    "info":
+        {
+        "nameLocal": "Sushi Master",
+        "location":
+        {
+            "address": "Calle 40 #157 % 36 & Avenida DB9rZPePoRO",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "cosed",
+            "thuesday": "1500-2100",
+            "wednesday": "1500-2100",
+            "thursday": "1500-2100",
+            "friday": "1500-2100",
+            "saturday": "1500-2100",
+            "sunday": "1500-2100"
+        },
+        "contactUs":
+        {
+            "phone": [78811681,50359335],
+            "web": "",
+            "social": ["https://www.instagram.com/sushimaster82hab/","https://www.facebook.com/profile.php?id=100085896797843"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["Asiatica"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Ceviche",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Tartar de Pescado",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Maripositas Chinas",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Gyoza de Pollo",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Crab Cakes",
+                    "foodPrecio": 885
+                },
+                {
+                    "foodName": "Gyoza de Camarones",
+                    "foodPrecio": 975
+                },
+                {
+                    "foodName": "Gyoza Mixta",
+                    "foodPrecio": 1050
+                },
+                {
+                    "foodName": "Pescado en Tempura",
+                    "foodPrecio": 1150
+                },
+                {
+                    "foodName": "Oro Maki Sushi",
+                    "foodPrecio": 1150
+                },
+                {
+                    "foodName": "Niguiri Master",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Dragon Master",
+                    "foodPrecio": 1050
+                },
+                {
+                    "foodName": "Cubanito",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Kumamoto",
+                    "foodPrecio": 1025
+                },
+                {
+                    "foodName": "Kani Sushi",
+                    "foodPrecio": 975
+                },
+                {
+                    "foodName": "JB",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Fuji Sushi",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Sashimi",
+                    "foodPrecio": 950
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Chow Mein Master",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Arroz Frito con Camarones",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": "mariscos"
+                },
+                {
+                    "foodName": "Chow Mein de Camarones",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasficacion": "mariscos"
+                },
+                {
+                    "foodName": "Arroz Frito con Pollo",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Arroz Frito Master",
+                    "foodPrecio": 2050,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Chow Mein de Pollo",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de Pescado",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pollo Agridulce",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cerveza Impotada",
+                    "foodPrecio": 220,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco de Cola",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}

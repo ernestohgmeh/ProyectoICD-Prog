@@ -237,12 +237,6 @@
                     "clasificacion": "guarniciones"
                 },
                 {
-                    "foodName": "",
-                    "foodPrecio": ,
-                    "description": null,
-                    "clasificacion": ""
-                },
-                {
                     "foodName": "Vianda frita",
                     "foodPrecio": 260,
                     "description": null,
@@ -271,12 +265,120 @@
             "bebidas":
             [
                 {
-                    "foodName": "string/ nombre de la bebida",
-                    "foodPrecio": "int/precio del plato",
+                    "foodName": "Cerveza Nacional Botella",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Natural 500ml",
+                    "foodPrecio": 180,
                     "alcoholica": false,
                     "importada": false
+                },
+                {
+                    "foodName": "Refresco",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta Perla Negra",
+                    "foodPrecio": 260,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco 1.5L",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo Natural",
+                    "foodPrecio": 100,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo de Caja",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Sangria Campestre",
+                    "foodPrecio": 430,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada Cabrona",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Calimocho",
+                    "foodPrecio": 430,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cuba Libre",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubata",
+                    "foodPrecio": 370,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cuban Old Fashion",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Guarabana",
+                    "foodPrecio": 340,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Gin Tonic",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito Vista Hermosa",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Vodkatón",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
                 }
-            ]
+            ]            
         }
     }
 }

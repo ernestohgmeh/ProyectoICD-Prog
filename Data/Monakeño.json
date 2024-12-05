@@ -1,0 +1,754 @@
+{
+    "municipality": "10 de Octubre",
+    "info":
+        {
+        "nameLocal": "Monakeño",
+        "location":
+        {
+            "address": "Avenida Acosta & Mayia Rodriguez",
+            "barrio": "Monaco",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1200-2359",
+            "thuesday": "1200-2359",
+            "wednesday": "1200-2359",
+            "thursday": "1200-2359",
+            "friday": "1200-0200",
+            "saturday": "1200-0200",
+            "sunday": "1200-0200"
+        },
+        "contactUs":
+        {
+            "phone": [63444454],
+            "web": "",
+            "social": ["https://www.instagram.com/el_monakeno/","https://www.facebook.com/monakeno.2024/"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": 10,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": true,
+            "ac": false,
+            "entretenimiento": ["music","pared comica"],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Sandwich Cubano",
+                    "foodPrecio": 2100
+                },
+                {
+                    "foodName": "Hamburguesa de Res",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Sandwich de Atun",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Sandwich de Jamon y Queso",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Hamburguesa Monakeño",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Croquetas de Pollo, Jamon o Bacon",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Bolitas de Queso",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Queso Frito",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Brusqueta",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Fajitas de Pollo",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Tapa Monakeño",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Picadera Monakeño",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Picadera Super Monakeño",
+                    "foodPrecio": 5000
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Ensalada de Atun y Vegetale",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Ensalada Italiana",
+                    "foodPrecio": 2300,
+                    "description": "Vegetales, Aceitunas, Jamon Serrano y Queso",
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Ensalada Monakeño",
+                    "foodPrecio": 1200,
+                    "description": "Vegetales, Frutos Secos, Uvas Pasas",
+                    "clasficacion": "ensalada"
+                },
+                {
+                    "foodName": "Langosta",
+                    "foodPrecio": 3500,
+                    "description": "Enchilada, Grille o Al Ajillo",
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Arroz Pilaf",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Solomillo de Res",
+                    "foodPrecio": 5500,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Carpaccio de Res",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Ropa Vieja de Res",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Vaca Frita",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Pechuga de Pollo Grille",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Milanesa Monakeño",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Chuleta de Cerdo",
+                    "foodPrecio": 2400,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Camaron al Gusto",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Arroz Blanco",
+                    "foodPrecio": 250,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Vegetales Salteados",
+                    "foodPrecio": 250,
+                    "description": null,
+                    "clasficacion": "ensalada"
+                },
+                {
+                    "foodName": "Pure de Boniato",
+                    "foodPrecio": 200,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Pasta Napolitana",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pasta Carbonara",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pasta Alfredo",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pasta Amatriciana",
+                    "foodPrecio": 2400,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pasta 4 Quesos",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pasta de Vegetales",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pasta al Pesto",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pasta Boloñesa",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pizza de Nutella",
+                    "foodPrecio": 1050,
+                    "description": null,
+                    "clasficacion": "horneados"
+                },
+                {
+                    "foodName": "Pizza Bolo de Jamon",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "horneados"
+                },
+                {
+                    "foodName": "Pizza Bolo de Camarones",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasficacion": "horneados"
+                },
+                {
+                    "foodName": "Pizza Margarita",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasficacion": "horneados"
+                },
+                {
+                    "foodName": "Pizza Monakeño",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": "horneados"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasficacion": "horneados"
+                },
+                {
+                    "foodName": "Pizza de Atun",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": "horneados"
+                },
+                {
+                    "foodName": "Pizza de Jamon",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "horneados"
+                },
+                {
+                    "foodName": "Pizza Hawaiana",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "horneados"
+                },
+                {
+                    "foodName": "Pizza Panna",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasficacion": "horneados"
+                },
+                {
+                    "foodName": "Pizza Prosciutto",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasficacion": "horneados"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Tarta Flan",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Cheesecake",
+                    "foodPrecio": 1125
+                },
+                {
+                    "foodName": "Helados",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Flan Casero",
+                    "foodPrecio": 650
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cafe Expreso",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Cortado",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Frapuchino",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Bombon",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Clericot",
+                    "foodPrecio": 950,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Screwdriver",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Screwdriver Absolut",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Collins",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Margarita",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangria",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daiquiri",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cuba Libre",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña Colada",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cahipiriña",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cahipiroska",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cahipirissima",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Happy Monakeño",
+                    "foodPrecio": 1250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Servicio de Michelada",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Servicio de Chelada",
+                    "foodPrecio": 150,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Red Bull",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cubetazo Cerveza Cristal",
+                    "foodPrecio": 1800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta Bucanero",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Corona",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Sol",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Heiniken",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Cristal",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refrescos Importados",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Bucanero",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jugos Naturales",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Natural",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Gaseada",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jugos 200ml",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Agua Tonica",
+                    "foodPrecio": 550,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Batido de Frutas",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Suero de Helado",
+                    "foodPrecio": 1100,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubetazo Corona",
+                    "foodPrecio": 3000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Trago de Ron Santiago 12 Años",
+                    "foodPrecio": 1150,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Trago de Ron Santiago 11 Años",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Trago de Tequila",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Trago Habana Club 7 Años",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Trago Whisky Ballantines",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Trago Whisky Black Label",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Trago Whisky Bucana Master",
+                    "foodPrecio": 1700,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Trago Whisky Chivas 12 Años",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Trago Habana Club Especial",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Trago Ron Santiago 8 Años",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Trago Jagermeister",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Trago Whisky Label 5",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Trago Whisky Red Label",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Trago Whisky W Lawsons",
+                    "foodPrecio": 430,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Trago Ron Habana Club Profundo",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Trago Ron Habana Club 3 Años",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Botella Vino Blanco",
+                    "foodPrecio": 1700,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Copa Vino Blanco",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Botella Vino Tinto",
+                    "foodPrecio": 3000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Copa Vino Tinto",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Whisky Ballantines",
+                    "foodPrecio": 8000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Whisky Chivas 12 Años",
+                    "foodPrecio": 12000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Whisky Red Label",
+                    "foodPrecio": 9000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Whisky William Lawsons",
+                    "foodPrecio": 5000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Habana Club Especial de 1L",
+                    "foodPrecio": 4000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Habana Club 7 años",
+                    "foodPrecio": 5000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jagermeister",
+                    "foodPrecio": 8000,
+                    "alcoholica": true,
+                    "importada": true
+                }
+            ]                                                                           
+        }
+    }
+}

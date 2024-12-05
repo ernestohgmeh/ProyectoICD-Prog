@@ -1,0 +1,393 @@
+{
+    "municipality": "Plaza de la Revolucion",
+    "info":
+        {
+        "nameLocal": "Vampirito",
+        "location":
+        {
+            "address": " Calle 6 % 19 & 21,",
+            "barrio": "Vedado",
+            "GPS": null
+        },
+        "horarios": 
+        {
+            "monday": "1100-2330",
+            "thuesday": "0900-2330",
+            "wednesday": "0900-2330",
+            "thursday": "0900-2330",
+            "friday": "0900-2330",
+            "saturday": "0900-2330",
+            "sunday": "0900-2330"
+        },
+        "contactUs":
+        {
+            "phone": [78360680],
+            "web": "https://www.elvampirito.com/?fbclid=IwY2xjawG8ZTZleHRuA2FlbQIxMAABHQTW5q172whq1G4s3B8W2_jx81vIonEtzOzEcLtNQjJoZ-KXxxmyD2pVAQ_aem_yakFPlC4aRKbJ1CbL_Zvug",
+            "social": ["https://www.facebook.com/cafeteriavampirito/","https://www.instagram.com/vampiritocafeteria/?hl=es"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["music"],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["Casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["Pizzas"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Bruschettas Naturales",
+                    "foodPrecio": 780
+                },
+                {
+                    "foodName": "Bruschettas con Atún, Carne o Ropa Vieja",
+                    "foodPrecio": 930
+                },
+                {
+                    "foodName": "Entremés de Queso, Jamón y Bruschettas",
+                    "foodPrecio": 1180
+                },
+                {
+                    "foodName": "Picadora Especial de la Casa",
+                    "foodPrecio": 2620
+                },
+                {
+                    "foodName": "HAMBURGUESA SENCILLA",
+                    "foodPrecio": 1090
+                },
+                {
+                    "foodName": "HAMBURGUESA DOBLE",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Sándwich DE QUESO GOUDA",
+                    "foodPrecio": 960
+                },
+                {
+                    "foodName": "Sándwich DE ROPA VIEJA",
+                    "foodPrecio": 960
+                },
+                {
+                    "foodName": "Sándwich de BACON, HUEVO Y QUESO",
+                    "foodPrecio": 1390
+                },
+                {
+                    "foodName": "Sándwich DE LECHÓN ASADO",
+                    "foodPrecio": 1050
+                },
+                {
+                    "foodName": "Sándwich DE ATÚN",
+                    "foodPrecio": 1390
+                },
+                {
+                    "foodName": "Sándwich DE PECHUGA DE POLLO CON QUESO",
+                    "foodPrecio": 1260
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Ensalada de Vegetales Salteados",
+                    "foodPrecio": 520,
+                    "description": null,
+                    "clasficacion": "Ensalada"
+                },
+                {
+                    "foodName": "Garbanzos Fritos",
+                    "foodPrecio": 1290,
+                    "description": null,
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Solomillo de Cerdo",
+                    "foodPrecio": 2340,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Carne Asada en Cazuela",
+                    "foodPrecio": 2340,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "De Pollo Tenemos Pregúntame?",
+                    "foodPrecio": 1390,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "De Cerdo Tenemos Pregúntame?",
+                    "foodPrecio": 1610,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "De Res Tenemos Pregúntame?",
+                    "foodPrecio": 2570,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Crema de Queso",
+                    "foodPrecio": 570,
+                    "description": null,
+                    "clasficacion": "Sopas y cremas"
+                },
+                {
+                    "foodName": "Crema Aurora",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasficacion": "sopas y cremas"
+                },
+                {
+                    "foodName": "Crema Virginia",
+                    "foodPrecio": 690,
+                    "description": null,
+                    "clasficacion": "sopas y cremas"
+                },
+                {
+                    "foodName": "Lasaña de Jamón",
+                    "foodPrecio": 1530,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Lasaña de Carne",
+                    "foodPrecio": 1530,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Lasaña Hawaiana",
+                    "foodPrecio": 1570,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis",
+                    "foodPrecio": 1090,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Media Ración de Spaguettis Más Media Ración de Lasaña",
+                    "foodPrecio": 1310,
+                    "description": "solo dios sabe q carajos es eso",
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pizza de Queso",
+                    "foodPrecio": 1220,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Pequeña",
+                    "foodPrecio": 590,
+                    "description": null,
+                    "clasficacion": "horneado"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Helado Montado",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Canoa de Helado",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Postre del Día",
+                    "foodPrecio": 780
+                },
+                {
+                    "foodName": "Tarta",
+                    "foodPrecio": 975
+                },
+                {
+                    "foodName": "Torrejas",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Media Ración de Torrejas",
+                    "foodPrecio": 360
+                },
+                {
+                    "foodName": "Torrejas con Helado",
+                    "foodPrecio": 550
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Jugo Natural",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Frappé",
+                    "foodPrecio": 620,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada con Hierbabuena",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Natural/Gastada",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malteada",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 460,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Suero de Helado",
+                    "foodPrecio": 1200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Importada",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Nacional",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Red Bull",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Michelada con Cerveza Importada",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada con Cerveza Nacional",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiriña",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daiquiri",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangria",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Copa de Vino",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito Frappé",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Expreso",
+                    "foodPrecio": 180,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Cortado",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Capuchino",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café con Leche",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café con Ron",
+                    "foodPrecio": 280,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café con Licor",
+                    "foodPrecio": 280,
+                    "alcoholica": true,
+                    "importada": false
+                }
+            ]
+            
+        }
+    }
+}

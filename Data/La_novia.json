@@ -1,0 +1,386 @@
+{
+    "municipality": "La Lisa",
+    "info":
+        {
+        "nameLocal": "La novia",
+        "location":
+        {
+            "address": "Calle 51 #33013 & 330 & 332",
+            "barrio": "La novia del Mediodia",
+            "GPS": null
+        },
+        "horarios": 
+        {
+            "monday": "",
+            "thuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": null,
+            "social": ["https://www.facebook.com/groups/1106339953805716/","https://www.instagram.com/restaurante_lanovia/p/DB9rZPePoRO/"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": [],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Croquetas de la Casa",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Frituras de Malanga",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Bolitas de Yuca y Queso",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Fajitas de Cerdo",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Fajitas de Pollo",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Picadera Mixta",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "Chips de Vianda",
+                    "foodPrecio": 200
+                },
+                {
+                    "foodName": "Milanesa de Pollo",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Tostones Criollos",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Tostones Rellenos",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Sandwich de Jamon",
+                    "foodPrecio": 580
+                },
+                {
+                    "foodName": "Sandwich de Jamon y Queso",
+                    "foodPrecio": 730
+                },
+                {
+                    "foodName": "Sandwich Cubano con Cerdo Asado",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Ensaladita de Aceitunas, Queso y Pepperoni",
+                    "foodPrecio": 1100
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Tacos de Cerdo",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "ligera"
+                },
+                {
+                    "foodName": "Tacos de Pollo",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "ligera"
+                },
+                {
+                    "foodName": "Tacos de Jamon y Queso",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "ligera"
+                },
+                {
+                    "foodName": "Tacos Marineros",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "ligera"
+                },
+                {
+                    "foodName": "Tacos de Ropa Vieja",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "ligera"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 280,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Pepperoni",
+                    "foodPrecio": 400,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Spaghetti Napolitano",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Masas Fritas de Cerdo",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Pollo Frito",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pollo Asado",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Bistec de Cerdo",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec de Pechuga",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Chuleta de Cerdo",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Ropa Vieja",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Brochetas de Cerdo",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Completa de Enchilado de Cangrejo",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Cerdo Asado",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Arroz Moro",
+                    "foodPrecio": 300,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Ensalada",
+                    "foodPrecio": 300,
+                    "description": null,
+                    "clasficacion": "ensalada"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Copa de Helado",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Flan",
+                    "foodPrecio": 270
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Jarra de Cerveza Dispensada",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Natural",
+                    "foodPrecio": 150,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Frappe",
+                    "foodPrecio": 340,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Natural",
+                    "foodPrecio": 340,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugos Naturales",
+                    "foodPrecio": 160,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batido de Frutas",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batido de Helado",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta Importada",
+                    "foodPrecio": 290,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco Importado",
+                    "foodPrecio": 260,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 260,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Importada",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Nacional",
+                    "foodPrecio": 290,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada Mexicana",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada",
+                    "foodPrecio": 230,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangria",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cuba Libre",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiroska",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiriña",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña Colada",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Expresso",
+                    "foodPrecio": 100,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Frapuccino",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

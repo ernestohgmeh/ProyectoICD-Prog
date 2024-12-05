@@ -1,0 +1,316 @@
+{
+    "municipality": "La Lisa",
+    "info":
+        {
+        "nameLocal": "Mia Pizza",
+        "location":
+        {
+            "address": "Avenida 29 % 202 & 204,",
+            "barrio": "La Coronela",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1000-2200",
+            "thuesday": "1000-2200",
+            "wednesday": "1000-2200",
+            "thursday": "1000-2200",
+            "friday": "1000-2200",
+            "saturday": "1000-2200",
+            "sunday": "1000-2200"
+        },
+        "contactUs":
+        {
+            "phone": [72718614],
+            "web": "",
+            "social": ["https://www.instagram.com/lamiapizza_/","https://www.facebook.com/lamiapizzacuba/?locale=es_LA"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": false,
+            "altos": true,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["Casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Entremes de Jamon y Queso",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "Entremes de Jamon",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Entremes de Ahumados",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Entremes de Aceitunas",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Dados de Queso",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Croquetas de Embutidos",
+                    "foodPrecio": 220
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Pollo con Papas Fritas",
+                    "foodPrecio": 1400
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Crema de Queso",
+                    "foodPrecio": 250,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Crema Aurora",
+                    "foodPrecio": 300,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Crema Virginia",
+                    "foodPrecio": 430,
+                    "description": null,
+                    "clasficacion": "sopas y cremas"
+                },
+                {
+                    "foodName": "Lasaña de Jamon y 2ble Chorizo",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Espaguetis Napolitano",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Espaguetis a la Carbonara",
+                    "foodPrecio": 860,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pizza Junior Napolitana",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Espaguetis Junior Napolitano",
+                    "foodPrecio": 300,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Combinacion del Menu Junior",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Pizza Junior La Mia",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza La Mia",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza La Mia de Queso",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Tres Quesos",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza La Mia Familiar",
+                    "foodPrecio": 4800,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza La Mia Familiar de Queso",
+                    "foodPrecio": 4000,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Familiar Napolitana",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "horneado"
+                }
+            ],
+            "postre": [],
+            "bebidas":
+            [
+                {
+                    "foodName": "Ron Habana Club 3 Años",
+                    "foodPrecio": 175,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Habana Club 7 Años",
+                    "foodPrecio": 225,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña Colada",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Frappe",
+                    "foodPrecio": 1500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cervezas",
+                    "foodPrecio": 270,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refrescos",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refrescos de Pomo",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Natural",
+                    "foodPrecio": 160,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Saborizada",
+                    "foodPrecio": 170,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Bebida Energizante",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada":true
+                },
+                {
+                    "foodName": "Michelada",
+                    "foodPrecio": 420,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 340,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Vodka",
+                    "foodPrecio": 340,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Whisky",
+                    "foodPrecio": 340,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jugos de Frutas Naturales",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batidos de Frutas Naturales",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Suero de Helado",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Helado Montado (3 bolas)",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

@@ -1,0 +1,508 @@
+{
+    "municipality": "Marianao",
+    "info":
+        {
+        "nameLocal": "Colesterol 5.1",
+        "location":
+        {
+            "address": "Avenida 51 % 134 & 136",
+            "barrio": "",
+            "GPS": null
+        },
+        "horarios": 
+        {
+            "monday": "1100-2200",
+            "thuesday": "1100-2200",
+            "wednesday": "1100-2200",
+            "thursday": "1100-2200",
+            "friday": "1100-1300",
+            "saturday": "closed",
+            "sunday": "closed"
+        },
+        "contactUs":
+        {
+            "phone": [59531065],
+            "web": null,
+            "social": ["https://www.facebook.com/p/Caf%C3%A9-Colesterol-61552947140539/","https://www.instagram.com/cafecolesterol5.1?fbclid=IwY2xjawG8d5BleHRuA2FlbQIxMAABHSuByNkWJhF9bT-JBwkgHfFXip5qJcg8W0yNTxr-xGfHTuHZd5fAWwEB_A_aem_Fnp6uIS9v1TwWKD5eP6vdA"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["Casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Perro caliente 5.1Plus",
+                    "foodPrecio": 760
+                },
+                {
+                    "foodName": "Pan con lechón",
+                    "foodPrecio": 990
+                },
+                {
+                    "foodName": "Sandwich Ropa Vieja",
+                    "foodPrecio": 690
+                },
+                {
+                    "foodName": "Sandwich de Jamón y Queso",
+                    "foodPrecio": 695
+                },
+                {
+                    "foodName": "Sandwich de Queso",
+                    "foodPrecio": 765
+                },
+                {
+                    "foodName": "Sandwich Cubano",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Sandwich de Atún y Cebolla",
+                    "foodPrecio": 1320
+                },
+                {
+                    "foodName": "Hamburguesa de pollo",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Hamburguesa de cerdo",
+                    "foodPrecio": 1630
+                },
+                {
+                    "foodName": "Hamburguesa de res",
+                    "foodPrecio": 1750
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Tamal con costilla de Cerdo",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Ropa Vieja",
+                    "foodPrecio": 1990,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Vaca frita",
+                    "foodPrecio": 1985,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Dados de pechuga en salsa almendrada",
+                    "foodPrecio": 2235,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Bistec Suprema",
+                    "foodPrecio": 2235,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Brocheta Mixta",
+                    "foodPrecio": 2360,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Masa de Cerdo Frita",
+                    "foodPrecio": 2475,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Arroz con Artistage",
+                    "foodPrecio": 2550,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Chuleta de Cerdo en Salsa Agridulce",
+                    "foodPrecio": 2915,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec Uruguayo",
+                    "foodPrecio": 2720,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Enchilado de Langosta",
+                    "foodPrecio": 2750,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Filete de Pescado Canciller",
+                    "foodPrecio": 2360,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Costilla de Cerdo Asada",
+                    "foodPrecio": 2846,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Filete de Pescado Grille",
+                    "foodPrecio": 2965,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Mariscada Estelar 5.1",
+                    "foodPrecio": 3450,
+                    "description": "Cola de Langosta, Calamar, Camarones, Rueda de Pescado, Vegetales salteados perfumado al aroma del ajo",
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Espaguetis Negro con combinación de mariscos a lo Colesterol 5.1",
+                    "foodPrecio": 3575,
+                    "description": "Anillas de calamar, langosta, dados de pescado, camarones y cangrejo",
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Pizza Margarita 5.1 Plus",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Jamón",
+                    "foodPrecio": 1920,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Hawaiana",
+                    "foodPrecio": 2010,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Bacon, Pepperoni y Jamón Serrano",
+                    "foodPrecio": 2580,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Campesina",
+                    "foodPrecio": 2640,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Marinera",
+                    "foodPrecio": 2740,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Spaguettis Napolitano",
+                    "foodPrecio": 840,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis Alfredo",
+                    "foodPrecio": 945,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis con Jamón",
+                    "foodPrecio": 1040,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis a la Boloñesa",
+                    "foodPrecio": 1640,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis al Pesto",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis a la Carbonara",
+                    "foodPrecio": 2250,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Lasagna Boloñesa",
+                    "foodPrecio": 2040,
+                    "description": null,
+                    "clasficacion": "pastas"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Churros con Leche",
+                    "foodPrecio": 275
+                },
+                {
+                    "foodName": "Tres Delicias",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Sunday",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Duble D",
+                    "foodPrecio": 655
+                },
+                {
+                    "foodName": "Churros acompañados de Leche con Chocolate",
+                    "foodPrecio": 670
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Café Express",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Mineral",
+                    "foodPrecio": 190,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugos de Frutas",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugos de Cajita",
+                    "foodPrecio": 340,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco de Lata",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 420,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 360,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco Pepsi",
+                    "foodPrecio": 420,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco Seven Up",
+                    "foodPrecio": 420,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Frapuccino",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Nacional",
+                    "foodPrecio": 390,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Importada",
+                    "foodPrecio": 590,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Batidos de Frutas",
+                    "foodPrecio": 495,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malteada",
+                    "foodPrecio": 545,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Suero de Helado",
+                    "foodPrecio": 610,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Base Chelada",
+                    "foodPrecio": 165,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Base Michelada",
+                    "foodPrecio": 220,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiroska",
+                    "foodPrecio": 495,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiriña",
+                    "foodPrecio": 495,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubata",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cuba Libre",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daikiri Floridita",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tinto Verano",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Gyn Tonic",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Canchanchara",
+                    "foodPrecio": 660,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña Colada",
+                    "foodPrecio": 660,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito",
+                    "foodPrecio": 720,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangria Especial 5.1",
+                    "foodPrecio": 720,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Shot Chocolate Blanco",
+                    "foodPrecio": 275,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Shot Chocolate Mentolado",
+                    "foodPrecio": 330,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Shot Bandera Rusa",
+                    "foodPrecio": 330,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Shot Hemorragia",
+                    "foodPrecio": 330,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Shot Tekila Blanco",
+                    "foodPrecio": 440,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Shot Tekila Oro",
+                    "foodPrecio": 440,
+                    "alcoholica": true,
+                    "importada": true
+                }
+            ]            
+        }
+    }
+}

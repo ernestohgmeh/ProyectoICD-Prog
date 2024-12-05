@@ -1,0 +1,253 @@
+{
+    "municipality": "Habana Vieja",
+    "info":
+        {
+        "nameLocal": "Mythos Restaurant",
+        "location":
+        {
+            "address": "Calle Cuba 211 % Empedrado & O'Reilly",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "0800-2300",
+            "thuesday": "0800-2300",
+            "wednesday": "0800-2300",
+            "thursday": "0800-2300",
+            "friday": "0800-2300",
+            "saturday": "0800-2300",
+            "sunday": "0800-2300"
+        },
+        "contactUs":
+        {
+            "phone": [63691718],
+            "web": "",
+            "social": ["https://www.facebook.com/mythos.havana/","https://www.instagram.com/mythos.havana/"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["Griega"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Hummus de Garbanzo",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Melitzanosalata",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Tzatziki",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Papas Fritas con Queso Feta y Oregano",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Tyropitakias",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Aceitunas Marinadas con Queso Feta",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Griego Pobre",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Saganaki",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Souvlaki de Cerdo",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Souvlaki de Pechuga de Pollo",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "Souvlaki de Res",
+                    "foodPrecio": 2800
+                },
+                {
+                    "foodName": "Souvlaki Vegano",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Souvlaki de Queso Feta",
+                    "foodPrecio": 2500
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Ensalada Griega",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "ensalada"
+                },
+                {
+                    "foodName": "Pastitsio",
+                    "foodPrecio": 2200,
+                    "description": "Lasaña con Oasta Corta Rellena de Boloñesa y Bechamel",
+                    "clasficacion": "pasta"
+                },
+                {
+                    "foodName": "Imam",
+                    "foodPrecio": 2000,
+                    "description": "Berenjena Ahumada Rellena con Vegetales",
+                    "clasficacion": "ensalada"
+                },
+                {
+                    "foodName": "Saganaki de Langosta o Camaron",
+                    "foodPrecio": 3500,
+                    "description": "Mariscos Salteados con Tomate y Queso Feta",
+                    "clasficacion": "mariscos"
+                },
+                {
+                    "foodName": "Saganaki de Frutos del Mar",
+                    "foodPrecio": 4000,
+                    "description": "Camaron, Langosta, Pulpo y Almejas Salteadas con Tomate",
+                    "clasficacion": "mariscos"
+                },
+                {
+                    "foodName": "Risotto de Yogurt Griego",
+                    "foodPrecio": 3000,
+                    "description": "Arroz Arboreo, Yogurt Griego y Queso Parmesano",
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Risotto de Pulpo",
+                    "foodPrecio": 3700,
+                    "description": null,
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Risotto de Frutos de Mar",
+                    "foodPrecio": 4100,
+                    "description": null,
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Pulpo Grille",
+                    "foodPrecio": 4200,
+                    "description": null,
+                    "clasficacion": "mariscos"
+                },
+                {
+                    "foodName": "Solomillo de Cerdo en Salsa de Limon Griega",
+                    "foodPrecio": 3500,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Pasta Mediterranea",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "pasta"
+                },
+                {
+                    "foodName": "Pasta de Camaron al Anis",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasficacion": "pasta"
+                }
+            ],
+            "postre": [],
+            "bebidas":
+            [
+                {
+                    "foodName": "Demeter",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Afrodita",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Persefone",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Hades",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Dionisio",
+                    "foodPrecio": 2000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Poseidon",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ares",
+                    "foodPrecio": 1350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Apolo",
+                    "foodPrecio": 1700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Freddo Expresso",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Freddo Capuccino",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+            
+        }
+    }
+}
