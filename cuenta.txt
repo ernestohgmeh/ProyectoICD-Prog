@@ -9,7 +9,7 @@ ofertas
 1+Boyeros:
 
 1-El pinareno(coordenadas)(restaurant)
-2-Cafe Tilin
+2-Cafe Tilin(restaurant)
 
 15+Habana del Este:
 
@@ -17,13 +17,13 @@ ofertas
 2-Ernest's Place(restaurant)
 3-D'Maximo Sabor(restaurant)
 4-La ruta de Hemingway(restaurant)
-5-Aires de cojimar(restaurant)
+5-Aires de cojimar(restaurant)(bebidas)
 
 
 2+Guanabacoa:
 
 1-Vale&Vane(restaurant)
-2-Finca Vista Hermosa(restaurant)(faltan las bebidas)
+2-Finca Vista Hermosa(restaurant)
 
 3+San Miguel del Padron:
 
@@ -34,13 +34,16 @@ ofertas
 5+10/10:
 
 1-Crispy Chicken(restaurant)
-2-Monakeno
+2-Monakeno(restaurant)
+3-Lacret 559(bar)
 
 6+Plaza:
 
 1-Vampirito(restaurant)
 2-4 lunas(restaurant)
 3-Sushi Master(restaurant)
+4-Mar Adentro(restaurant)
+5-El Idilio
 
 7+Playa:
 
@@ -60,7 +63,8 @@ ofertas
 12+Habana Vieja:
 
 1-Habia una vez(restaurant)
-2-Mythos
+2-Mythos(restaurant)
+3-La Macorina
 
 13+Marianao:
 
@@ -71,4 +75,4 @@ ofertas
 
 
 
-total: 14
+total: 28
