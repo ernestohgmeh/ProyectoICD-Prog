@@ -519,7 +519,7 @@
                 {
                     "foodName": "San Francisco",
                     "foodPrecio": 750,
-                    "alcoholica": true,
+                    "alcoholica": false,
                     "importada": false
                 },
                 {

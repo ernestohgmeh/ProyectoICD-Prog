@@ -1,0 +1,608 @@
+{
+    "municipality": "Centro Habana",
+    "info":
+        {
+        "nameLocal": "El Rincon de Mama",
+        "location":
+        {
+            "address": "Calle infanta #604 % Zapata & Salud",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1300-0100",
+            "thuesday": "1300-0100",
+            "wednesday": "1300-0100",
+            "thursday": "1300-0100",
+            "friday": "1300-0200",
+            "saturday": "1300-0200",
+            "sunday": "1300-0200"
+        },
+        "contactUs":
+        {
+            "phone": [59870375],
+            "web": "",
+            "social": ["https://www.instagram.com/elrincon.de.mama/","https://www.facebook.com/elricondemama/?locale=es_LA"]
+        },
+        "services":
+        {
+            "tranfer": false,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["string/ siglas de las monedas q acepta"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [""],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [""],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Tostones Rellenos con Ropa Vieja",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Coctel de Camarones",
+                    "foodPrecio": 980
+                },
+                {
+                    "foodName": "Fajitas de Pollo",
+                    "foodPrecio": 1780
+                },
+                {
+                    "foodName": "Fajitas de Cerdo",
+                    "foodPrecio": 1780
+                },
+                {
+                    "foodName": "Picadera de Camaron",
+                    "foodPrecio": 1970
+                },
+                {
+                    "foodName": "Fajitas de Res",
+                    "foodPrecio": 1960
+                },
+                {
+                    "foodName": "Croquetas de Mamá",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 600
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Brocheta de Camaron al Carbon",
+                    "foodPrecio": 2870,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Brochetas de Cerdo 1lb al Carbon",
+                    "foodPrecio": 2970,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Brochetas de Cerdo 1/2 lb al Carbon",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Costilla Asada al Carbon",
+                    "foodPrecio": 2900,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Chuleton Deshuesado 1lb al Carbon",
+                    "foodPrecio": 2970,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Chuleton Deshuesado 1/2 lb al Carbon",
+                    "foodPrecio": 1970,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Pechuga de Pollo 1lb al Carbon",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Chorizo Parrillero al Carbon",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Chuleta de Jamon Pierna al Carbon",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec de Res al Carbon",
+                    "foodPrecio": 2860,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Camaron Enchilado",
+                    "foodPrecio": 2760,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Ropa Vieja o Vaca Frita",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Filete de Merluza Grille",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Tacos al Pastor",
+                    "foodPrecio": 370,
+                    "description": null,
+                    "clasficacion": "ligera"
+                },
+                {
+                    "foodName": "Tacos de Ropa Vieja",
+                    "foodPrecio": 480,
+                    "description": null,
+                    "clasficacion": "ligera"
+                },
+                {
+                    "foodName": "Tacos de Camaron",
+                    "foodPrecio": 490,
+                    "description": null,
+                    "clasficacion": "ligera"
+                },
+                {
+                    "foodName": "Tacos de Atun",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "ligera"
+                },
+                {
+                    "foodName": "Tacos al Pastor (8 unidades)",
+                    "foodPrecio": 2880,
+                    "description": null,
+                    "clasficacion": "ligera"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 990,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Hawaiana",
+                    "foodPrecio": 1420,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Espaguetis Napolitanos",
+                    "foodPrecio": 870,
+                    "description": null,
+                    "clasficacion": "pasta"
+                },
+                {
+                    "foodName": "Arroz Frito Especial",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Arroz Frito",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Arroz Moro",
+                    "foodPrecio": 400,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Arroz Blanco",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Yuca con Mojo",
+                    "foodPrecio": 300,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Flan de Mama",
+                    "foodPrecio": 790
+                },
+                {
+                    "foodName": "Flan con Helado",
+                    "foodPrecio": 990
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Daiquiri de Frutas",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito 7 Años",
+                    "foodPrecio": 980,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito Clasico",
+                    "foodPrecio": 950,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiriña",
+                    "foodPrecio": 570,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiroska",
+                    "foodPrecio": 760,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipirisima",
+                    "foodPrecio": 950,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangria",
+                    "foodPrecio": 990,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tinto de Verano",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña Colada",
+                    "foodPrecio": 860,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Canchanchara",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cuba Libre",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubata",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Long Island",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Gintonic",
+                    "foodPrecio": 960,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Margarita",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tom Collins",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubanito",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Bloody Mary",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo de Cajita",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jugo de Frutas Naturales",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Expresso",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Americano",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Cortado",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Frapuchino",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Habana Club Añejo Blanco",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Habana Club Añejo Especial",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Habana Club Añejo 7 Años",
+                    "foodPrecio": 970,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Habana Club Añejo Reserva",
+                    "foodPrecio": 890,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Santiago de Cuba 8 Años",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Santiago de Cuba 11 Años",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batido de Helado",
+                    "foodPrecio": 900,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batido de Frutas Naturales",
+                    "foodPrecio": 860,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Natural o Frappe",
+                    "foodPrecio": 570,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Frescura",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Leche Condensada para Malteada",
+                    "foodPrecio": 370,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Copa de Vino",
+                    "foodPrecio": 890,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Corona",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Heiniken",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Cristal de Botella",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Dispensada Cristal Jarra",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Dispensada Cristal Vaso",
+                    "foodPrecio": 170,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubetazo",
+                    "foodPrecio": 2400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Natural",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Carbonatada",
+                    "foodPrecio": 150,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Tonica",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Old Fashioned",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Fashioned",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Vodka Tonic",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito Oriental",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Havana Especial",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Base para Michelada",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Base para Chelada",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tequila Olmeca Blanco",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Tequila Olmeca Reposado",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": true
+                }
+            ]
+        }
+    }
+}

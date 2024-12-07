@@ -1,0 +1,564 @@
+{
+    "municipality": "Cotorro",
+    "info":
+        {
+        "nameLocal": "Ole ole",
+        "location":
+        {
+            "address": "Avenida 71 entre Calle 46 y 48",
+            "barrio": "Loteria",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1200-",
+            "thuesday": "1200-",
+            "wednesday": "1200-",
+            "thursday": "1200-",
+            "friday": "closed",
+            "saturday": "1800-",
+            "sunday": "1100-"
+        },
+        "contactUs":
+        {
+            "phone": [54147124,58056008],
+            "web": "",
+            "social": ["https://www.facebook.com/p/OleOle-Bar-Restaurante-Cafeter%C3%ADa-100083721687989/","https://www.instagram.com/oleole_oficial?fbclid=IwZXh0bgNhZW0CMTAAAR1UL4AojCLRH4zu8zIyWSQPyyXB5vBi6TYiRjP15cxE9w1FmgI0JooVd-M_aem_yNs6wTqY5ToGd4x-8149Vw","https://www.instagram.com/explore/locations/101153272698994/oleole-bar-restaurante-cafeteria/"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["music","artistas invitados", "guarderia"],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [""],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Frituras de Malanga",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Chicharritas",
+                    "foodPrecio": 520
+                },
+                {
+                    "foodName": "Picadera",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Croquetas OleOle",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Toston Tradicional",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Toston Relleno",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Toston Atun",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Eperlan",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Coctel de Camarones",
+                    "foodPrecio": 1550
+                },
+                {
+                    "foodName": "Entremes",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Baston de Pollo",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Brochetas Ole",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Picadera Premium",
+                    "foodPrecio": 1800
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Ensalada Mixta",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasficacion": "ensalada"
+                },
+                {
+                    "foodName": "Tacos de Res",
+                    "foodPrecio": 750,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Tacos de Cerdo",
+                    "foodPrecio": 750,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Langosta Grille",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Langosta Enchilada",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Langosta al Ajillo",
+                    "foodPrecio": 2470,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Mariscada",
+                    "foodPrecio": 4500,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Camaron Enchilado",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Camaron al Ajillo",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Camaron Grille",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "marisco"
+                },
+                {
+                    "foodName": "Arroz Moro",
+                    "foodPrecio": 220,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Arroz Blanco",
+                    "foodPrecio": 120,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Filete de Pescado Grille",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de Pescado Encebollado",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de Apestado Vizcaina",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pescado Frito al Plato",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Rueda de Pescado Martin",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Lomo de Pescado Grille",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Lomo de Pescado Encebollado",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Lomo de Pescado a la Vizcaina",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Bistec de Cerdo Grille",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec de Cerdo Encebollado",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Masa de Cerdo Frita",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Escalope de Cerdo a la Milanesa",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Solomillo de Cerdo",
+                    "foodPrecio": 2900,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Costilla de Cerdo Ahumada",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Chuleta de Cerdo Grille",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Chuleta de Cerdo Ahumada",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Lomo de Cerdo Grille",
+                    "foodPrecio": 2100,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Pollo Frito",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Bistec de Pollo Grille",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Bistec de Pollo Encebollado",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Bistec de Higado de Res",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Higado de Res a la Italiana",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Ropa Vieja",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Vaca Frita",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Goulash de Res",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Pechuga Grille",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pechuga Encebollada",
+                    "foodPrecio": 1260,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Suprema Pollo a la Milanesa",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pizza Napolitana de Queso Gouda",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Jamon y Queso Gouda",
+                    "foodPrecio": 1280,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Chorizo y Queso Gouda",
+                    "foodPrecio": 1260,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Doble Queso de Queso Gouda",
+                    "foodPrecio": 1420,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Camarones y Queso Gouda",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Hawaiana de Queso Gouda",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Habanera con Queso Gouda",
+                    "foodPrecio": 1790,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza al Torno con Queso Gouda",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Jamon Pierna con Queso Gouda",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Spaguettis de Queso Gouda",
+                    "foodPrecio": 720,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis de Jamon y Queso Gouda",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis al Comodoro con Queso Gouda",
+                    "foodPrecio": 750,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis a la Amatriciana con Queso Gouda",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis de Queso Gouda Doble Queso",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis de Camaron y Queso Gouda",
+                    "foodPrecio": 1430,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis a la Arabiata con Queso Gouda",
+                    "foodPrecio": 770,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pizza Napolitana de Queso Blanco",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Jamon y Queso Blanco",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Chorizo y Queso Blanco",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Doble Queso de Queso Blanco",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza de Camarones y Queso Blanco",
+                    "foodPrecio": 1060,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Hawaiana de Queso Blanco",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Habanera con Queso Blanco",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza al Torno con Queso Blanco",
+                    "foodPrecio": 1280,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza Jamon Pierna con Queso Blanco",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Spaguettis de Queso Blanco",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis de Jamon y Queso Blanco",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis al Comodoro con Queso Blanco",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis a la Amatriciana con Queso Blanco",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis de Queso Gouda Doble Blanco",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis de Camaron y Queso Blanco",
+                    "foodPrecio": 1380,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Spaguettis a la Arabiata con Queso Blanco",
+                    "foodPrecio": 670,
+                    "description": null,
+                    "clasficacion": "pastas"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "string/ nombre del plato",
+                    "foodPrecio": "int/precio del plato"
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "string/ nombre de la bebida",
+                    "foodPrecio": "int/precio del plato",
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}

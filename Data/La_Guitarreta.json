@@ -1,0 +1,218 @@
+{
+    "municipality": "Regla",
+    "info":
+        {
+        "nameLocal": "La Guitarreta",
+        "location":
+        {
+            "address": "Calzada Nueva de Casa Blanca % 24 de Febrero & Tadeo",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1200-2359",
+            "thuesday": "1200-2359",
+            "wednesday": "1200-2359",
+            "thursday": "1200-2359",
+            "friday": "1200-2359",
+            "saturday": "1200-2359",
+            "sunday": "1200-2359"
+        },
+        "contactUs":
+        {
+            "phone": [56901253,52765597],
+            "web": "",
+            "social": ["https://www.instagram.com/laguitarreta_regla/","https://www.facebook.com/laguitarreta22/?locale=es_LA"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": true ,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [""],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [""],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Fajitas de pollo",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Bolitas de queso gouda",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Tostones relleno QB",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Tostones rellenos QG",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Papas fritas con ketchup",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Papas fritas con ketchup y QG",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Croquetas de la abuela",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Croquetas bechamel de jamón",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Maripositas chinas",
+                    "foodPrecio": 400
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Tacos de Pollo",
+                    "foodPrecio": 750,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Tacos de Cerdo",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Tacos de Res",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Lasagna de jamón",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Espaguetis QB",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Espaguetis QG",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasficacion": "pastas"
+                },
+                {
+                    "foodName": "Pizza 30cm QB",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza 30cm QG",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza hawaiana QB",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Pizza hawaiana QG",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": "horneado"
+                },
+                {
+                    "foodName": "Arroz frito",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Arroz frito especial",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "g"
+                },
+                {
+                    "foodName": "Pechuga milanesa",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pechuga grille",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pechuga empanada",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pechuga princesa",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Ropa vieja",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "string/ nombre del plato",
+                    "foodPrecio": "int/precio del plato"
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "string/ nombre de la bebida",
+                    "foodPrecio": "int/precio del plato",
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}

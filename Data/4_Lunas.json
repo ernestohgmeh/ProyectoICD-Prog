@@ -40,9 +40,9 @@
         "ambientacion":
         {
             "inside": true,
-            "outside": false,
+            "outside": true,
             "bajos": false,
-            "altos": false,
+            "altos": true,
             "ac": false,
             "entretenimiento": [],
             "comentarios": ""

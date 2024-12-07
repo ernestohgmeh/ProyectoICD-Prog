@@ -1,60 +1,57 @@
-Notas:
-nombre
-photo(metadatos)
-menu(photos)
-municipio
-ofertas
-
 
 1+Boyeros:
 
-1-El pinareno(coordenadas)(restaurant)
-2-Cafe Tilin(restaurant)
+        1-El pinareno(coordenadas)(restaurant)
+        2-Cafe Tilin(restaurant)
 
 15+Habana del Este:
 
-1-Al campestre(restaurant)
-2-Ernest's Place(restaurant)
-3-D'Maximo Sabor(restaurant)
-4-La ruta de Hemingway(restaurant)
-5-Aires de cojimar(restaurant)(bebidas)
+        1-Al campestre(restaurant)
+        2-Ernest's Place(restaurant)
+        3-D'Maximo Sabor(restaurant)
+        4-La ruta de Hemingway(restaurant)
+        5-Aires de cojimar(restaurant)(bebidas)
 
 
 2+Guanabacoa:
 
-1-Vale&Vane(restaurant)
-2-Finca Vista Hermosa(restaurant)
+        1-Vale&Vane(restaurant)
+        2-Finca Vista Hermosa(restaurant)
 
 3+San Miguel del Padron:
 
-1-Garage(restaurant)
+        1-Garag(restaurant)
+        2-Yesterday(restaurant)
 
 4+Cerro:
 
 5+10/10:
 
-1-Crispy Chicken(restaurant)
-2-Monakeno(restaurant)
-3-Lacret 559(bar)
+        1-Crispy Chicken(restaurant)
+        2-Monakeno(restaurant)
+        3-Lacret 559(bar)
 
 6+Plaza:
 
-1-Vampirito(restaurant)
-2-4 lunas(restaurant)
-3-Sushi Master(restaurant)
-4-Mar Adentro(restaurant)
-5-El Idilio
+        1-Vampirito(restaurant)
+        2-4 lunas(restaurant)
+        3-Sushi Master(restaurant)
+        4-Mar Adentro(restaurant)
+        5-El Idilio(restaurant)
+        6-La carreta(restaurant)
 
 7+Playa:
 
 8+Regla:
 
+        1-La guitarreta(restaurant)(incompleto)
+
 9+La lisa:
 
-1-La novia(restaurant)
-2-Aroma de Cafe(bar)
-3-Finca La Pinta(restaurant)
-4-Mia Pizza(restaurant)
+        1-La novia(restaurant)
+        2-Aroma de Cafe(bar)
+        3-Finca La Pinta(restaurant)
+        4-Mia Pizza(restaurant)
 
 10+Arroyo:
 
@@ -62,16 +59,18 @@ ofertas
 
 12+Habana Vieja:
 
-1-Habia una vez(restaurant)
-2-Mythos(restaurant)
-3-La Macorina
+        1-Habia una vez(restaurant)
+        2-Mythos(restaurant)
+        3-La Macorina(restaurant)
 
 13+Marianao:
 
-1-Colesterol(restaurant)
-2-A&J(restaurant)
+        1-Colesterol(restaurant)
+        2-A&J(restaurant)
 
-14+Cotorro
+14+Cotorro:
+
+        1-Ole ole(restaurant)(incompleto)
 
 
 
