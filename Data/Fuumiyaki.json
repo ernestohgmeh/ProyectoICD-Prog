@@ -1,0 +1,691 @@
+{
+    "municipality": "Plaza de la Revolucion",
+    "info":
+        {
+        "nameLocal": "Fuumiyaki",
+        "location":
+        {
+            "address": "Calle 26 #367 entre 23 y 25",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1100-2300",
+            "thuesday": "1100-2300",
+            "wednesday": "1100-2300",
+            "thursday": "1100-2300",
+            "friday": "1100-2300",
+            "saturday": "1100-2300",
+            "sunday": "1100-2300"
+        },
+        "contactUs":
+        {
+            "phone": [78337939,52832188,53588179],
+            "web": "https://www.fuumiyaki.com/",
+            "social": ["https://www.instagram.com/fuumiyaki/?hl=es","https://www.facebook.com/fuumiyaki/"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP","USD","EUR"],
+            "parqueo": false,
+            "porCiento":10,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": true,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": true,
+        "tipoDeComidaEspecializada": ["japonesa"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Rollitos Primavera",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Gyozas",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Sopa Miso",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Ricepaper Roll de Pollo o Cerdo",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Ricepaper Roll de Camaron, Langosta, Pulpo o Pescado",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "Ceviche de Pescado",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Ceviche Mixto",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Tataki de Pescado",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Sashimi de Pescado",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Tartar de Pescado",
+                    "foodPrecio": 1200
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Tacos de Pollo",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Tacos de Camaron",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Tacos de Cerdo",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Tacos de Langosta",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Tacos de Ropa Vieja",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Arroz Frito de la Tierra",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Arroz Frito del Mar",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Arroz Frito de Mar y Tierra",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Okonomiyaki",
+                    "foodPrecio": 2000,
+                    "description": "Pizza Japonesa",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Camaron Flameado",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Filete de Pescado",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Langosta a la Plancha",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Grillada Asiatica",
+                    "foodPrecio": 4000,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Bocados de Tempura de Pollo",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Bocados de Tempura de Cerdo",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Bocados de Tempura de Pescado",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Bocados de Tempura de Camaron",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Bocados de Tempura de Langosta",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Yaki Tori de Pollo",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Yaki Tori de Cerdo",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Yaki Tori de Camaron",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Yaki Tori de Langosta",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Teriyaki de Pollo",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Teriyaki de Cerdo",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Teriyaki de Camarones",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Teriyaki de Langosta",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Yakisoba de Pollo",
+                    "foodPrecio": 1550,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Yakisoba de Cerdo",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Yakisoba de Camarones",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Yakisoba de Langosta",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Chow Mein de Pollo",
+                    "foodPrecio": 1550,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Chow Mein de Cerdo",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Chow Mein de Camaron",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Chow Mein de Langosta",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Chop Suey de Pollo",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Chop Suey de Cerdo",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Chop Suey de Camaron",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Chop Suey de Langosta",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Niguiris Mixtos (6 piezas)",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Kappa Maki Roll",
+                    "foodPrecio": 850,
+                    "description": "Vegetales Mixtos de Estacion",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Hawaiian Roll",
+                    "foodPrecio": 1300,
+                    "description": "Pollo Caramelizado, Queso Crema, Toping de Pina Glase con Jengibre y Sriracha Mayo",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "T.N.T Roll",
+                    "foodPrecio": 2100,
+                    "description": "Pollo Caramelizado, Pepino, Semillas de Sesamo con Toping de Camaron en Tempura, Reduccion de Vinagre Balsamico y Salsa Rosa",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Toro Spicy Roll",
+                    "foodPrecio": 1300,
+                    "description": "Atun Marinado con Sriracha Mayo, Toping de Berenjena Asada y Mayonesa de Dashi",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Oishi Roll",
+                    "foodPrecio": 1400,
+                    "description": "Pescado Asado en Teriyaki con Bastones de Pepino, Crujiente de Boniato y Queso Crema Saborizado",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Momo Ebi Roll",
+                    "foodPrecio": 1850,
+                    "description": "Camaron en Tempura, Fruta de Estacion, Queso Crema, Salsa Poke y Crujiente de Boniato",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Fuumi Roll",
+                    "foodPrecio": 2250,
+                    "description": "Camaron en Tempura, Zanahoria Encurtida, Sriracha Mayo y Toping de Atun con Salsa de Anguila",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Queen Roll",
+                    "foodPrecio": 1400,
+                    "description": "Langosta en Tempura, Zanahoria Encurtida, Mayonesa Saborizado y Toping de Piña Glase con Jengibre",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Sweet Beef Roll",
+                    "foodPrecio": 1350,
+                    "description": "Platano Maduro Frito, Queso Crema, Crujiente de Boniato y Toping de Ropa Vieja",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "King Roll",
+                    "foodPrecio": 2000,
+                    "description": "Berenjena Caramelizada en Teriyaki, Aguacate o Pepino, Toping de Pulpo en Tempura y Sriracha Mayo",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Tempura Roll de Pollo, Cerdo o Vegetales",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Tempura Roll de Cangrejo o Pescado",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Tempura Roll de Camaron, Langosta o Pulpo",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Alaska Roll",
+                    "foodPrecio": 1650,
+                    "description": "Cangrejo, Aguacate o Pepino, Toping de Queso Crema, Salsa Teriyaki y Cebollino",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "White Dragon Roll",
+                    "foodPrecio": 2000,
+                    "description": "Cangrejo, Pepino, Cebollino, Semilla de Sesamo, Toping de Camaron en Tempura, Reduccion de Balsamico y Salsa Rosa",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Philadelphia Roll",
+                    "foodPrecio": 2200,
+                    "description": "Aguacate o Pepino, Queso Crema y Toping de Salmon Ahumado",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Momo Sake Roll",
+                    "foodPrecio": 2200,
+                    "description": "Salmon Ahumado, Fruta de Estacion, Queso Crema, Salsa Poke y Crujiente de Boniato",
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Surtido de Sushis (25 Piezas)",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasficacion": ""
+                }
+            ],
+            "postre":
+            [],
+            "bebidas":
+            [
+                {
+                    "foodName": "Aguas",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugos Naturales",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Carlota",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refrescos",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cervezas",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Servicio Michelada",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Copa de Vino",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daiquiri",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipirinha",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiroska",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubanito",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Bloody Mary",
+                    "foodPrecio": 850,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña Colada",
+                    "foodPrecio": 850,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mimosa",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Gin Tonic",
+                    "foodPrecio": 850,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangria",
+                    "foodPrecio": 850,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tequila Sunrise",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Margarita",
+                    "foodPrecio": 850,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Old Fashion",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sake",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Mojito Sake",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Umeshu Mojito",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Matcha Highball",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chuchai",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Havana Club 7 Años",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Seleccion de Maestros",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Pacto Navio",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Santiago Añejo",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Santiago 11 Años",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Whisky Clan Campbell",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Whisky Jameson",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Whisky Ballantines",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Whisky Chivas 12 Años",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Whisky Chivas XV",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Whisky Chivas 18 Años",
+                    "foodPrecio": 1150,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cafe Expresso",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe Cortado",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Te",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

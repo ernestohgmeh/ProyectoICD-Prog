@@ -41,6 +41,7 @@
         6-La carreta(restaurant)
         7-El pelicano(restaurant)
         8-La Divina Pastora(restaurant)(incompleto)
+        9-Fuumiyaki(restaurant(pendiente))
 
 7+Playa:
 
