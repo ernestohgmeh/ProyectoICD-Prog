@@ -1,0 +1,158 @@
+{
+    "municipality": "",
+    "info":
+        {
+        "nameLocal": "La Divina Pastora",
+        "location":
+        {
+            "address": "Complejo Morro-Cabañaa",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1200-2300",
+            "thuesday": "1200-2300",
+            "wednesday": "1200-2300",
+            "thursday": "1200-2300",
+            "friday": "1200-2300",
+            "saturday": "1200-2300",
+            "sunday": "1200-2300"
+        },
+        "contactUs":
+        {
+            "phone": [77937809],
+            "web": "",
+            "social": ["https://www.facebook.com/LaDivinaPastoraCuba/?locale=es_LA","https://www.instagram.com/pastorarestauranteladivina/"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": true,
+            "porCiento": 10,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": true,
+        "tipoDeComidaEspecializada": [""],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Croqueticas La Tasca",
+                    "foodPrecio": 540
+                },
+                {
+                    "foodName": "Daditos de Pollo",
+                    "foodPrecio": 540
+                },
+                {
+                    "foodName": "Empanadas Divina Pastora",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Fritura de Malanga",
+                    "foodPrecio": 540
+                },
+                {
+                    "foodName": "Garbanzo Frito",
+                    "foodPrecio": 1020
+                },
+                {
+                    "foodName": "Tablita de Salmon Ahumado",
+                    "foodPrecio": 1620
+                },
+                {
+                    "foodName": "Pastas Fruto del Mar",
+                    "foodPrecio": 2100
+                },
+                {
+                    "foodName": "Hamburguesa Pastora",
+                    "foodPrecio": 1080
+                },
+                {
+                    "foodName": "Sándwich Roast Beef",
+                    "foodPrecio": 1620
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pollo Empanado a la Parmesana",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de Pescado",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Filete de Cerdo",
+                    "foodPrecio": 2040,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Rollito de Cerdo",
+                    "foodPrecio": 1560,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Filete de Res",
+                    "foodPrecio": 2880,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Estofado de Res",
+                    "foodPrecio": 2040,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Langosta Divina Pastora",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": "marisco"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "string/ nombre del plato",
+                    "foodPrecio": "int/precio del plato"
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "string/ nombre de la bebida",
+                    "foodPrecio": "int/precio del plato",
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}

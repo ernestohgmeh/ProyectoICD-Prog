@@ -1,0 +1,258 @@
+{
+    "municipality": "Plaza de la Revolucion",
+    "info":
+        {
+        "nameLocal": "El pelicano",
+        "location":
+        {
+            "address": "Zoo de 26",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "",
+            "thuesday": "",
+            "wednesday": "",
+            "thursday": "1000-1600",
+            "friday": "1000-1600",
+            "saturday": "1000-1600",
+            "sunday": "1000-1600"
+        },
+        "contactUs":
+        {
+            "phone": [53960310,63960310],
+            "web": "",
+            "social": ["https://www.instagram.com/pelicano_zoo/"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": null,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": true,
+        "tipoDeComidaEspecializada": [""],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Picadera de Jamon y Queso",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Bolitas de Queso",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Salchipapa",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Pan con Jamon y Queso",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Pan con Perro",
+                    "foodPrecio": 360
+                },
+                {
+                    "foodName": "Pan con Lechon",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Pan con Hamburguesa",
+                    "foodPrecio": 550
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pollo Frito",
+                    "foodPrecio": 420,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Pollo Chiflado",
+                    "foodPrecio": 520,
+                    "description": null,
+                    "clasficacion": "carne blanca"
+                },
+                {
+                    "foodName": "Brochetas de Pollo y Vegetales",
+                    "foodPrecio": 580,
+                    "description": null,
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Brochetas Mixtas",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "mixto"
+                },
+                {
+                    "foodName": "Brochetas de Cerdo",
+                    "foodPrecio": 720,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Lonja de Cerdo",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Masa de Cerdo",
+                    "foodPrecio": 990,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Bistec de Cerdo",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Arroz Moro",
+                    "foodPrecio": 150,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                },
+                {
+                    "foodName": "Arroz Blanco",
+                    "foodPrecio": 150,
+                    "description": null,
+                    "clasficacion": "guarniciones"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Paleta de Chocolate",
+                    "foodPrecio": 260
+                },
+                {
+                    "foodName": "Pote de Helado",
+                    "foodPrecio": 495
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Café Expresso",
+                    "foodPrecio": 90,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Cortado",
+                    "foodPrecio": 110,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Bombon",
+                    "foodPrecio": 150,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua",
+                    "foodPrecio": 120,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cajita de Jugo",
+                    "foodPrecio": 190,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza",
+                    "foodPrecio": 190,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refrescos",
+                    "foodPrecio": 195,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo Natural",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Limonada Frappe",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 290,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cuba Libre",
+                    "foodPrecio": 380,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada",
+                    "foodPrecio": 390,
+                    "alcoholica": true,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

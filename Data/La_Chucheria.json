@@ -1,0 +1,374 @@
+{
+    "municipality": "Playa",
+    "info":
+        {
+        "nameLocal": "La chucheria",
+        "location":
+        {
+            "address": "Calle 42 % 13 & 15",
+            "barrio": "Miramar",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "0800-2359",
+            "thuesday": "0800-2359",
+            "wednesday": "0800-2359",
+            "thursday": "0800-2359",
+            "friday": "0800-2359",
+            "saturday": "0800-2359",
+            "sunday": "0800-2359"
+        },
+        "contactUs":
+        {
+            "phone": [50353702,78300708],
+            "web": "",
+            "social": ["https://www.instagram.com/lachucheria_cafebar/?hl=es","https://www.threads.net/@lachucheria_cafebar?xmt=AQGzFQUWVCVGHvSUVO3MlHDWjWafDwMGe8dNjwXi-9vKRuU"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP","USD"],
+            "parqueo": null,
+            "porCiento": 10,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": true,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Desayuno Europeo",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "Desayuno Americano",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Desayuno Chucheria",
+                    "foodPrecio": 1600
+                },
+                {
+                    "foodName": "Tostadas de Serrano",
+                    "foodPrecio": 1750
+                },
+                {
+                    "foodName": "Tostadas de Salmon",
+                    "foodPrecio": 1900
+                },
+                {
+                    "foodName": "Tortilla Vegetariana",
+                    "foodPrecio": 1550
+                },
+                {
+                    "foodName": "Pancakes",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Tortilla Natural",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Crepes Chucheria",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Tostadas con Mantequilla",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Brusquetas con Serrano",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Tapas de Croquetas",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Picadera Chucheria",
+                    "foodPrecio": 3000
+                },
+                {
+                    "foodName": "Empanadas de Carne",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Empanadas de Pollo",
+                    "foodPrecio": 780
+                },
+                {
+                    "foodName": "Empanadas de Queso Azul y Espinacas",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Bolitas de Queso",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Sandwich Jonronero",
+                    "foodPrecio": 1650
+                },
+                {
+                    "foodName": "Sandwich Formula 1",
+                    "foodPrecio": 1700
+                },
+                {
+                    "foodName": "Sandwich Marinero",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "Sandwich Catalan",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Sandwich Helena Ruth",
+                    "foodPrecio": 1650
+                },
+                {
+                    "foodName": "Sandwich Beisbolera",
+                    "foodPrecio": 1450
+                },
+                {
+                    "foodName": "Sandwich Pepe Sport (Res)",
+                    "foodPrecio": 2150
+                },
+                {
+                    "foodName": "Sandwich Pepe Sport (Cerdo)",
+                    "foodPrecio": 1900
+                },
+                {
+                    "foodName": "Sandwich Vegetariano",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Club Sandwiches",
+                    "foodPrecio": 1700
+                },
+                {
+                    "foodName": "Hamburguesa Jaque Mate",
+                    "foodPrecio": 1750
+                },
+                {
+                    "foodName": "Hamburguesa Chucheria",
+                    "foodPrecio": 2100
+                },
+                {
+                    "foodName": "Hamburguesa Americana",
+                    "foodPrecio": 1650
+                },
+                {
+                    "foodName": "Hamburguesa Super Chu",
+                    "foodPrecio": 2350
+                },
+                {
+                    "foodName": "Wrap Relleno de Res",
+                    "foodPrecio": 2400
+                },
+                {
+                    "foodName": "Wrap Relleno de Carne de Cerdo",
+                    "foodPrecio": 1800
+                },
+                {
+                    "foodName": "Wrap Relleno de Pechuga de Pollo",
+                    "foodPrecio": 1700
+                },
+                {
+                    "foodName": "Wrap Relleno de Atun",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "Waffles de Nutella",
+                    "foodPrecio": 1250
+                },
+                {
+                    "foodName": "Waffles de Frutas y Miel",
+                    "foodPrecio": 1150
+                },
+                {
+                    "foodName": "Waffles con Salmon",
+                    "foodPrecio": 1850
+                },
+                {
+                    "foodName": "Crispy Chicken Waffles",
+                    "foodPrecio": 1450
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Ensalada Verano",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Ensalada Chucheria",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Ensalada Nueva Marinera",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Ensalada de Frutas",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Ensalada Griega",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Ensalada Prosciutto",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Pizza Chucheria",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Pizza Familiar",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Pasta Chucheria",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Pasta Carbonara",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Pasta Pesto",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Pasta 4 Quesos",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Pasta Boloñesa",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Lasaña",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Acal Tropical",
+                    "foodPrecio": 3500,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Acal Chucheria",
+                    "foodPrecio": 3800,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Completa Criolla de Res",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Completa Criolla de Cerdo",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Completa Criolla de Pechuga",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Salmon a la Plancha",
+                    "foodPrecio": 3600,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Mac & Cheese",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Combo para Niños",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": ""
+                },
+                {
+                    "foodName": "Nuggets de Pollo",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": ""
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "string/ nombre del plato",
+                    "foodPrecio": "int/precio del plato"
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "string/ nombre de la bebida",
+                    "foodPrecio": "int/precio del plato",
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}

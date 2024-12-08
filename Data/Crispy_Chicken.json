@@ -39,13 +39,13 @@
         },
         "ambientacion":
         {
-            "inside": false,
+            "inside": true,
             "outside": false,
-            "bajos": false,
+            "bajos": true,
             "altos": false,
             "ac": false,
             "entretenimiento": [],
-            "comentarios": "FALTA REVISAR TODO ESTE CAMPO"
+            "comentarios": ""
 
         },
         "vestimenta": ["casual"],

@@ -39,8 +39,13 @@
         4-Mar Adentro(restaurant)
         5-El Idilio(restaurant)
         6-La carreta(restaurant)
+        7-El pelicano(restaurant)
+        8-La Divina Pastora(restaurant)(incompleto)
 
 7+Playa:
+
+        1-Donde Juan(restaurant)
+        2-La chucheria
 
 8+Regla:
 
