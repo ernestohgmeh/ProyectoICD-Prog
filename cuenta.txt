@@ -42,6 +42,7 @@
         7-El pelicano(restaurant)
         8-La Divina Pastora(restaurant)(incompleto)
         9-Fuumiyaki(restaurant(pendiente))
+        10-Farallon(restaurant)
 
 7+Playa:
 
@@ -62,6 +63,8 @@
 10+Arroyo:
 
 11+Centro Habana:
+
+        1-Mundo Pizza(bar-restaurant)
 
 12+Habana Vieja:
 

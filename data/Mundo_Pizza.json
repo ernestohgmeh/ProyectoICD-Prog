@@ -1,0 +1,494 @@
+{
+    "municipality": "Centro Habana",
+    "info":
+        {
+        "nameLocal": "Mundo Pizza",
+        "location":
+        {
+            "address": "San Nicolas #309 % Neptuno & San Miguel,",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1200-2100",
+            "thuesday": "1200-2100",
+            "wednesday": "1200-2100",
+            "thursday": "1200-2100",
+            "friday": "1200-2100",
+            "saturday": "1200-2200",
+            "sunday": "1200-2200"
+        },
+        "contactUs":
+        {
+            "phone": [53372715],
+            "web": "",
+            "social": ["https://www.facebook.com/Mundopizza.habana/?locale=es_LA","https://www.instagram.com/mundopizza_habana/?hl=es"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": 10,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": false,
+            "altos": true,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["Pizzas"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                  "foodName": "Croquetas Caseras",
+                  "foodPrecio": 500
+                },
+                {
+                  "foodName": "Tostones Criollos",
+                  "foodPrecio": 540
+                },
+                {
+                  "foodName": "Focaccia",
+                  "foodPrecio": 560
+                },
+                {
+                  "foodName": "Pizza Rosa",
+                  "foodPrecio": 590
+                }
+              ],
+            "platoFuerte":
+            [
+                {
+                  "foodName": "Pizza Pinza Criolla",
+                  "foodPrecio": 900,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza Gouda",
+                  "foodPrecio": 1400,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza de Jamon",
+                  "foodPrecio": 1400,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza de Cebolla",
+                  "foodPrecio": 1330,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza de Champiñones",
+                  "foodPrecio": 1305,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza Guajiro",
+                  "foodPrecio": 1930,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza Super Margarita",
+                  "foodPrecio": 1450,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza Hawaiana",
+                  "foodPrecio": 1600,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza Diavola",
+                  "foodPrecio": 1500,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza de Atun",
+                  "foodPrecio": 1800,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza al Pesto",
+                  "foodPrecio": 1400,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza de Camarones",
+                  "foodPrecio": 1850,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza Mixta",
+                  "foodPrecio": 1800,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Pinza de Aceituna",
+                  "foodPrecio": 1300,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza de 32cm Margarita Criolla",
+                  "foodPrecio": 950,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza de 32cm Margarita Gouda",
+                  "foodPrecio": 1450,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Espaguetis",
+                  "foodPrecio": 950,
+                  "description": null,
+                  "clasficacion": "Pastas"
+                },
+                {
+                  "foodName": "Lasagna",
+                  "foodPrecio": 1250,
+                  "description": null,
+                  "clasficacion": "Pastas"
+                },
+                {
+                  "foodName": "Espaguetis al Pesto",
+                  "foodPrecio": 1050,
+                  "description": null,
+                  "clasficacion": "Pastas"
+                },
+                {
+                  "foodName": "Espaguetis del Dia",
+                  "foodPrecio": 1600,
+                  "description": null,
+                  "clasficacion": "Pastas"
+                },
+                {
+                  "foodName": "Pizza Metro Criolla",
+                  "foodPrecio": 2800,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Metro Casa",
+                  "foodPrecio": 3700,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Metro Gouda",
+                  "foodPrecio": 5100,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Metro Eleccion",
+                  "foodPrecio": 5150,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza ½ Metro Mix",
+                  "foodPrecio": 2500,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza ½ Metro Eleccion",
+                  "foodPrecio": 2700,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Congelada Mediana de Queso",
+                  "foodPrecio": 590,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Congelada Mediana Doble Queso",
+                  "foodPrecio": 570,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                },
+                {
+                  "foodName": "Pizza Congelada Mediana de Jamon y Queso",
+                  "foodPrecio": 670,
+                  "description": null,
+                  "clasficacion": "Horneado"
+                }
+              ],
+            "postre":
+            [
+                {
+                  "foodName": "Postre del Dia",
+                  "foodPrecio": 650
+                },
+                {
+                  "foodName": "Pizza al Chocolate",
+                  "foodPrecio": 815
+                },
+                {
+                  "foodName": "Helado 3 Gracias",
+                  "foodPrecio": 500
+                }
+              ],
+            "bebidas":
+            [
+                {
+                  "foodName": "Agua Natural",
+                  "foodPrecio": 250,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Agua Tonica",
+                  "foodPrecio": 350,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Refrescos",
+                  "foodPrecio": 300,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Jugo Cajita",
+                  "foodPrecio": 250,
+                  "alcoholica": false,
+                  "importada": true
+                },
+                {
+                  "foodName": "Malta",
+                  "foodPrecio": 350,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Energizante",
+                  "foodPrecio": 395,
+                  "alcoholica": false,
+                  "importada": true
+                },
+                {
+                  "foodName": "Cremas",
+                  "foodPrecio": 385,
+                  "alcoholica": false,
+                  "importada": true
+                },
+                {
+                  "foodName": "Copa de Vino",
+                  "foodPrecio": 550,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Limonada",
+                  "foodPrecio": 350,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Limonada Frescura",
+                  "foodPrecio": 450,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Mojito",
+                  "foodPrecio": 650,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cuba Libre",
+                  "foodPrecio": 700,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Piña Colada",
+                  "foodPrecio": 800,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Daiquiri",
+                  "foodPrecio": 750,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Daiquiri de Frutas",
+                  "foodPrecio": 850,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Margarita",
+                  "foodPrecio": 780,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Canchánchara",
+                  "foodPrecio": 750,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Caipirinha",
+                  "foodPrecio": 700,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Caipirissima",
+                  "foodPrecio": 700,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Caipiroska",
+                  "foodPrecio": 700,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cerveza",
+                  "foodPrecio": 350,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cheladas",
+                  "foodPrecio": 450,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Micheladas",
+                  "foodPrecio": 550,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Ron HC Añejo Especial",
+                  "foodPrecio": 415,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Ron HC Añejo Reserva",
+                  "foodPrecio": 550,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Ron HC Añejo 7 Años",
+                  "foodPrecio": 605,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Whisky",
+                  "foodPrecio": 500,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "Licores",
+                  "foodPrecio": 350,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "Café",
+                  "foodPrecio": 200,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Batido de Helado",
+                  "foodPrecio": 670,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Malteada",
+                  "foodPrecio": 650,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Super Jugo Natural",
+                  "foodPrecio": 350,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Vodka Tonic",
+                  "foodPrecio": 750,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Sangria",
+                  "foodPrecio": 700,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Gin Tonic",
+                  "foodPrecio": 900,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Gin Fizz",
+                  "foodPrecio": 800,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Havana Special",
+                  "foodPrecio": 660,
+                  "alcoholica": true,
+                  "importada": false
+                }
+              ]              
+        }
+    }
+}

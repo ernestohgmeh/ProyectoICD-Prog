@@ -34,7 +34,7 @@
             "tipoDeMoneda": ["CUP"],
             "parqueo": true,
             "porCiento": 10,
-            "alquiler": null,
+            "alquiler": true,
             "comentarios": ""
         },
         "ambientacion":
