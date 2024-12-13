@@ -1,0 +1,218 @@
+{
+    "municipality": "Cerro",
+    "info":
+        {
+        "nameLocal": "Rico rico",
+        "location":
+        {
+            "address": "Calle Ayestarán % Perfecto Lacoste & Aranguren",
+            "barrio": "",
+            "GPS": "23.124551564905598, -82.38044571457476"
+        },
+        "horarios": 
+        {
+            "monday": "0900-2300",
+            "thuesday": "0900-2300",
+            "wednesday": "0900-2300",
+            "thursday": "0900-2300",
+            "friday": "0900-2300",
+            "saturday": "0900-2300",
+            "sunday": "0900-2300"
+        },
+        "contactUs":
+        {
+            "phone": [51483086,78701632],
+            "web": "",
+            "social": ["https://www.facebook.com/RicoRicopizzeria/","https://www.instagram.com/ricoricopizzeria/"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento":null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                  "foodName": "Ensalada Fria de Atun Mediana",
+                  "foodPrecio": 1745
+                },
+                {
+                  "foodName": "Ensalada Fria de Atun Grande",
+                  "foodPrecio": 3250
+                },
+                {
+                  "foodName": "Ensalada Fria de Jamon y Queso Mediana",
+                  "foodPrecio": 1400
+                },
+                {
+                  "foodName": "Ensalada Fria de Jamon y Queso Mediana",
+                  "foodPrecio": 2800
+                },
+                {
+                  "foodName": "Pizzeta D' Napoles",
+                  "foodPrecio": 230
+                },
+                {
+                  "foodName": "Pizzeta D' Chorizo",
+                  "foodPrecio": 325
+                },
+                {
+                  "foodName": "Empanadas Gallegas",
+                  "foodPrecio": 380
+                },
+                {
+                  "foodName": "Tequeño",
+                  "foodPrecio": 350
+                }
+              ],
+            "platoFuerte":
+            [
+                {
+                  "foodName": "Pizza Napoles",
+                  "foodPrecio": 920,
+                  "description": null,
+                  "clasficacion": "pizza"
+                },
+                {
+                  "foodName": "Pasta Napoles",
+                  "foodPrecio": 920,
+                  "description": null,
+                  "clasficacion": "pasta"
+                },
+                {
+                  "foodName": "Pasta Carbonara",
+                  "foodPrecio": 1000,
+                  "description": null,
+                  "clasficacion": "pasta"
+                },
+                {
+                  "foodName": "Calzone Napoles",
+                  "foodPrecio": 1090,
+                  "description": null,
+                  "clasficacion": "pizza"
+                },
+                {
+                  "foodName": "MEGACALZONE",
+                  "foodPrecio": 1440,
+                  "description": null,
+                  "clasficacion": "pizza"
+                },
+                {
+                  "foodName": "Lasaña Boloñesa",
+                  "foodPrecio": 1550,
+                  "description": null,
+                  "clasficacion": "pasta"
+                },
+                {
+                  "foodName": "Lazaña de Jamon",
+                  "foodPrecio": 1490,
+                  "description": null,
+                  "clasficacion": "pasta"
+                },
+                {
+                  "foodName": "5 Quesos",
+                  "foodPrecio": 1690,
+                  "description": "Pizza de Queso Azul, queso de cabra, queso gouda, parmesano y mozzarella",
+                  "clasficacion": "pizza"
+                },
+                {
+                  "foodName": "Rico Rico",
+                  "foodPrecio": 1730,
+                  "description": "Pizza de 5 jamones: pierna, serrano, bacon, lomo, viking",
+                  "clasficacion": "pizza"
+                },
+                {
+                  "foodName": "Borde Relleno",
+                  "foodPrecio": 1460,
+                  "description": "Pizza con bordes rellenos de queso mozzarella",
+                  "clasficacion": "pizza"
+                },
+                {
+                  "foodName": "Antihawaiana",
+                  "foodPrecio": 1690,
+                  "description": "pizza de choriza con piña",
+                  "clasficacion": "pizza"
+                },
+                {
+                  "foodName": "Fitness",
+                  "foodPrecio": 1750,
+                  "description": "Pizza de jamon serrano, vegetales salteados, aceite de oliva y pimienta",
+                  "clasficacion": "pizza"
+                },
+                {
+                  "foodName": "Campesina",
+                  "foodPrecio": 1850,
+                  "description": "Pizza de maiz dulce, cerdo asado y cebolla",
+                  "clasficacion": "pizza"
+                },
+                {
+                  "foodName": "Pink",
+                  "foodPrecio": 1690,
+                  "description": "Pizza de Baicon, Cebolla y salsa rosa",
+                  "clasficacion": "pizza"
+                }
+              ],
+            "postre":
+            [
+                {
+                  "foodName": "Pastelitos de Guayaba o coco",
+                  "foodPrecio": 260
+                },
+                {
+                  "foodName": "Pastelitos de jamon o queso",
+                  "foodPrecio": 280
+                }
+              ],
+            "bebidas":
+            [
+                {
+                  "foodName": "Bati Bati",
+                  "foodPrecio": 530,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "SUPER Bati Bati",
+                  "foodPrecio": 785,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Bati Frutas",
+                  "foodPrecio": 675,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Frapi Rico",
+                  "foodPrecio": 230,
+                  "alcoholica": false,
+                  "importada": false
+                }
+              ]              
+        }
+    }
+}
