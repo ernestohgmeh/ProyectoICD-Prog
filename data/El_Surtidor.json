@@ -1,0 +1,235 @@
+{
+    "municipality": "Habana Vieja",
+    "info":
+        {
+        "nameLocal": "El Surtidor",
+        "location":
+        {
+            "address": "Calle San Rafael entre Monserrate y Agramonte",
+            "barrio": "",
+            "GPS": "23.13808217817247, -82.35790838082555"
+        },
+        "horarios": 
+        {
+            "monday": "0900-2300",
+            "thuesday": "0900-2300",
+            "wednesday": "0900-2300",
+            "thursday": "0900-2300",
+            "friday": "0900-2300",
+            "saturday": "0900-2300",
+            "sunday": "0900-2300"
+        },
+        "contactUs":
+        {
+            "phone": [78699100],
+            "web": "https://www.kempinski.com/es/gran-hotel-kempinski-la-habana/restaurantes-y-bares/terraza-de-la-piscina-y-bar-el-surtidor",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["USD","EUR"],
+            "parqueo": false,
+            "porCiento": 10,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": false,
+            "altos": true,
+            "ac": false,
+            "entretenimiento": ["piscina"],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": true,
+        "tipoDeComidaEspecializada": ["internacional"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Sandwich Clasico",
+                    "foodPrecio": 2925
+                },
+                {
+                    "foodName": "Club Sandwich",
+                    "foodPrecio": 6175
+                },
+                {
+                    "foodName": "Sándwich Cubano con Cerdo",
+                    "foodPrecio": 4225
+                },
+                {
+                    "foodName": "Sándwich de Atun",
+                    "foodPrecio": 4550
+                },
+                {
+                    "foodName": "Hamburguesa de Res",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "Hamburguesa Especial",
+                    "foodPrecio": 8125
+                },
+                {
+                    "foodName": "Croquetas del Dia",
+                    "foodPrecio": 3250
+                },
+                {
+                    "foodName": "Tostones Rellenos de Atun",
+                    "foodPrecio": 3575
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Masa de Cerdo Frita",
+                    "foodPrecio": 7475,
+                    "description": null,
+                    "clasficacion": "carne roja"
+                },
+                {
+                    "foodName": "Pizza Margarita",
+                    "foodPrecio": 4875,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza de Jamon",
+                    "foodPrecio": 5200,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza de Jamon Serrano",
+                    "foodPrecio": 6500,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza de 4 Quesos",
+                    "foodPrecio": 6500,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza de Vegetales",
+                    "foodPrecio": 5200,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza Diavola",
+                    "foodPrecio": 5200,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza Hawaiana",
+                    "foodPrecio": 4225,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Tacos de Pescado Estilo Baja",
+                    "foodPrecio": 6500,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Tacos de Carne Asada",
+                    "foodPrecio": 7475,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Tacos Campechano",
+                    "foodPrecio": 8125,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Tacos Vegetarianos",
+                    "foodPrecio": 4224,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Tacos de Carnita de Cerdo",
+                    "foodPrecio": 5850,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Tacos al Pastor",
+                    "foodPrecio": 6500,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Pasta con Langosta",
+                    "foodPrecio": 7475,
+                    "description": null,
+                    "clasficacion": "pasta"
+                },
+                {
+                    "foodName": "Pasta de Mariscos",
+                    "foodPrecio": 7150,
+                    "description": null,
+                    "clasficacion": "pasta"
+                },
+                {
+                    "foodName": "Pasta Amatriciana",
+                    "foodPrecio": 5850,
+                    "description": null,
+                    "clasficacion": "pasta"
+                },
+                {
+                    "foodName": "Pasta Carbonara",
+                    "foodPrecio": 6175,
+                    "description": null,
+                    "clasficacion": "pasta"
+                },
+                {
+                    "foodName": "Pasta al Burro",
+                    "foodPrecio": 4875,
+                    "description": null,
+                    "clasficacion": "pasta"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Tarta de Limon",
+                    "foodPrecio": 3575
+                },
+                {
+                    "foodName": "Tarta de Coco",
+                    "foodPrecio": 3575
+                },
+                {
+                    "foodName": "Pastel de Chocolate Blanco",
+                    "foodPrecio": 3575
+                },
+                {
+                    "foodName": "Flan Cubano",
+                    "foodPrecio": 3575
+                },
+                {
+                    "foodName": "Helado",
+                    "foodPrecio": 3575
+                }
+            ],
+            "bebidas":
+            []
+        }
+    }
+}
