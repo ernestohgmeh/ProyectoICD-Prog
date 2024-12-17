@@ -94,85 +94,85 @@
                   "foodName": "Pizza Napoles",
                   "foodPrecio": 920,
                   "description": null,
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Pasta Napoles",
                   "foodPrecio": 920,
                   "description": null,
-                  "clasficacion": "pasta"
+                  "clasificacion": "pasta"
                 },
                 {
                   "foodName": "Pasta Carbonara",
                   "foodPrecio": 1000,
                   "description": null,
-                  "clasficacion": "pasta"
+                  "clasificacion": "pasta"
                 },
                 {
                   "foodName": "Calzone Napoles",
                   "foodPrecio": 1090,
                   "description": null,
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "MEGACALZONE",
                   "foodPrecio": 1440,
                   "description": null,
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Lasaña Boloñesa",
                   "foodPrecio": 1550,
                   "description": null,
-                  "clasficacion": "pasta"
+                  "clasificacion": "pasta"
                 },
                 {
                   "foodName": "Lazaña de Jamon",
                   "foodPrecio": 1490,
                   "description": null,
-                  "clasficacion": "pasta"
+                  "clasificacion": "pasta"
                 },
                 {
                   "foodName": "5 Quesos",
                   "foodPrecio": 1690,
                   "description": "Pizza de Queso Azul, queso de cabra, queso gouda, parmesano y mozzarella",
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Rico Rico",
                   "foodPrecio": 1730,
                   "description": "Pizza de 5 jamones: pierna, serrano, bacon, lomo, viking",
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Borde Relleno",
                   "foodPrecio": 1460,
                   "description": "Pizza con bordes rellenos de queso mozzarella",
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Antihawaiana",
                   "foodPrecio": 1690,
                   "description": "pizza de choriza con piña",
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Fitness",
                   "foodPrecio": 1750,
                   "description": "Pizza de jamon serrano, vegetales salteados, aceite de oliva y pimienta",
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Campesina",
                   "foodPrecio": 1850,
                   "description": "Pizza de maiz dulce, cerdo asado y cebolla",
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Pink",
                   "foodPrecio": 1690,
                   "description": "Pizza de Baicon, Cebolla y salsa rosa",
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 }
               ],
             "postre":

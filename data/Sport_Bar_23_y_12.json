@@ -1,0 +1,90 @@
+{
+    "municipality": "Plaza de la Revolucion",
+    "info":
+        {
+        "nameLocal": "Sport Bar 23 y 12",
+        "location":
+        {
+            "address": "Esquina 23 & 12,",
+            "barrio": "Vedado",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "",
+            "thuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": [""]
+        },
+        "services":
+        {
+            "tranfer": false,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": false,
+            "tipoDeMoneda": [""],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [""],
+            "comentarios": ""
+
+        },
+        "vestimenta": [""],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [""],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "string/ nombre del plato",
+                    "foodPrecio": "int/precio del plato"
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "string/ nombre del plato",
+                    "foodPrecio": "int/precio del plato",
+                    "description": "string-null/ en caso de q el nombre del plato sea un nombre unico y no diga de q esta hecho; de otra forma el valor es null",
+                    "clasificacion": "string/ carne roja, blanca, guarniciones etc"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "string/ nombre del plato",
+                    "foodPrecio": "int/precio del plato"
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "string/ nombre de la bebida",
+                    "foodPrecio": "int/precio del plato",
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
-    "municipality": "String/ Nombre del municipio",
+    "municipality": "",
     "info":
         {
-        "nameLocal": "string/ nombre del local",
+        "nameLocal": "Melao's",
         "location":
         {
             "address": "string/ calle pricipal entre calles laterales",

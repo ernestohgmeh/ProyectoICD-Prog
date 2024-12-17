@@ -126,277 +126,277 @@
                     "foodName": "Pizza de Queso Azul",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Napolitana",
                     "foodPrecio": 1360,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Margarita",
                     "foodPrecio": 1400,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Parmesana",
                     "foodPrecio": 1800,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Carbonara",
                     "foodPrecio": 1950,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Hawaiana",
                     "foodPrecio": 1800,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Cantabrica",
                     "foodPrecio": 1800,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Marina",
                     "foodPrecio": 2400,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Mediterranea",
                     "foodPrecio": 1800,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Mixta Lacret",
                     "foodPrecio": 2700,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Jamon",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Chorizo",
                     "foodPrecio": 1450,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Bacon",
                     "foodPrecio": 1850,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Cebolla",
                     "foodPrecio": 1400,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Pimiento",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Vegetales",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Champiñones",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Camaron",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Atun",
                     "foodPrecio": 2300,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Aceitunas",
                     "foodPrecio": 1400,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Jamon Serrano",
                     "foodPrecio": 3000,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Iberica",
                     "foodPrecio": 3400,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Pepperoni",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Ranchera",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Langosta al Gusto",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Camarones al Gusto",
                     "foodPrecio": 2400,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Lomo Ahumado",
                     "foodPrecio": 2175,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Lomo Importado",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Chuleta de Cerdo",
                     "foodPrecio": 2100,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Enchilado de Cangrejo",
                     "foodPrecio": 2400,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Hamburguesa de Res",
                     "foodPrecio": 850,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Ropa Vieja de Res",
                     "foodPrecio": 2025,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Pechuga de Pollo Grille",
                     "foodPrecio": 1975,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pechuga de Pollo a la Gordon Blue",
                     "foodPrecio": 2175,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pescado Grille",
                     "foodPrecio": 1975,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pescado Enchilado",
                     "foodPrecio": 1975,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pescado Canciller",
                     "foodPrecio": 2175,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Arroz Blanco",
                     "foodPrecio": 400,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Pilaf",
                     "foodPrecio": 500,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Chips de Boniato",
                     "foodPrecio": 400,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Chips de Malanga",
                     "foodPrecio": 400,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Papas Fritas",
                     "foodPrecio": 400,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Tacos de Res",
                     "foodPrecio": 1550,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Tacos de Mar",
                     "foodPrecio": 1550,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Tacos de Cerdo",
                     "foodPrecio": 1200,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Tacos de Pollo",
                     "foodPrecio": 1000,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 }
             ],
             "postre":

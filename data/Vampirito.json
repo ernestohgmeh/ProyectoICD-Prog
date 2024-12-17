@@ -110,103 +110,103 @@
                     "foodName": "Ensalada de Vegetales Salteados",
                     "foodPrecio": 520,
                     "description": null,
-                    "clasficacion": "Ensalada"
+                    "clasificacion": "Ensalada"
                 },
                 {
                     "foodName": "Garbanzos Fritos",
                     "foodPrecio": 1290,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Solomillo de Cerdo",
                     "foodPrecio": 2340,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Carne Asada en Cazuela",
                     "foodPrecio": 2340,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "De Pollo Tenemos Pregúntame?",
                     "foodPrecio": 1390,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "De Cerdo Tenemos Pregúntame?",
                     "foodPrecio": 1610,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "De Res Tenemos Pregúntame?",
                     "foodPrecio": 2570,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Crema de Queso",
                     "foodPrecio": 570,
                     "description": null,
-                    "clasficacion": "Sopas y cremas"
+                    "clasificacion": "Sopas y cremas"
                 },
                 {
                     "foodName": "Crema Aurora",
                     "foodPrecio": 600,
                     "description": null,
-                    "clasficacion": "sopas y cremas"
+                    "clasificacion": "sopas y cremas"
                 },
                 {
                     "foodName": "Crema Virginia",
                     "foodPrecio": 690,
                     "description": null,
-                    "clasficacion": "sopas y cremas"
+                    "clasificacion": "sopas y cremas"
                 },
                 {
                     "foodName": "Lasaña de Jamón",
                     "foodPrecio": 1530,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Lasaña de Carne",
                     "foodPrecio": 1530,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Lasaña Hawaiana",
                     "foodPrecio": 1570,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Spaguettis",
                     "foodPrecio": 1090,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Media Ración de Spaguettis Más Media Ración de Lasaña",
                     "foodPrecio": 1310,
                     "description": "solo dios sabe q carajos es eso",
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pizza de Queso",
                     "foodPrecio": 1220,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Pequeña",
                     "foodPrecio": 590,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 }
             ],
             "postre":

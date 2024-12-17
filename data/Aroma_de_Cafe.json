@@ -114,73 +114,73 @@
                     "foodName": "Nachos con Salsa",
                     "foodPrecio": 200,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Croquetas",
                     "foodPrecio": 320,
                     "description": null,
-                    "clasficacion": "guarnicion"
+                    "clasificacion": "guarnicion"
                 },
                 {
                     "foodName": "Picadera Aroma",
                     "foodPrecio": 550,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Garbanzos Fritos",
                     "foodPrecio": 600,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Eperlan de Pescado",
                     "foodPrecio": 700,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Enchilado de Cangrejo",
                     "foodPrecio": 600,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Fajitas de Cerdo",
                     "foodPrecio": 600,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Tacos Mexicanos de Pollo",
                     "foodPrecio": 500,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos Mexicanos de Cangrejo",
                     "foodPrecio": 600,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos Mexicanos de Cerdo",
                     "foodPrecio": 620,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos Mexicanos de Ropa Vieja",
                     "foodPrecio": 750,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos Mexicanos de Jamon Pierna",
                     "foodPrecio": 750,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 }                
             ],
             "postre":

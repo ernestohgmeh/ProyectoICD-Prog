@@ -102,343 +102,343 @@
                     "foodName": "Tacos de Pollo",
                     "foodPrecio": 1100,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Tacos de Camaron",
                     "foodPrecio": 1600,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Tacos de Cerdo",
                     "foodPrecio": 1400,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Tacos de Langosta",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Tacos de Ropa Vieja",
                     "foodPrecio": 1300,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Arroz Frito de la Tierra",
                     "foodPrecio": 1000,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Arroz Frito del Mar",
                     "foodPrecio": 1100,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Arroz Frito de Mar y Tierra",
                     "foodPrecio": 1300,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Okonomiyaki",
                     "foodPrecio": 2000,
                     "description": "Pizza Japonesa",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Camaron Flameado",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Filete de Pescado",
                     "foodPrecio": 2300,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Langosta a la Plancha",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Grillada Asiatica",
                     "foodPrecio": 4000,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Bocados de Tempura de Pollo",
                     "foodPrecio": 1600,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Bocados de Tempura de Cerdo",
                     "foodPrecio": 1900,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Bocados de Tempura de Pescado",
                     "foodPrecio": 2200,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Bocados de Tempura de Camaron",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Bocados de Tempura de Langosta",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Yaki Tori de Pollo",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Yaki Tori de Cerdo",
                     "foodPrecio": 1800,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Yaki Tori de Camaron",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Yaki Tori de Langosta",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Teriyaki de Pollo",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Teriyaki de Cerdo",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Teriyaki de Camarones",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Teriyaki de Langosta",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Yakisoba de Pollo",
                     "foodPrecio": 1550,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Yakisoba de Cerdo",
                     "foodPrecio": 1850,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Yakisoba de Camarones",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Yakisoba de Langosta",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Chow Mein de Pollo",
                     "foodPrecio": 1550,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Chow Mein de Cerdo",
                     "foodPrecio": 1850,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Chow Mein de Camaron",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Chow Mein de Langosta",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Chop Suey de Pollo",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Chop Suey de Cerdo",
                     "foodPrecio": 1800,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Chop Suey de Camaron",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Chop Suey de Langosta",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Niguiris Mixtos (6 piezas)",
                     "foodPrecio": 1200,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Kappa Maki Roll",
                     "foodPrecio": 850,
                     "description": "Vegetales Mixtos de Estacion",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Hawaiian Roll",
                     "foodPrecio": 1300,
                     "description": "Pollo Caramelizado, Queso Crema, Toping de Pina Glase con Jengibre y Sriracha Mayo",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "T.N.T Roll",
                     "foodPrecio": 2100,
                     "description": "Pollo Caramelizado, Pepino, Semillas de Sesamo con Toping de Camaron en Tempura, Reduccion de Vinagre Balsamico y Salsa Rosa",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Toro Spicy Roll",
                     "foodPrecio": 1300,
                     "description": "Atun Marinado con Sriracha Mayo, Toping de Berenjena Asada y Mayonesa de Dashi",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Oishi Roll",
                     "foodPrecio": 1400,
                     "description": "Pescado Asado en Teriyaki con Bastones de Pepino, Crujiente de Boniato y Queso Crema Saborizado",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Momo Ebi Roll",
                     "foodPrecio": 1850,
                     "description": "Camaron en Tempura, Fruta de Estacion, Queso Crema, Salsa Poke y Crujiente de Boniato",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Fuumi Roll",
                     "foodPrecio": 2250,
                     "description": "Camaron en Tempura, Zanahoria Encurtida, Sriracha Mayo y Toping de Atun con Salsa de Anguila",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Queen Roll",
                     "foodPrecio": 1400,
                     "description": "Langosta en Tempura, Zanahoria Encurtida, Mayonesa Saborizado y Toping de Piña Glase con Jengibre",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Sweet Beef Roll",
                     "foodPrecio": 1350,
                     "description": "Platano Maduro Frito, Queso Crema, Crujiente de Boniato y Toping de Ropa Vieja",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "King Roll",
                     "foodPrecio": 2000,
                     "description": "Berenjena Caramelizada en Teriyaki, Aguacate o Pepino, Toping de Pulpo en Tempura y Sriracha Mayo",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Tempura Roll de Pollo, Cerdo o Vegetales",
                     "foodPrecio": 1200,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Tempura Roll de Cangrejo o Pescado",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Tempura Roll de Camaron, Langosta o Pulpo",
                     "foodPrecio": 1950,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Alaska Roll",
                     "foodPrecio": 1650,
                     "description": "Cangrejo, Aguacate o Pepino, Toping de Queso Crema, Salsa Teriyaki y Cebollino",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "White Dragon Roll",
                     "foodPrecio": 2000,
                     "description": "Cangrejo, Pepino, Cebollino, Semilla de Sesamo, Toping de Camaron en Tempura, Reduccion de Balsamico y Salsa Rosa",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Philadelphia Roll",
                     "foodPrecio": 2200,
                     "description": "Aguacate o Pepino, Queso Crema y Toping de Salmon Ahumado",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Momo Sake Roll",
                     "foodPrecio": 2200,
                     "description": "Salmon Ahumado, Fruta de Estacion, Queso Crema, Salsa Poke y Crujiente de Boniato",
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Surtido de Sushis (25 Piezas)",
                     "foodPrecio": 3200,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 }
             ],
             "postre":

@@ -122,175 +122,175 @@
                     "foodName": "Bistec de Cerdo Encebollado",
                     "foodPrecio": 1850,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Bistec de Cerdo Grille",
                     "foodPrecio": 1600,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Masas de Cerdo",
                     "foodPrecio": 1850,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Escalope de Cerdo",
                     "foodPrecio": 1950,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Ropa Vieja de Cerdo",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Arroz Frito",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Suprema de Pollo",
                     "foodPrecio": 1850,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Fajitas de Pollo Salteadas con Vegetales",
                     "foodPrecio": 1750,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pollo Frito",
                     "foodPrecio": 1450,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Brochetas Mixtas al Carbon",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "mixta"
+                    "clasificacion": "mixta"
                 },
                 {
                     "foodName": "Cordon Bleu",
                     "foodPrecio": 3050,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Bistec Uruguayo",
                     "foodPrecio": 3250,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Milanesa a la Napolitana",
                     "foodPrecio": 3300,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Arroz Moro",
                     "foodPrecio": 350,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Blanco",
                     "foodPrecio": 250,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Crema de Malanga",
                     "foodPrecio": 800,
                     "description": null,
-                    "clasficacion": "sopas y cremas"
+                    "clasificacion": "sopas y cremas"
                 },
                 {
                     "foodName": "Ensalada Mixta",
                     "foodPrecio": 750,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Viandas Fritas",
                     "foodPrecio": 650,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Papas Fritas",
                     "foodPrecio": 750,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Spaghetti Napolitano",
                     "foodPrecio": 1300,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Spaghetti de Jamon",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pizza Napolitana",
                     "foodPrecio": 1300,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza de Chorizo",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza de Atun",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Hawaiana",
                     "foodPrecio": 1950,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Tilin",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza de Jamon",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza de Cebolla",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Napolitana de 21cm",
                     "foodPrecio": 500,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 }
             ],
             "postre":

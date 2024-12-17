@@ -1,0 +1,472 @@
+{
+    "municipality": "Plaza",
+    "info":
+        {
+        "nameLocal": "FoodMaster",
+        "location":
+        {
+            "address": "Calle 7A #6620 % 66 & 70",
+            "barrio": "Miramar",
+            "GPS": "23.108099049321744, -82.43421428541004"
+        },
+        "horarios": 
+        {
+            "monday": "1030-2100",
+            "thuesday": "1030-2100",
+            "wednesday": "1030-2100",
+            "thursday": "1030-2100",
+            "friday": "1030-2200",
+            "saturday": "1030-2200",
+            "sunday": "1030-2100"
+        },
+        "contactUs":
+        {
+            "phone": [53826366],
+            "web": "",
+            "social": ["https://www.instagram.com/foodmaster.havana/?hl=es","https://www.facebook.com/foodmaster.havana/"]
+        },
+        "services":
+        {
+            "tranfer": false,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [""],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["Comida rapida"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Picadera Food Master",
+                    "foodPrecio": 2700
+                },
+                {
+                    "foodName": "Salchichas al Grill",
+                    "foodPrecio": 1600
+                },
+                {
+                    "foodName": "Quesadilla",
+                    "foodPrecio": 990
+                },
+                {
+                    "foodName": "Tacos",
+                    "foodPrecio": 990
+                },
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Empanadas",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 690
+                },
+                {
+                    "foodName": "Burger Cerdo",
+                    "foodPrecio": 1250
+                },
+                {
+                    "foodName": "Burger Pollo",
+                    "foodPrecio": 1250
+                },
+                {
+                    "foodName": "Burger Ahumado",
+                    "foodPrecio": 1350
+                },
+                {
+                    "foodName": "Burger Mixta",
+                    "foodPrecio": 1450
+                },
+                {
+                    "foodName": "Burger Res",
+                    "foodPrecio": 1550
+                },
+                {
+                    "foodName": "Burger de Pollo al Curry",
+                    "foodPrecio": 1250
+                },
+                {
+                    "foodName": "Wrap de Atun",
+                    "foodPrecio": 1950
+                },
+                {
+                    "foodName": "Wrap Vegetariano",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Big Master Burger",
+                    "foodPrecio": 3500
+                },
+                {
+                    "foodName": "Hamburguesa Suiza",
+                    "foodPrecio": 2950
+                },
+                {
+                    "foodName": "Hamburguesa Proteina Max",
+                    "foodPrecio": 2700
+                },
+                {
+                    "foodName": "Hamburguesa la Granja",
+                    "foodPrecio": 2550
+                },
+                {
+                    "foodName": "Hamburguesa Italiana",
+                    "foodPrecio": 2450
+                },
+                {
+                    "foodName": "Hamburguesa Hawaiana",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "Hamburguesa Mexicana",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "Mini Hamburguesa de Cerdo",
+                    "foodPrecio": 840
+                },
+                {
+                    "foodName": "Mini Hamburguesa de Pollo",
+                    "foodPrecio": 840
+                },
+                {
+                    "foodName": "Mini Hamburguesa de Res",
+                    "foodPrecio": 1350
+                },
+                {
+                    "foodName": "Mini Papas Fritas",
+                    "foodPrecio": 390
+                },
+                {
+                    "foodName": "Mini Nuggets de Pollo",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Nuggets de Pollo",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Combo Infantil de Burger",
+                    "foodPrecio": 1690
+                },
+                {
+                    "foodName": "Combo Infantil de Nuggets",
+                    "foodPrecio": 1200
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Ensala de Vegetales",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "ensalada"
+                },
+                {
+                    "foodName": "Ensalada Caprese de Queso Fresco de Cabra",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasficacion": "ensalada"
+                },
+                {
+                    "foodName": "Ensalada Griega",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasficacion": "ensalada"
+                },
+                {
+                    "foodName": "Pizza Margarita",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza Margarita con Jamon",
+                    "foodPrecio": 2400,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza Diavola",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza de Jamon Serrano",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza de Atun",
+                    "foodPrecio": 3100,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza la Prohibida en Italia",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasficacion": "pizza"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Empanadas de Piña y Queso",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Muffin",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Helado",
+                    "foodPrecio": 750
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Café Espreso",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Americano",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Cortado",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Capuchino",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Frapuccino",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Te",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Smopthie de Frutas y/o Vegetales",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Fresh de Pepino 100ml",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Fresh de Piña 100ml",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Fresh de Zanahoria 100ml",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo Natural 300ml",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo Cajita",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Batido de Helado",
+                    "foodPrecio": 750,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batido de Helado y Frutas",
+                    "foodPrecio": 750,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Frape Frescura",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Frape Clasica",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Mojito",
+                    "foodPrecio": 850,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Detox",
+                    "foodPrecio": 850,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Tropical",
+                    "foodPrecio": 850,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Tutti Frutti",
+                    "foodPrecio": 1200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Natural",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Gaseada",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Red Bull",
+                    "foodPrecio": 800,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Kermato",
+                    "foodPrecio": 800,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Vino por Copa",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Gin&Tonic",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangria",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangria Blanca",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tinto de Verano",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Spirit Coctel",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Gama Alta",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

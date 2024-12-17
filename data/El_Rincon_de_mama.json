@@ -94,157 +94,157 @@
                     "foodName": "Brocheta de Camaron al Carbon",
                     "foodPrecio": 2870,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Brochetas de Cerdo 1lb al Carbon",
                     "foodPrecio": 2970,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Brochetas de Cerdo 1/2 lb al Carbon",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Costilla Asada al Carbon",
                     "foodPrecio": 2900,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Chuleton Deshuesado 1lb al Carbon",
                     "foodPrecio": 2970,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Chuleton Deshuesado 1/2 lb al Carbon",
                     "foodPrecio": 1970,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Pechuga de Pollo 1lb al Carbon",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Chorizo Parrillero al Carbon",
                     "foodPrecio": 2700,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Chuleta de Jamon Pierna al Carbon",
                     "foodPrecio": 3000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Bistec de Res al Carbon",
                     "foodPrecio": 2860,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Camaron Enchilado",
                     "foodPrecio": 2760,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Ropa Vieja o Vaca Frita",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Filete de Merluza Grille",
                     "foodPrecio": 1800,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Tacos al Pastor",
                     "foodPrecio": 370,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos de Ropa Vieja",
                     "foodPrecio": 480,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos de Camaron",
                     "foodPrecio": 490,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos de Atun",
                     "foodPrecio": 500,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos al Pastor (8 unidades)",
                     "foodPrecio": 2880,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Pizza Napolitana",
                     "foodPrecio": 990,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Hawaiana",
                     "foodPrecio": 1420,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Espaguetis Napolitanos",
                     "foodPrecio": 870,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Arroz Frito Especial",
                     "foodPrecio": 1400,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Frito",
                     "foodPrecio": 1000,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Moro",
                     "foodPrecio": 400,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Blanco",
                     "foodPrecio": 350,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Yuca con Mojo",
                     "foodPrecio": 300,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 }
             ],
             "postre":

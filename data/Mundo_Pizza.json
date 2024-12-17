@@ -78,175 +78,175 @@
                   "foodName": "Pizza Pinza Criolla",
                   "foodPrecio": 900,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza Gouda",
                   "foodPrecio": 1400,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza de Jamon",
                   "foodPrecio": 1400,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza de Cebolla",
                   "foodPrecio": 1330,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza de Champiñones",
                   "foodPrecio": 1305,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza Guajiro",
                   "foodPrecio": 1930,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza Super Margarita",
                   "foodPrecio": 1450,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza Hawaiana",
                   "foodPrecio": 1600,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza Diavola",
                   "foodPrecio": 1500,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza de Atun",
                   "foodPrecio": 1800,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza al Pesto",
                   "foodPrecio": 1400,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza de Camarones",
                   "foodPrecio": 1850,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza Mixta",
                   "foodPrecio": 1800,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Pinza de Aceituna",
                   "foodPrecio": 1300,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza de 32cm Margarita Criolla",
                   "foodPrecio": 950,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza de 32cm Margarita Gouda",
                   "foodPrecio": 1450,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Espaguetis",
                   "foodPrecio": 950,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Lasagna",
                   "foodPrecio": 1250,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Espaguetis al Pesto",
                   "foodPrecio": 1050,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Espaguetis del Dia",
                   "foodPrecio": 1600,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Pizza Metro Criolla",
                   "foodPrecio": 2800,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Metro Casa",
                   "foodPrecio": 3700,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Metro Gouda",
                   "foodPrecio": 5100,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Metro Eleccion",
                   "foodPrecio": 5150,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza ½ Metro Mix",
                   "foodPrecio": 2500,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza ½ Metro Eleccion",
                   "foodPrecio": 2700,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Congelada Mediana de Queso",
                   "foodPrecio": 590,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Congelada Mediana Doble Queso",
                   "foodPrecio": 570,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 },
                 {
                   "foodName": "Pizza Congelada Mediana de Jamon y Queso",
                   "foodPrecio": 670,
                   "description": null,
-                  "clasficacion": "Horneado"
+                  "clasificacion": "Horneado"
                 }
               ],
             "postre":

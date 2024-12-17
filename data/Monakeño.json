@@ -118,211 +118,211 @@
                     "foodName": "Ensalada de Atun y Vegetale",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Ensalada Italiana",
                     "foodPrecio": 2300,
                     "description": "Vegetales, Aceitunas, Jamon Serrano y Queso",
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Ensalada Monakeño",
                     "foodPrecio": 1200,
                     "description": "Vegetales, Frutos Secos, Uvas Pasas",
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Langosta",
                     "foodPrecio": 3500,
                     "description": "Enchilada, Grille o Al Ajillo",
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Arroz Pilaf",
                     "foodPrecio": 500,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Solomillo de Res",
                     "foodPrecio": 5500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Carpaccio de Res",
                     "foodPrecio": 1900,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Ropa Vieja de Res",
                     "foodPrecio": 2800,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Vaca Frita",
                     "foodPrecio": 2800,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Pechuga de Pollo Grille",
                     "foodPrecio": 2200,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Milanesa Monakeño",
                     "foodPrecio": 2150,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Chuleta de Cerdo",
                     "foodPrecio": 2400,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Camaron al Gusto",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Arroz Blanco",
                     "foodPrecio": 250,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Vegetales Salteados",
                     "foodPrecio": 250,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Pure de Boniato",
                     "foodPrecio": 200,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Pasta Napolitana",
                     "foodPrecio": 1450,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pasta Carbonara",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pasta Alfredo",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pasta Amatriciana",
                     "foodPrecio": 2400,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pasta 4 Quesos",
                     "foodPrecio": 2200,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pasta de Vegetales",
                     "foodPrecio": 1150,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pasta al Pesto",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pasta Boloñesa",
                     "foodPrecio": 2200,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pizza de Nutella",
                     "foodPrecio": 1050,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Bolo de Jamon",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Bolo de Camarones",
                     "foodPrecio": 1950,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Margarita",
                     "foodPrecio": 1650,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Monakeño",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Napolitana",
                     "foodPrecio": 1150,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Atun",
                     "foodPrecio": 1850,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza de Jamon",
                     "foodPrecio": 1750,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Hawaiana",
                     "foodPrecio": 1800,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Panna",
                     "foodPrecio": 1950,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 },
                 {
                     "foodName": "Pizza Prosciutto",
                     "foodPrecio": 2150,
                     "description": null,
-                    "clasficacion": "horneados"
+                    "clasificacion": "horneados"
                 }
             ],
             "postre":

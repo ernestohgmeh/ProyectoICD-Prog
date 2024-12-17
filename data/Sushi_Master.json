@@ -130,49 +130,49 @@
                     "foodName": "Chow Mein Master",
                     "foodPrecio": 1850,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Arroz Frito con Camarones",
                     "foodPrecio": 1850,
                     "description": null,
-                    "clasficacion": "mariscos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Chow Mein de Camarones",
                     "foodPrecio": 1650,
                     "description": null,
-                    "clasficacion": "mariscos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Arroz Frito con Pollo",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Arroz Frito Master",
                     "foodPrecio": 2050,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Chow Mein de Pollo",
                     "foodPrecio": 1450,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Filete de Pescado",
                     "foodPrecio": 1800,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pollo Agridulce",
                     "foodPrecio": 1650,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 }
             ],
             "postre":[],

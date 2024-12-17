@@ -102,175 +102,175 @@
                     "foodName": "Tamal con costilla de Cerdo",
                     "foodPrecio": 1750,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Ropa Vieja",
                     "foodPrecio": 1990,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Vaca frita",
                     "foodPrecio": 1985,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Dados de pechuga en salsa almendrada",
                     "foodPrecio": 2235,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Bistec Suprema",
                     "foodPrecio": 2235,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Brocheta Mixta",
                     "foodPrecio": 2360,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Masa de Cerdo Frita",
                     "foodPrecio": 2475,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Arroz con Artistage",
                     "foodPrecio": 2550,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Chuleta de Cerdo en Salsa Agridulce",
                     "foodPrecio": 2915,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Bistec Uruguayo",
                     "foodPrecio": 2720,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Enchilado de Langosta",
                     "foodPrecio": 2750,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Filete de Pescado Canciller",
                     "foodPrecio": 2360,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Costilla de Cerdo Asada",
                     "foodPrecio": 2846,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Filete de Pescado Grille",
                     "foodPrecio": 2965,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Mariscada Estelar 5.1",
                     "foodPrecio": 3450,
                     "description": "Cola de Langosta, Calamar, Camarones, Rueda de Pescado, Vegetales salteados perfumado al aroma del ajo",
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Espaguetis Negro con combinación de mariscos a lo Colesterol 5.1",
                     "foodPrecio": 3575,
                     "description": "Anillas de calamar, langosta, dados de pescado, camarones y cangrejo",
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Pizza Margarita 5.1 Plus",
                     "foodPrecio": 1750,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza de Jamón",
                     "foodPrecio": 1920,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Hawaiana",
                     "foodPrecio": 2010,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza de Bacon, Pepperoni y Jamón Serrano",
                     "foodPrecio": 2580,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Campesina",
                     "foodPrecio": 2640,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Marinera",
                     "foodPrecio": 2740,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Spaguettis Napolitano",
                     "foodPrecio": 840,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Spaguettis Alfredo",
                     "foodPrecio": 945,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Spaguettis con Jamón",
                     "foodPrecio": 1040,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Spaguettis a la Boloñesa",
                     "foodPrecio": 1640,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Spaguettis al Pesto",
                     "foodPrecio": 1150,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Spaguettis a la Carbonara",
                     "foodPrecio": 2250,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Lasagna Boloñesa",
                     "foodPrecio": 2040,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 }
             ],
             "postre":

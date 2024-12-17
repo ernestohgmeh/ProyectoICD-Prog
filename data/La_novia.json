@@ -118,121 +118,121 @@
                     "foodName": "Tacos de Cerdo",
                     "foodPrecio": 1100,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos de Pollo",
                     "foodPrecio": 1100,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos de Jamon y Queso",
                     "foodPrecio": 1100,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos Marineros",
                     "foodPrecio": 1100,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos de Ropa Vieja",
                     "foodPrecio": 1300,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Pizza Napolitana",
                     "foodPrecio": 280,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza de Pepperoni",
                     "foodPrecio": 400,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Spaghetti Napolitano",
                     "foodPrecio": 700,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Masas Fritas de Cerdo",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Pollo Frito",
                     "foodPrecio": 1300,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pollo Asado",
                     "foodPrecio": 1300,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Bistec de Cerdo",
                     "foodPrecio": 1200,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Bistec de Pechuga",
                     "foodPrecio": 1600,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Chuleta de Cerdo",
                     "foodPrecio": 1600,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Ropa Vieja",
                     "foodPrecio": 1900,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Brochetas de Cerdo",
                     "foodPrecio": 1800,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Completa de Enchilado de Cangrejo",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Cerdo Asado",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Arroz Moro",
                     "foodPrecio": 300,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Ensalada",
                     "foodPrecio": 300,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 }
             ],
             "postre":

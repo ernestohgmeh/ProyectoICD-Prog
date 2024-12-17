@@ -90,163 +90,163 @@
                     "foodName": "Lasaña Clasica",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Arroz a la Chorrera",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Corden Bleu",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Grillada de Cerdo y Pollo",
                     "foodPrecio": 2200,
                     "description": null,
-                    "clasficacion": "mixta"
+                    "clasificacion": "mixta"
                 },
                 {
                     "foodName": "Camaron al Gusto",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Ropa Vieja",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Langosta al Gusto",
                     "foodPrecio": 1900,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Uruguayo de Cerdo",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Pechuga de Pollo",
                     "foodPrecio": 1200,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Filete de Pescado Grille",
                     "foodPrecio": 1600,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Suprema",
                     "foodPrecio": 2300,
                     "description": "Langosta Grille untada con una Mouse de Camaron y Comino, Gratinada con Queso y Guarnecida con Vegetales Salteados",
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "LCB",
                     "foodPrecio": 2300,
                     "description": "Langosta al Aroma del Cafe perfumada con Vinagre",
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Cazuela Palida",
                     "foodPrecio": 1300,
                     "description": "Asado en Cazuela de Langosta y veloute de Marisco",
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Duo Marino",
                     "foodPrecio": 1800,
                     "description": "Pescado y Marisco Asado",
-                    "clasficacion": "mixta"
+                    "clasificacion": "mixta"
                 },
                 {
                     "foodName": "Camaron Perfecto",
                     "foodPrecio": 2800,
                     "description": "Camaron Grille Untado con una Mouse de Camaron",
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Cazuela del Mar",
                     "foodPrecio": 1800,
                     "description": "Surtido de Mariscos en Salsa Americana con Aceitunas",
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Pechuga de Pollo Genial",
                     "foodPrecio": 1600,
                     "description": "Rellena con Jamon y Chorizo",
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Maravilla del Mar",
                     "foodPrecio": 1800,
                     "description": "Pescado Asado en Cazuela, Langosta y Vegetales",
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pechuga de Pollo al Aroma del Licor",
                     "foodPrecio": 1500,
                     "description": "Dados de Pechuga Salteados con Finas Hierbas y Vegetales",
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Criollazo",
                     "foodPrecio": 1800,
                     "description": "Laminas de Filete de Cerdo adobado con Limon y Especies, guarnicionado con Yuca, Costrones de Pan y Cebolla Confitada",
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Chuleton",
                     "foodPrecio": 2900,
                     "description": "Gran Chuleta de Cerdo Grille, aromatizada con Especias Frescas y Secas, Aceite de Oliva y guarnicionado con Pure de Malanga",
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Arroz Congri",
                     "foodPrecio": 130,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Blanco",
                     "foodPrecio": 110,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Yuca con Mojo",
                     "foodPrecio": 150,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Vegetales Salteados",
                     "foodPrecio": 150,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Chicharritas de Platano",
                     "foodPrecio": 500,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Papas Fritas",
                     "foodPrecio": 700,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 }
             ],
             "postre":

@@ -130,211 +130,211 @@
                     "foodName": "Grillada del Corral",
                     "foodPrecio": 6000,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Grillada del Mar",
                     "foodPrecio": 8000,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Grillada Mar y Tierra",
                     "foodPrecio": 9500,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Paletilla de Cordero al Vino Tinto y Romero",
                     "foodPrecio": 6000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Cantío de Gallo",
                     "foodPrecio": 2750,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Chilindrón de Cordero a lo Montuno",
                     "foodPrecio": 3000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Cordero al Curry",
                     "foodPrecio": 3000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Pollo Asado al Estilo Carreta",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pechuga Grille",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pollo al Curry",
                     "foodPrecio": 1600,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Picadillo de Res a la Habanera",
                     "foodPrecio": 1250,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Vaca Frita a la Tradicion",
                     "foodPrecio": 1750,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Ropa Vieja Carretera",
                     "foodPrecio": 1750,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Tasajo",
                     "foodPrecio": 5000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Lonjas de Cerdo al Estribo",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Bistec del Yunta",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Masas Fritas a lo Campestre",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Costillas Tentadoras al Gusto",
                     "foodPrecio": 3600,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Lomo Ahumado al Gusto",
                     "foodPrecio": 2000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Pasta Napolitana",
                     "foodPrecio": 1250,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pizza Napolitana",
                     "foodPrecio": 1350,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Filete de Pescado Grille",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Filete de Pescado Enchilado",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Camarones Grille",
                     "foodPrecio": 3000,
                     "description": null,
-                    "clasficacion": "mariscos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Camarones al Ajillo",
                     "foodPrecio": 3250,
                     "description": null,
-                    "clasficacion": "mariscos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Enchilado de Camarones",
                     "foodPrecio": 3250,
                     "description": null,
-                    "clasficacion": "mariscos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Enchilado de Langosta",
                     "foodPrecio": 3600,
                     "description": null,
-                    "clasficacion": "mariscos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Langosta Grille",
                     "foodPrecio": 3500,
                     "description": null,
-                    "clasficacion": "mariscos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Pechuga de Pollo con Arroz, Vianda Frita y Jugo Natural",
                     "foodPrecio": 1350,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Pizza Napolitana y Jugo Natural",
                     "foodPrecio": 1350,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Spaguettis Napolitano y Jugo Natural",
                     "foodPrecio": 1350,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Arroz Blanco",
                     "foodPrecio": 250,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Moros y Cristianos",
                     "foodPrecio": 300,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Primavera",
                     "foodPrecio": 350,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Frijoles Negros",
                     "foodPrecio": 300,
                     "description": null,
-                    "clasficacion": "sopas y cremas"
+                    "clasificacion": "sopas y cremas"
                 }
             ],
             "postre":

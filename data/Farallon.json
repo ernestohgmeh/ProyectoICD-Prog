@@ -118,451 +118,451 @@
                   "foodName": "Crema de Queso",
                   "foodPrecio": 400,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Crema Virginia",
                   "foodPrecio": 500,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Crema Aurora",
                   "foodPrecio": 420,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Crema Reina",
                   "foodPrecio": 550,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Espaguetis Napolitano de Queso Gouda",
                   "foodPrecio": 900,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Espaguetis de Queso Gouda y Atun",
                   "foodPrecio": 1450,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Espaguetis de Jamon y Queso Gouda",
                   "foodPrecio": 110,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Espaguetis de Camarones y Queso Gouda",
                   "foodPrecio": 1450,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Espaguetis a la Boloñesa con Queso Gouda",
                   "foodPrecio": 1000,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Espaguetis al Pesto con Queso Gouda",
                   "foodPrecio": 1300,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Espaguetis a la Carbonara con Queso Gouda",
                   "foodPrecio": 1300,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Espaguetis Fruti De Mare con Queso Gouda",
                   "foodPrecio": 1900,
                   "description": null,
-                  "clasficacion": "Pastas"
+                  "clasificacion": "Pastas"
                 },
                 {
                   "foodName": "Pizza Napolitana de Queso Gouda",
                   "foodPrecio": 1250,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza Napolitana de Queso Mozzarela",
                   "foodPrecio": 800,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Jamon y Queso Gouda",
                   "foodPrecio": 1450,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Jamon y Queso Mozzarela",
                   "foodPrecio": 1100,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Bacon y Queso Gouda",
                   "foodPrecio": 1690,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Bacon y Queso Mozzarela",
                   "foodPrecio": 1250,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Chorizo y Queso Gouda",
                   "foodPrecio": 1590,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Chorizo y Queso Mozzarella",
                   "foodPrecio": 1100,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Cebolla y Queso Gouda",
                   "foodPrecio": 1540,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Cebolla y Queso Mozzarella",
                   "foodPrecio": 850,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Pimiento y Queso Gouda",
                   "foodPrecio": 1540,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Pimiento y Queso Mozzarela",
                   "foodPrecio": 850,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Aceituna y Queso Gouda",
                   "foodPrecio": 1610,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Aceituna y Queso Mozzarela",
                   "foodPrecio": 1120,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Vegetales y Queso Gouda",
                   "foodPrecio": 1610,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Vegetales y Queso Mozzarella",
                   "foodPrecio": 980,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Champiñones y Queso Gouda",
                   "foodPrecio": 1680,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza de Champiñones y Queso Mozzarela",
                   "foodPrecio": 1100,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza Hawaiana con Queso Gouda",
                   "foodPrecio": 1570,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza Hawaiana con Queso Mozzarela",
                   "foodPrecio": 1180,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza con Camarones y Queso Gouda",
                   "foodPrecio": 1850,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza con Camarones y Queso Mozzarela",
                   "foodPrecio": 1550,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza con Atun y Queso Gouda",
                   "foodPrecio": 1850,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza con Atun y Queso Mozzarella",
                   "foodPrecio": 1180,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza Boloñesa con Queso Gouda",
                   "foodPrecio": 1550,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza Boloñesa con Queso Mozzarela",
                   "foodPrecio": 950,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza Desnuda con Queso Gouda",
                   "foodPrecio": 2350,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Pizza Desnuda con Queso Mozzarella",
                   "foodPrecio": 1700,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Lasaña Farallon con Queso Gouda",
                   "foodPrecio": 4000,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Lasaña Farallon con Queso Mozzarela",
                   "foodPrecio": 3600,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Lasaña Boloñesa con Queso Gouda",
                   "foodPrecio": 2500,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Lasaña Boloñesa con Queso Mozzarela",
                   "foodPrecio": 1410,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Lasaña de Jamon con Queso Gouda",
                   "foodPrecio": 2700,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Lasaña de Jamon con Queso Mozzarela",
                   "foodPrecio": 1750,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Lasaña de Atun y Queso Gouda",
                   "foodPrecio": 4300,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Lasaña de Atun y Queso Mozzarela",
                   "foodPrecio": 3650,
                   "description": null,
-                  "clasficacion": "horneado"
+                  "clasificacion": "horneado"
                 },
                 {
                   "foodName": "Paella de Mariscos",
                   "foodPrecio": 2400,
                   "description": null,
-                  "clasficacion": "mixto"
+                  "clasificacion": "mixto"
                 },
                 {
                   "foodName": "Arroz con Pollo a la Chorrera",
                   "foodPrecio": 1200,
                   "description": null,
-                  "clasficacion": "mixto"
+                  "clasificacion": "mixto"
                 },
                 {
                   "foodName": "Arroz Frito",
                   "foodPrecio": 1100,
                   "description": null,
-                  "clasficacion": "guarnicion"
+                  "clasificacion": "guarnicion"
                 },
                 {
                   "foodName": "Arroz Frito Especial",
                   "foodPrecio": 1500,
                   "description": null,
-                  "clasficacion": "guarnicion"
+                  "clasificacion": "guarnicion"
                 },
                 {
                   "foodName": "Arroz Moro",
                   "foodPrecio": 300,
                   "description": null,
-                  "clasficacion": "guarnicion"
+                  "clasificacion": "guarnicion"
                 },
                 {
                   "foodName": "Arroz Blanco",
                   "foodPrecio": 210,
                   "description": null,
-                  "clasficacion": "guarnicion"
+                  "clasificacion": "guarnicion"
                 },
                 {
                   "foodName": "Filete de Pescado Grille",
                   "foodPrecio": 1800,
                   "description": null,
-                  "clasficacion": "carne blanca"
+                  "clasificacion": "carne blanca"
                 },
                 {
                   "foodName": "Filete de Pescado con Jamon y Queso Gratinado",
                   "foodPrecio": 2380,
                   "description": null,
-                  "clasficacion": "carne blanca"
+                  "clasificacion": "carne blanca"
                 },
                 {
                   "foodName": "Filete de Pescado John Ville",
                   "foodPrecio": 2450,
                   "description": null,
-                  "clasficacion": "carne blanca"
+                  "clasificacion": "carne blanca"
                 },
                 {
                   "foodName": "Camaron al Gusto",
                   "foodPrecio": 2550,
                   "description": null,
-                  "clasficacion": "marisco"
+                  "clasificacion": "marisco"
                 },
                 {
                   "foodName": "Pulpo al Gusto",
                   "foodPrecio": 2600,
                   "description": null,
-                  "clasficacion": "marisco"
+                  "clasificacion": "marisco"
                 },
                 {
                   "foodName": "Grillada Mar",
                   "foodPrecio": 4100,
                   "description": null,
-                  "clasficacion": "mixto"
+                  "clasificacion": "mixto"
                 },
                 {
                   "foodName": "Grillada Mar y Tierra",
                   "foodPrecio": 5200,
                   "description": null,
-                  "clasficacion": "mixto"
+                  "clasificacion": "mixto"
                 },
                 {
                   "foodName": "Ropa Vieja",
                   "foodPrecio": 2100,
                   "description": null,
-                  "clasficacion": "mixto"
+                  "clasificacion": "mixto"
                 },
                 {
                   "foodName": "Vaca Frita",
                   "foodPrecio": 2100,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Bistec de Cerdo y Grille",
                   "foodPrecio": 2100,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Bistec con Jamon y Queso Gratinado",
                   "foodPrecio": 2760,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Bistec de Cerdo Tropical",
                   "foodPrecio": 2220,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Masa de Cerdo Frita",
                   "foodPrecio": 2340,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Fricase de Cerdo",
                   "foodPrecio": 2530,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Pechuga de Pollo Grille",
                   "foodPrecio": 2100,
                   "description": null,
-                  "clasficacion": "carne blanc"
+                  "clasificacion": "carne blanc"
                 },
                 {
                   "foodName": "Pechuga con Jamon y Queso Gratinado",
                   "foodPrecio": 2760,
                   "description": null,
-                  "clasficacion": "carne blanc"
+                  "clasificacion": "carne blanc"
                 },
                 {
                   "foodName": "Pechuga a la Crema",
                   "foodPrecio": 2650,
                   "description": null,
-                  "clasficacion": "carne blanc"
+                  "clasificacion": "carne blanc"
                 },
                 {
                   "foodName": "Fajitas de Pollo Salteadas",
                   "foodPrecio": 2180,
                   "description": null,
-                  "clasficacion": "carne blanc"
+                  "clasificacion": "carne blanc"
                 },
                 {
                   "foodName": "Bistec de Pollo Deshuesado",
                   "foodPrecio": 1320,
                   "description": null,
-                  "clasficacion": "carne blanc"
+                  "clasificacion": "carne blanc"
                 },
                 {
                   "foodName": "Pollo a la Barbacoa",
                   "foodPrecio": 1710,
                   "description": null,
-                  "clasficacion": "carne blanc"
+                  "clasificacion": "carne blanc"
                 },
                 {
                   "foodName": "Pollo Asado",
                   "foodPrecio": 1750,
                   "description": null,
-                  "clasficacion": "carne blanc"
+                  "clasificacion": "carne blanc"
                 }
               ],
             "postre":

@@ -138,199 +138,199 @@
                   "foodName": "Tamal Relleno con Lonjas de Cerdo y Huevo Frito",
                   "foodPrecio": 2955,
                   "description": null,
-                  "clasficacion": "ligero"
+                  "clasificacion": "ligero"
                 },
                 {
                   "foodName": "Costillas de Cerdo Caramelizadas con Pure de Boniato y Jengibre",
                   "foodPrecio": 4145,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Fricandó de Ternera Estofado",
                   "foodPrecio": 4500,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Milanesa de Pollo con Mini Ensalada Cesar",
                   "foodPrecio": 3350,
                   "description": null,
-                  "clasficacion": "carne blanca"
+                  "clasificacion": "carne blanca"
                 },
                 {
                   "foodName": "Churrasco de Filete de Cerdo con Salsa de Guayaba y Mostaza Dijon",
                   "foodPrecio": 2945,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Pollo Entero Relleno con Arroz Moro y Bacon",
                   "foodPrecio": 5995,
                   "description": null,
-                  "clasficacion": "carne blanca"
+                  "clasificacion": "carne blanca"
                 },
                 {
                   "foodName": "Solomillo de Ternera con Papas Asadas y Crema de Piquillos",
                   "foodPrecio": 5500,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Picaña Chilena",
                   "foodPrecio": 7255,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Riñonada Argentina",
                   "foodPrecio": 8000,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Bife de Chorizo",
                   "foodPrecio": 8000,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Straccettis con Cebolla y Jamon",
                   "foodPrecio": 4500,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Filete de Pescado con Vegetales Orientales",
                   "foodPrecio": 3500,
                   "description": null,
-                  "clasficacion": "carne blanca"
+                  "clasificacion": "carne blanca"
                 },
                 {
                   "foodName": "Filete de Pescado Frito con Crujientes de Cebolla Frita y Aderezo",
                   "foodPrecio": 4550,
                   "description": null,
-                  "clasficacion": "carne blanca"
+                  "clasificacion": "carne blanca"
                 },
                 {
                   "foodName": "Gambon Argentino al Ajillo",
                   "foodPrecio": 3755,
                   "description": null,
-                  "clasficacion": "marisco"
+                  "clasificacion": "marisco"
                 },
                 {
                   "foodName": "Cerdo Asado a la Cubana",
                   "foodPrecio": 2950,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Tamaribs de Cerdo con Papas Fritas",
                   "foodPrecio": 3555,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Zarzuela de Mariscos",
                   "foodPrecio": 8500,
                   "description": null,
-                  "clasficacion": "marisco"
+                  "clasificacion": "marisco"
                 },
                 {
                   "foodName": "Tagliata de Res o Cerdo, Queso Bifido Curado, Rucula Fresca y Aceite de Truffas",
                   "foodPrecio": 7500,
                   "description": null,
-                  "clasficacion": "mixto"
+                  "clasificacion": "mixto"
                 },
                 {
                   "foodName": "Punta de Filete al Ajillo con Mostaza",
                   "foodPrecio": 4550,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Risotto de Langosta y Camaron",
                   "foodPrecio": 2850,
                   "description": null,
-                  "clasficacion": "mixto"
+                  "clasificacion": "mixto"
                 },
                 {
                   "foodName": "Risotto de Res y Truffas con Queso Parmesano",
                   "foodPrecio": 3355,
                   "description": null,
-                  "clasficacion": "mixto"
+                  "clasificacion": "mixto"
                 },
                 {
                   "foodName": "Arroz a la Chorrera con Pollo y Pimientos",
                   "foodPrecio": 2500,
                   "description": null,
-                  "clasficacion": "guarnicion"
+                  "clasificacion": "guarnicion"
                 },
                 {
                   "foodName": "Focaccia",
                   "foodPrecio": 1355,
                   "description": null,
-                  "clasficacion": "guarnicion"
+                  "clasificacion": "guarnicion"
                 },
                 {
                   "foodName": "Pizza Rellena",
                   "foodPrecio": 2100,
                   "description": null,
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Pizza Gorda Cubana",
                   "foodPrecio": 2100,
                   "description": null,
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Real Pizza Italiana 33cm",
                   "foodPrecio": 2300,
                   "description": null,
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Pizza Imperial",
                   "foodPrecio": 3655,
                   "description": null,
-                  "clasficacion": "pizza"
+                  "clasificacion": "pizza"
                 },
                 {
                   "foodName": "Spaguettis Amatriciana",
                   "foodPrecio": 1955,
                   "description": null,
-                  "clasficacion": "pasta"
+                  "clasificacion": "pasta"
                 },
                 {
                   "foodName": "Spaguettis Pescatore",
                   "foodPrecio": 2750,
                   "description": null,
-                  "clasficacion": "pasta"
+                  "clasificacion": "pasta"
                 },
                 {
                   "foodName": "Spaguettis a la Crema Salmon y Anchoa",
                   "foodPrecio": 2500,
                   "description": null,
-                  "clasficacion": "carne roja"
+                  "clasificacion": "carne roja"
                 },
                 {
                   "foodName": "Carbonara",
                   "foodPrecio": 3100,
                   "description": null,
-                  "clasficacion": "pasta"
+                  "clasificacion": "pasta"
                 },
                 {
                   "foodName": "Alfredo",
                   "foodPrecio": 2950,
                   "description": null,
-                  "clasficacion": "pasta"
+                  "clasificacion": "pasta"
                 },
                 {
                   "foodName": "Aglio e Olio con Dados de Tomate",
                   "foodPrecio": 2755,
                   "description": null,
-                  "clasficacion": "pasta"
+                  "clasificacion": "pasta"
                 }
               ],
             "postre":

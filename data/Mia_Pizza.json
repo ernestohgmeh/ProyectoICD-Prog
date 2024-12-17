@@ -94,103 +94,103 @@
                     "foodName": "Crema de Queso",
                     "foodPrecio": 250,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Crema Aurora",
                     "foodPrecio": 300,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Crema Virginia",
                     "foodPrecio": 430,
                     "description": null,
-                    "clasficacion": "sopas y cremas"
+                    "clasificacion": "sopas y cremas"
                 },
                 {
                     "foodName": "Lasaña de Jamon y 2ble Chorizo",
                     "foodPrecio": 850,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Espaguetis Napolitano",
                     "foodPrecio": 700,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Espaguetis a la Carbonara",
                     "foodPrecio": 860,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pizza Junior Napolitana",
                     "foodPrecio": 350,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Espaguetis Junior Napolitano",
                     "foodPrecio": 300,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Combinacion del Menu Junior",
                     "foodPrecio": 650,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Pizza Junior La Mia",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Napolitana",
                     "foodPrecio": 700,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza La Mia",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza La Mia de Queso",
                     "foodPrecio": 1900,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Tres Quesos",
                     "foodPrecio": 1700,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza La Mia Familiar",
                     "foodPrecio": 4800,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza La Mia Familiar de Queso",
                     "foodPrecio": 4000,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Familiar Napolitana",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 }
             ],
             "postre": [],

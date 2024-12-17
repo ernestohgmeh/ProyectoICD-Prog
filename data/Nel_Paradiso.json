@@ -126,277 +126,277 @@
                     "foodName": "Pate de Cordero y Aceitunas",
                     "foodPrecio": 2230,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Sorbete de Piña y Atun con Aros de Cebolla",
                     "foodPrecio": 1820,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pinchitos de Pollo y Verduras",
                     "foodPrecio": 2510,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Crema de Queso",
                     "foodPrecio": 1232,
                     "description": null,
-                    "clasficacion": "sopas y cremas"
+                    "clasificacion": "sopas y cremas"
                 },
                 {
                     "foodName": "Crema de Calabaza",
                     "foodPrecio": 750,
                     "description": null,
-                    "clasficacion": "sopas y cremas"
+                    "clasificacion": "sopas y cremas"
                 },
                 {
                     "foodName": "Masa de Pescado Frita",
                     "foodPrecio": 2640,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Filete de Pescado Grille",
                     "foodPrecio": 2288,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Filete John Bill",
                     "foodPrecio": 3256,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Camarones a Eleccion",
                     "foodPrecio": 2995,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Pulpo al Gusto",
                     "foodPrecio": 3500,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Rueda a las Brasas",
                     "foodPrecio": 3344,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Rueda Hemingway",
                     "foodPrecio": 4048,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Langosta en Variantes",
                     "foodPrecio": 3168,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Langosta Termidor",
                     "foodPrecio": 3520,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Caldereta de Mariscos",
                     "foodPrecio": 4480,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "MonteMari Paradiso",
                     "foodPrecio": 4576,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Arroz Frito",
                     "foodPrecio": 2112,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Refrito de Garbanzos",
                     "foodPrecio": 1936,
                     "description": null,
-                    "clasficacion": "sopas y cremas"
+                    "clasificacion": "sopas y cremas"
                 },
                 {
                     "foodName": "Risotto de Mariscos",
                     "foodPrecio": 3520,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Paella",
                     "foodPrecio": 3168,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Paella Especial",
                     "foodPrecio": 6600,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Pasta Napolitana",
                     "foodPrecio": 1230,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pasta Amatriciana",
                     "foodPrecio": 1936,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Carbonara",
                     "foodPrecio": 2200,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Nero di Sepia",
                     "foodPrecio": 3256,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pasta al Pesto",
                     "foodPrecio": 2756,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Lasaña",
                     "foodPrecio": 1895,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pizza Napolitana",
                     "foodPrecio": 1144,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza Margarita",
                     "foodPrecio": 1232,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza de Cebolla",
                     "foodPrecio": 1325,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza Ortolana",
                     "foodPrecio": 1496,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza Hawaiana",
                     "foodPrecio": 2288,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza de Jamon o Chorizo",
                     "foodPrecio": 1760,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza de Atun",
                     "foodPrecio": 2640,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza de Camarones",
                     "foodPrecio": 2640,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza de Jamon Serrano",
                     "foodPrecio": 2816,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza Nel Paradiso",
                     "foodPrecio": 2992,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Arroz Blanco",
                     "foodPrecio": 422,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Moro",
                     "foodPrecio": 636,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Pilaf",
                     "foodPrecio": 880,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Pure de Malanga",
                     "foodPrecio": 640,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Pure de Viandas",
                     "foodPrecio": 528,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Viandas Fritas",
                     "foodPrecio": 528,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Papas Fritas",
                     "foodPrecio": 1010,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Ensalada de Vegetales",
                     "foodPrecio": 635,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Vegetales Salteados",
                     "foodPrecio": 675,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 }
             ],
             "postre":

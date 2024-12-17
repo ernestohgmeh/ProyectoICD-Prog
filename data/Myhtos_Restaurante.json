@@ -114,73 +114,73 @@
                     "foodName": "Ensalada Griega",
                     "foodPrecio": 1750,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Pastitsio",
                     "foodPrecio": 2200,
                     "description": "Lasaña con Oasta Corta Rellena de Boloñesa y Bechamel",
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Imam",
                     "foodPrecio": 2000,
                     "description": "Berenjena Ahumada Rellena con Vegetales",
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Saganaki de Langosta o Camaron",
                     "foodPrecio": 3500,
                     "description": "Mariscos Salteados con Tomate y Queso Feta",
-                    "clasficacion": "mariscos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Saganaki de Frutos del Mar",
                     "foodPrecio": 4000,
                     "description": "Camaron, Langosta, Pulpo y Almejas Salteadas con Tomate",
-                    "clasficacion": "mariscos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Risotto de Yogurt Griego",
                     "foodPrecio": 3000,
                     "description": "Arroz Arboreo, Yogurt Griego y Queso Parmesano",
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Risotto de Pulpo",
                     "foodPrecio": 3700,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Risotto de Frutos de Mar",
                     "foodPrecio": 4100,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Pulpo Grille",
                     "foodPrecio": 4200,
                     "description": null,
-                    "clasficacion": "mariscos"
+                    "clasificacion": "mariscos"
                 },
                 {
                     "foodName": "Solomillo de Cerdo en Salsa de Limon Griega",
                     "foodPrecio": 3500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Pasta Mediterranea",
                     "foodPrecio": 3000,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pasta de Camaron al Anis",
                     "foodPrecio": 3200,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 }
             ],
             "postre": [],

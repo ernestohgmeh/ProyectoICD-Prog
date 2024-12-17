@@ -110,277 +110,277 @@
                     "foodName": "Sopa de Pollo y Vegetales",
                     "foodPrecio": 1100,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Sopa de Res",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "sopas y cremas"
+                    "clasificacion": "sopas y cremas"
                 },
                 {
                     "foodName": "Crema de Queso",
                     "foodPrecio": 1100,
                     "description": null,
-                    "clasficacion": "sopas y cremas"
+                    "clasificacion": "sopas y cremas"
                 },
                 {
                     "foodName": "Crema Virginia",
                     "foodPrecio": 1100,
                     "description": null,
-                    "clasficacion": "sapos y cremas"
+                    "clasificacion": "sapos y cremas"
                 },
                 {
                     "foodName": "Crema a la Reina",
                     "foodPrecio": 900,
                     "description": null,
-                    "clasficacion": "sapos y cremas"
+                    "clasificacion": "sapos y cremas"
                 },
                 {
                     "foodName": "Crema Aurora",
                     "foodPrecio": 1100,
                     "description": null,
-                    "clasficacion": "sapos y cremas"
+                    "clasificacion": "sapos y cremas"
                 },
                 {
                     "foodName": "Filete de Merluza Empanada",
                     "foodPrecio": 3500,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Filetes de Merluza al Olivo",
                     "foodPrecio": 5000,
                     "description": null,
-                    "clasficacion": ""
+                    "clasificacion": ""
                 },
                 {
                     "foodName": "Salmon Ahumado",
                     "foodPrecio": 5200,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Lomo de Atun Rojo a la Plancha",
                     "foodPrecio": 5500,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Salteado de Pechuga de Pollo con Vegetales",
                     "foodPrecio": 3400,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Costillas de Cerdo BBQ",
                     "foodPrecio": 3850,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Vaca Frita",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Lomo de Res Vetado al Romero",
                     "foodPrecio": 4200,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Filete Chateaubriand",
                     "foodPrecio": 6500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Filete Mignon",
                     "foodPrecio": 6000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Lonjas de Filete a la Dutch",
                     "foodPrecio": 5000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Punta de Res al Pimiento y Cebolla",
                     "foodPrecio": 5000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Entrecot de Res al Romero",
                     "foodPrecio": 4000,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Langosta Grille",
                     "foodPrecio": 2900,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Langosta Enchilada",
                     "foodPrecio": 3050,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Langosta al Ajillo",
                     "foodPrecio": 3100,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Langosta Varadero",
                     "foodPrecio": 3700,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Bistec de Pechuga de Pollo",
                     "foodPrecio": 3200,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Bistec de Solomillo de Cerdo a la Plancha",
                     "foodPrecio": 3500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Bistec de Res a la Plancha con Cebolla",
                     "foodPrecio": 5200,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Ropa Vieja de Res",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Salmon Natural a la Plancha",
                     "foodPrecio": 5000,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Filete de Pescado Grille y Mantequilla",
                     "foodPrecio": 3100,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Fricase de Cerdo",
                     "foodPrecio": 2900,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Masas de Cerdo Fritas",
                     "foodPrecio": 2980,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Pulpo al Gusto",
                     "foodPrecio": 6000,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Espaguetis Napolitano",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Espaguetis Aglio e Olio",
                     "foodPrecio": 1320,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Espaguetis a la Carbonara",
                     "foodPrecio": 2310,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Espaguetis a la Boloñesa",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Espaguetis Frutti di Mare",
                     "foodPrecio": 3000,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Arroz Primavera",
                     "foodPrecio": 350,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Blanco",
                     "foodPrecio": 300,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Moro",
                     "foodPrecio": 370,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Pilaf",
                     "foodPrecio": 400,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Ensalada de Estacion",
                     "foodPrecio": 700,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Vianda Frita",
                     "foodPrecio": 550,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Tostones Tradicionales",
                     "foodPrecio": 450,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Frituras de Malanga con Miel",
                     "foodPrecio": 650,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Pure de Viandas",
                     "foodPrecio": 600,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 }
             ],
             "postre":

@@ -98,103 +98,103 @@
                     "foodName": "Tacos de Pollo",
                     "foodPrecio": 750,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Tacos de Cerdo",
                     "foodPrecio": 1000,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Tacos de Res",
                     "foodPrecio": 1350,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Lasagna de jamón",
                     "foodPrecio": 1350,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Espaguetis QB",
                     "foodPrecio": 500,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Espaguetis QG",
                     "foodPrecio": 650,
                     "description": null,
-                    "clasficacion": "pastas"
+                    "clasificacion": "pastas"
                 },
                 {
                     "foodName": "Pizza 30cm QB",
                     "foodPrecio": 700,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza 30cm QG",
                     "foodPrecio": 950,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza hawaiana QB",
                     "foodPrecio": 1000,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza hawaiana QG",
                     "foodPrecio": 1250,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Arroz frito",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz frito especial",
                     "foodPrecio": 1800,
                     "description": null,
-                    "clasficacion": "g"
+                    "clasificacion": "g"
                 },
                 {
                     "foodName": "Pechuga milanesa",
                     "foodPrecio": 1600,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pechuga grille",
                     "foodPrecio": 1350,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pechuga empanada",
                     "foodPrecio": 1500,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pechuga princesa",
                     "foodPrecio": 1750,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Ropa vieja",
                     "foodPrecio": 1750,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 }
             ],
             "postre":

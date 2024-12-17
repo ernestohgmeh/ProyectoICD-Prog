@@ -98,43 +98,43 @@
                     "foodName": "Pollo Empanado a la Parmesana",
                     "foodPrecio": 1200,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Filete de Pescado",
                     "foodPrecio": 2300,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Filete de Cerdo",
                     "foodPrecio": 2040,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Rollito de Cerdo",
                     "foodPrecio": 1560,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Filete de Res",
                     "foodPrecio": 2880,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Estofado de Res",
                     "foodPrecio": 2040,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Langosta Divina Pastora",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 }
             ],
             "postre":

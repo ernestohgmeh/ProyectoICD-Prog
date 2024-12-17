@@ -94,115 +94,115 @@
                     "foodName": "Masa de Cerdo Frita",
                     "foodPrecio": 7475,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Pizza Margarita",
                     "foodPrecio": 4875,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza de Jamon",
                     "foodPrecio": 5200,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza de Jamon Serrano",
                     "foodPrecio": 6500,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza de 4 Quesos",
                     "foodPrecio": 6500,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza de Vegetales",
                     "foodPrecio": 5200,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza Diavola",
                     "foodPrecio": 5200,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Pizza Hawaiana",
                     "foodPrecio": 4225,
                     "description": null,
-                    "clasficacion": "pizza"
+                    "clasificacion": "pizza"
                 },
                 {
                     "foodName": "Tacos de Pescado Estilo Baja",
                     "foodPrecio": 6500,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Tacos de Carne Asada",
                     "foodPrecio": 7475,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Tacos Campechano",
                     "foodPrecio": 8125,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Tacos Vegetarianos",
                     "foodPrecio": 4224,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Tacos de Carnita de Cerdo",
                     "foodPrecio": 5850,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Tacos al Pastor",
                     "foodPrecio": 6500,
                     "description": null,
-                    "clasficacion": "ligero"
+                    "clasificacion": "ligero"
                 },
                 {
                     "foodName": "Pasta con Langosta",
                     "foodPrecio": 7475,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pasta de Mariscos",
                     "foodPrecio": 7150,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pasta Amatriciana",
                     "foodPrecio": 5850,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pasta Carbonara",
                     "foodPrecio": 6175,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pasta al Burro",
                     "foodPrecio": 4875,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 }
             ],
             "postre":

@@ -90,235 +90,235 @@
                     "foodName": "Ensalada Mixta de Vegetales",
                     "foodPrecio": 500,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Ensalada Cesar de Pollo",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Ensalada Cesar de Atun",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Tacos de Camarones",
                     "foodPrecio": 2700,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos de Pollo",
                     "foodPrecio": 1900,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Tacos de Cerdo",
                     "foodPrecio": 2400,
                     "description": null,
-                    "clasficacion": "ligera"
+                    "clasificacion": "ligera"
                 },
                 {
                     "foodName": "Moro Relleno con Cerdo",
                     "foodPrecio": 3200,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Camarones en Suquet de Mariscos",
                     "foodPrecio": 3200,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Langosta a su Antojo",
                     "foodPrecio": 3500,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Pulpo a la Brasa/al Ajillo",
                     "foodPrecio": 5200,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Grillada del Mar",
                     "foodPrecio": 8300,
                     "description": null,
-                    "clasficacion": "marisco"
+                    "clasificacion": "marisco"
                 },
                 {
                     "foodName": "Fil de Pescado Grille en Salsa Muselina",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Masas de Cerdo",
                     "foodPrecio": 3500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Cordero a la Ñora",
                     "foodPrecio": 3800,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Bistec de la Abuela",
                     "foodPrecio": 7300,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Pechuga de Pollo Grille",
                     "foodPrecio": 2100,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Pollo en Textura con Salsa Oriental",
                     "foodPrecio": 2400,
                     "description": null,
-                    "clasficacion": "carne blanca"
+                    "clasificacion": "carne blanca"
                 },
                 {
                     "foodName": "Ropa Vieja",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Solomillo de Res a la Losa",
                     "foodPrecio": 7250,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Chateubriand a la Losa",
                     "foodPrecio": 14500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Punta de Filete de Res",
                     "foodPrecio": 5200,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 },
                 {
                     "foodName": "Arroz Negro con Langosta y Camarones",
                     "foodPrecio": 4300,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Paella Marinera",
                     "foodPrecio": 4000,
                     "description": null,
-                    "clasficacion": "mixto"
+                    "clasificacion": "mixto"
                 },
                 {
                     "foodName": "Pasta Amatriciana",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pasta Carbonara",
                     "foodPrecio": 3100,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pasta Alfredo con Camaron",
                     "foodPrecio": 3300,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pasta Alfredo con Jamon",
                     "foodPrecio": 2600,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Pasta con Puntas de Filete",
                     "foodPrecio": 5000,
                     "description": null,
-                    "clasficacion": "pasta"
+                    "clasificacion": "pasta"
                 },
                 {
                     "foodName": "Arroz Blanco",
                     "foodPrecio": 400,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Moro",
                     "foodPrecio": 450,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Ensalada Mixta",
                     "foodPrecio": 500,
                     "description": null,
-                    "clasficacion": "ensalada"
+                    "clasificacion": "ensalada"
                 },
                 {
                     "foodName": "Vianda del Dia",
                     "foodPrecio": 450,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Arroz Pilaf",
                     "foodPrecio": 600,
                     "description": null,
-                    "clasficacion": "guarniciones"
+                    "clasificacion": "guarniciones"
                 },
                 {
                     "foodName": "Pizza Napolitana",
                     "foodPrecio": 1300,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza Hawaiana",
                     "foodPrecio": 2100,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza 4 Quesos",
                     "foodPrecio": 2675,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza de Atun",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Pizza de Vegetales",
                     "foodPrecio": 2500,
                     "description": null,
-                    "clasficacion": "horneado"
+                    "clasificacion": "horneado"
                 },
                 {
                     "foodName": "Calzone de Ropa Vieja",
                     "foodPrecio": 3500,
                     "description": null,
-                    "clasficacion": "carne roja"
+                    "clasificacion": "carne roja"
                 }
             ],
             "postre":
