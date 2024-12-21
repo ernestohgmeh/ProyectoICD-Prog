@@ -1,90 +1,401 @@
 {
-    "municipality": "",
+    "municipality": "10 de Octubre",
     "info":
         {
         "nameLocal": "Melao's",
         "location":
         {
-            "address": "string/ calle pricipal entre calles laterales",
-            "barrio": "string/ nombre del barrio",
-            "GPS": "string/ latitud,longitud"
+            "address": "Calle Goicuría 229 % Libertad & Milagros",
+            "barrio": "Santo Suarez",
+            "GPS": "23.09744415366043, -82.3758366175425"
         },
         "horarios": 
         {
-            "monday": "string/ horario de apertura en formato militar o 'open' en caso de no tener horario",
-            "thuesday": "0900-1200",
-            "wednesday": "",
-            "thursday": "",
-            "friday": "",
-            "saturday": "",
-            "sunday": ""
+            "monday": "open",
+            "thuesday": "open",
+            "wednesday": "open",
+            "thursday": "open",
+            "friday": "open",
+            "saturday": "open",
+            "sunday": "open"
         },
         "contactUs":
         {
-            "phone": ["int/ numero del local"],
-            "web": "string/ link del local",
-            "social": ["string/ link a las diferentes redes del local "]
+            "phone": [52965382,51963696],
+            "web": "",
+            "social": ["https://www.instagram.com/melaosbarr/","https://www.facebook.com/MelaosBarRestauranteLaHabana/"]
         },
         "services":
         {
-            "tranfer": false,
+            "tranfer": true,
             "delivery": false,
             "parallevar": false,
-            "reservation": false,
-            "tipoDeMoneda": ["string/ siglas de las monedas q acepta"],
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
             "parqueo": false,
-            "porCiento": false,
-            "alquiler": false,
-            "comentarios": "string/ algun comentario sobre el lugar"
+            "porCiento": 10,
+            "alquiler": null,
+            "comentarios": ""
         },
         "ambientacion":
         {
-            "inside": false,
+            "inside": true,
             "outside": false,
-            "bajos": false,
+            "bajos": true,
             "altos": false,
             "ac": false,
-            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
-            "comentarios": "string/ algun comentario sobre el lugar"
+            "entretenimiento": [],
+            "comentarios": ""
 
         },
-        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "vestimenta": ["casual"],
         "estatal": false,
-        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "tipoDeComidaEspecializada": [],
         "menu":
         {
             "entrantes":
             [
                 {
-                    "foodName": "string/ nombre del plato",
-                    "foodPrecio": "int/precio del plato"
+                    "foodName": "Frituras de Malanga",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Croquetas de Jamon",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Croquetas de Pollo",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Picadera Melaos",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Entremes de Jamon y Queso",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Entremes de Jamon, Queso y Chorizo",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Aceitunas",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Picadera Mixta",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Bolitas de Queso",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "Fajitas de Pollo",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Mariquitas de Platano",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Tostones Rellenos de Jamon",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Tostones Rellenos de Jamon y Queso",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Entremes de Queso",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Muslo de Pollo Frito",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Contramuslo de Pollo Frito",
+                    "foodPrecio": 1200
                 }
             ],
             "platoFuerte":
             [
                 {
-                    "foodName": "string/ nombre del plato",
-                    "foodPrecio": "int/precio del plato",
-                    "description": "string-null/ en caso de q el nombre del plato sea un nombre unico y no diga de q esta hecho; de otra forma el valor es null",
-                    "clasificacion": "string/ carne roja, blanca, guarniciones etc"
+                    "foodName": "Hamburguesa de Cerdo",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Hamburguesa de Pollo",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Espaguetis Napolitana",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "pasta"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza Hawaiana",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza con Cebolla",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza de Jamon",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pizza de Chorizo",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "pizza"
                 }
             ],
             "postre":
-            [
-                {
-                    "foodName": "string/ nombre del plato",
-                    "foodPrecio": "int/precio del plato"
-                }
-            ],
+            [],
             "bebidas":
             [
                 {
-                    "foodName": "string/ nombre de la bebida",
-                    "foodPrecio": "int/precio del plato",
-                    "alcoholica": false,
+                    "foodName": "Cerveza Nacional Cristal Lata",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
                     "importada": false
+                },
+                {
+                    "foodName": "Cerveza Nacional Cristal Botella",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Importada Sol Botella",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Importada Heineken",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Bucanero",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza de Lata",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cubetazo de Lata",
+                    "foodPrecio": 3000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubetazo de Cerveza Lata Cristal",
+                    "foodPrecio": 4000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubetazo de Cerveza Cristal Botella",
+                    "foodPrecio": 6000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubetazo de Cerveza Cristal Lata",
+                    "foodPrecio": 5000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubetazo de Cerveza Heineken",
+                    "foodPrecio": 7000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Chivas 15 + 2 Energeticos",
+                    "foodPrecio": 21000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Chivas 12 + 2 Energeticos",
+                    "foodPrecio": 13000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jack Daniels + 2 Energeticos",
+                    "foodPrecio": 14500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "JW Black Label 1000ml + 2 Energeticos",
+                    "foodPrecio": 23500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "JW Black Label 750ml + 2 Energeticos",
+                    "foodPrecio": 21000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "JW Gold Label + 2 Energeticos",
+                    "foodPrecio": 35500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "JW Green Label 750ml + 2 Energeticos",
+                    "foodPrecio": 39500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Ballantines + 2 Energeticos",
+                    "foodPrecio": 7500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "JW Red Label + 2 Energeticos",
+                    "foodPrecio": 11000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Ron Santiago 11 + 2 Energeticos",
+                    "foodPrecio": 16500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ballantines + 1 Energetico",
+                    "foodPrecio": 7000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "VAT 69 + 2 Energeticos",
+                    "foodPrecio": 5500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jameson + 2 Energeticos",
+                    "foodPrecio": 8500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Chancelier + 2 Energeticos",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "HC. 7 Años + 2 Pepsi",
+                    "foodPrecio": 7500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "H. Club 7 Años + 1 Energetico",
+                    "foodPrecio": 6500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "H. Club 7 Años + 1 Pepsi",
+                    "foodPrecio": 5000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ritual + 2 Energeticos",
+                    "foodPrecio": 4000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Absolut + Jugo de Naranja",
+                    "foodPrecio": 7500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jagermeister + 2 Energeticos",
+                    "foodPrecio": 9500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Pacto Navio + 2 Energeticos",
+                    "foodPrecio": 12500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Santiago 12 + 2 Energeticos",
+                    "foodPrecio": 14000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Santiago 8 + 2 Energeticos",
+                    "foodPrecio": 9000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jagermeister + 1 Energetico",
+                    "foodPrecio": 8500,
+                    "alcoholica": true,
+                    "importada": true
                 }
-            ]
+            ]            
         }
     }
 }

@@ -3,7 +3,9 @@
 
         1-El pinareno(coordenadas)(restaurant)
         2-Cafe Tilin(restaurant)
-
+        3-Dominica Like
+        4-Tanokura
+                
 15+Habana del Este:
 
         1-Al campestre(restaurant)
@@ -25,11 +27,16 @@
 
 4+Cerro:
 
+        1-Rico rico
+
 5+10/10:
 
         1-Crispy Chicken(restaurant)
         2-Monakeno(restaurant)
         3-Lacret 559(bar)
+        4-Melao's
+        5-Nel Paradiso
+        6-Pasos Habaneros
 
 6+Plaza:
 
@@ -43,11 +50,17 @@
         8-La Divina Pastora(restaurant)(incompleto)
         9-Fuumiyaki(restaurant(pendiente))
         10-Farallon(restaurant)
-
+        11-Fonda La Paila
+        12-Razones Y Motivos
+        13-Sport Bar 23 y 12
+        14-Sushi Master
+        
 7+Playa:
 
         1-Donde Juan(restaurant)
         2-La chucheria
+        3-D'Kmino
+        4-FoodMaster
 
 8+Regla:
 
@@ -65,12 +78,16 @@
 11+Centro Habana:
 
         1-Mundo Pizza(bar-restaurant)
+        2-El rincon de mama
+        3-La Juliana
 
 12+Habana Vieja:
 
         1-Habia una vez(restaurant)
         2-Mythos(restaurant)
         3-La Macorina(restaurant)
+        4-El Surtidor
+        5-
 
 13+Marianao:
 
@@ -83,4 +100,6 @@
 
 
 
-total: 28
+total: 52
+
+-LA DIVINA PASTORA NECESITA REVISION

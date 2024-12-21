@@ -7,48 +7,48 @@
         {
             "address": "Esquina 23 & 12,",
             "barrio": "Vedado",
-            "GPS": ""
+            "GPS": "23.127423082197783, -82.39964653961638"
         },
         "horarios": 
         {
-            "monday": "",
-            "thuesday": "",
-            "wednesday": "",
-            "thursday": "",
-            "friday": "",
-            "saturday": "",
-            "sunday": ""
+            "monday": "open",
+            "thuesday": "open",
+            "wednesday": "open",
+            "thursday": "open",
+            "friday": "open",
+            "saturday": "open",
+            "sunday": "open"
         },
         "contactUs":
         {
-            "phone": [],
+            "phone": [50974447],
             "web": "",
-            "social": [""]
+            "social": ["https://www.instagram.com/sportbar_23y12/?hl=es","https://www.facebook.com/p/Sportbar-23-y-12-100095083728396/?locale=sw_KE"]
         },
         "services":
         {
-            "tranfer": false,
-            "delivery": false,
-            "parallevar": false,
-            "reservation": false,
-            "tipoDeMoneda": [""],
-            "parqueo": false,
-            "porCiento": false,
-            "alquiler": false,
+            "tranfer": null,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": 10,
+            "alquiler": null,
             "comentarios": ""
         },
         "ambientacion":
         {
-            "inside": false,
-            "outside": false,
-            "bajos": false,
+            "inside": true,
+            "outside": true,
+            "bajos": true,
             "altos": false,
             "ac": false,
             "entretenimiento": [""],
             "comentarios": ""
 
         },
-        "vestimenta": [""],
+        "vestimenta": ["casual"],
         "estatal": false,
         "tipoDeComidaEspecializada": [""],
         "menu":
@@ -56,35 +56,445 @@
             "entrantes":
             [
                 {
-                    "foodName": "string/ nombre del plato",
-                    "foodPrecio": "int/precio del plato"
+                    "foodName": "Waffles",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Desayuno Americano",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Bruqeutas",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Croquetas del Dia",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Frituras de Malanaga",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Picadera 23 y 12",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Sándwich de Atun",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "Sándwich de Pollo",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "Sándwich de Lechon",
+                    "foodPrecio": 1600
+                },
+                {
+                    "foodName": "Sanwich de Jamon y Queso",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Sandiwch 23 y 12",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Hamburguesa Clasica de Cerdo",
+                    "foodPrecio": 1450
                 }
             ],
             "platoFuerte":
             [
                 {
-                    "foodName": "string/ nombre del plato",
-                    "foodPrecio": "int/precio del plato",
-                    "description": "string-null/ en caso de q el nombre del plato sea un nombre unico y no diga de q esta hecho; de otra forma el valor es null",
-                    "clasificacion": "string/ carne roja, blanca, guarniciones etc"
+                    "foodName": "Tacos de Pollo",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Tacos de Cerdo",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Tacos de Camaron",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Tacos de Pollo",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "ligero"
+                },
+                {
+                    "foodName": "Pizza Napoles",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": "pizza"
+                },
+                {
+                    "foodName": "Pasta Boloñesa",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "pasta"
+                },
+                {
+                    "foodName": "Pasta al Pesto",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "pasta"
+                },
+                {
+                    "foodName": "Pasta Napoles",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "pasta"
+                },
+                {
+                    "foodName": "Pasta al Ajillo",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "pasta"
                 }
             ],
             "postre":
-            [
-                {
-                    "foodName": "string/ nombre del plato",
-                    "foodPrecio": "int/precio del plato"
-                }
-            ],
+            [],
             "bebidas":
             [
                 {
-                    "foodName": "string/ nombre de la bebida",
-                    "foodPrecio": "int/precio del plato",
+                    "foodName": "Cubetazo",
+                    "foodPrecio": 3500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "CubetazoMax",
+                    "foodPrecio": 4500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Cristal",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Cristal Extra",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Bucanero",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Bucanero Max",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Dispensada",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Nacional",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Importada",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco Nacional",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco Importado",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Limonada Natural",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada con Hierba Buena",
+                    "foodPrecio": 425,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Juego Natural",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Suero de Helado",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malteada",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batidos de Frutas",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito de Frutas",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña Colada",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Canchánchara",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubanito",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubata",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cuba Libre",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangria",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Collins",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daiquiri",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daiquiri Frutas",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiriha",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiroska",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipirissima",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Margarita",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Screwdriver",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Bloody Mary",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Blue Lagoon",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada",
+                    "foodPrecio": 100,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 150,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "CR7",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Messi",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Lakers",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Haban Mule",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Canchánchara Banana",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada 23 y 12",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Zombie",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Vampiro",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Americano",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Espresso",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Espresso con Coffemate",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Cortadito",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Bombon",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cappuccino",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Frapuccino 23 y 12",
+                    "foodPrecio": 650,
                     "alcoholica": false,
                     "importada": false
                 }
             ]
+            
         }
     }
 }
