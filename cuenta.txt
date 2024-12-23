@@ -5,6 +5,9 @@
         2-Cafe Tilin(restaurant)
         3-Dominica Like
         4-Tanokura
+        5-El Sauce
+        6-Nameless
+        7-Entabla2
                 
 15+Habana del Este:
 
@@ -100,6 +103,6 @@
 
 
 
-total: 52
+total: 53
 
 -LA DIVINA PASTORA NECESITA REVISION

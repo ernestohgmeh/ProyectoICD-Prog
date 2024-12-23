@@ -7,7 +7,7 @@
         {
             "address": "Calle 403 %Ave. Rancho Boyeros  Calle B",
             "barrio": "Santiago de las Vegas",
-            "GPS": "22.97142091367394, -82.38490987571723"
+            "GPS": "22.972472,-82.382986"
         },
         "horarios": 
         {
@@ -22,8 +22,8 @@
         "contactUs":
         {
             "phone": [],
-            "web": "l",
-            "social": []
+            "web": "",
+            "social": ["https://www.instagram.com/restaurant_tanokura/"]
         },
         "services":
         {
