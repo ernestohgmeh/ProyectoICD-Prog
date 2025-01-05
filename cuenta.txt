@@ -8,6 +8,7 @@
         5-El Sauce
         6-Nameless
         7-Entabla2
+        8-KM Pary
                 
 15+Habana del Este:
 
@@ -86,7 +87,7 @@
         1-Mundo Pizza(bar-restaurant)
         2-El rincon de mama
         3-La Juliana
-        4-Centro Habana
+        4-Flor de loto
 
 12+Habana Vieja:
 

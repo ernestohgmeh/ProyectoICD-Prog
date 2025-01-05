@@ -1,0 +1,301 @@
+{
+    "municipality": "Boyeros",
+    "info":
+        {
+        "nameLocal": "La Gordy",
+        "location":
+        {
+            "address": "Calle 184 #41308 % 413 & 415,",
+            "barrio": "Santiago de las Vegas",
+            "GPS": "22.966632,-82.384596"
+        },
+        "horarios": 
+        {
+            "monday": "",
+            "thuesday": "",
+            "wednesday": "1130-2100",
+            "thursday": "1130-2100",
+            "friday": "1130-2100",
+            "saturday": "1130-2100",
+            "sunday": "1130-2100"
+        },
+        "contactUs":
+        {
+            "phone": [76837364,53871899,59213182],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": true,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Tostones Criollos",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Fritura de Malanga",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Garbanzos Fritos",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Garbanzos Fritos La Gordy",
+                    "foodPrecio": 800
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Fajitas de Pollo Encebollada",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fajitas de Pollo Empanadas",
+                    "foodPrecio": 110,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fajitas de Pollo Grille",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo a la Piña",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo Deshuesado Empanado",
+                    "foodPrecio": 1050,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo Deshuesado Gratinado",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fajitas de Pechuga Encebolladas",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fajitas de Pechuga Empanadas",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga de Pollo Grille",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga de Pollo a la Piña",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga de Pollo Empanada",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga de Pollo Gratinada",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga Gordon Blue",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Higado de Cerdo",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Higado de Cerdo a la Italiana",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fricase de Cerdo",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fajitas de Cerdo Encebolladas",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fajitas de Cerdo Empanadas",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Masa de Cerdo Fritas",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo Grille",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo a la Piña",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo Empanado",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo Gratinado",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec Uruguayo de Cerdo",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Chuleta Ahumada de Cerdo",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Chuleta Ahumada de Cerdo Gratinada",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Eperlan de Pescado",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Pescado Grille",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Pescado Empanado",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Pescado Gratinado",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete Canciller",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa Vieja de Cordero",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa Vieja de Res",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Vaca Frita",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arooz Moro",
+                    "foodPrecio": 400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Frito",
+                    "foodPrecio": null,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ]
+,
+            "postre":
+            [],
+            "bebidas":
+            []
+        }
+    }
+}
