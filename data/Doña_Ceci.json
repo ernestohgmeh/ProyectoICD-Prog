@@ -1,0 +1,224 @@
+{
+    "municipality": "Cerro",
+    "info":
+        {
+        "nameLocal": "Doña Ceci",
+        "location":
+        {
+            "address": "Calle 5ta % Entrada & 2da ",
+            "barrio": "Casino Deportivo",
+            "GPS": "23.091613, -82.383484"
+        },
+        "horarios": 
+        {
+            "monday": "",
+            "thuesday": "1130-1900",
+            "wednesday": "1130-1900",
+            "thursday": "1130-1900",
+            "friday": "1130-1900",
+            "saturday": "1130-1900",
+            "sunday": "1130-1900"
+        },
+        "contactUs":
+        {
+            "phone": [53914285,50118054],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": null,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Tostones Naturales",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Tostones Rellenos con Jamon y Queso",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Tostones Rellenos con Chorizo y Queso",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Tostones Rellenos con Queso",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Chicharritas de Platanos",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Frituras de Malanga",
+                    "foodPrecio": 300
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Cerdo Grille o a la Plancha",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Uruguayo de Cerdo",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Cerdo Rebosado o Empanado",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Cerdo Salteado con Vegetales",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Cerdo Salteado con Piña Glaseada",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Cerdo Empanado con Mani",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fricase de Cerdo",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Masas Fritas de Cerdo",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Hígado de Res a la Italiana",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Higado de Res",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetis Napolitano",
+                    "foodPrecio": 550,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Napolitana con Queso Gouda de 40cm",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Napolitana de Queso Gouda de 20cm",
+                    "foodPrecio": 200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lazaña con Queso Gouda",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis",
+                    "foodPrecio": 550,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz",
+                    "foodPrecio": 200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ensalada",
+                    "foodPrecio": 200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Vianda",
+                    "foodPrecio": 200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cerveza de Lata",
+                    "foodPrecio": 230,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Cristal de Lata",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco de Lata",
+                    "foodPrecio": 230,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo (Lata o Cajita)",
+                    "foodPrecio": 170,
+                    "alcoholica": false,
+                    "importada": true
+                }
+            ]            
+        }
+    }
+}

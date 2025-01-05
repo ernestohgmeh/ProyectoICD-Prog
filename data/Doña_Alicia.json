@@ -1,0 +1,90 @@
+{
+    "municipality": "Centro Habana",
+    "info":
+        {
+        "nameLocal": "Doña Alicia",
+        "location":
+        {
+            "address": "Reina & Belascoain & Chaves",
+            "barrio": "string/ nombre del barrio",
+            "GPS": "string/ latitud,longitud"
+        },
+        "horarios": 
+        {
+            "monday": "string/ horario de apertura en formato militar o 'open' en caso de no tener horario",
+            "thuesday": "0900-1200",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+        },
+        "contactUs":
+        {
+            "phone": ["int/ numero del local"],
+            "web": "string/ link del local",
+            "social": ["string/ link a las diferentes redes del local "]
+        },
+        "services":
+        {
+            "tranfer": false,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": false,
+            "tipoDeMoneda": ["string/ siglas de las monedas q acepta"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "string/ nombre del plato",
+                    "foodPrecio": "int/precio del plato"
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "string/ nombre del plato",
+                    "foodPrecio": "int/precio del plato",
+                    "description": "string-null/ en caso de q el nombre del plato sea un nombre unico y no diga de q esta hecho; de otra forma el valor es null",
+                    "clasificacion": "string/ carne roja, blanca, guarniciones etc"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "string/ nombre del plato",
+                    "foodPrecio": "int/precio del plato"
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "string/ nombre de la bebida",
+                    "foodPrecio": "int/precio del plato",
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}

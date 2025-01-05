@@ -31,6 +31,7 @@
 4+Cerro:
 
         1-Rico rico
+        2-Doña Ceci
 
 5+10/10:
 
@@ -40,6 +41,7 @@
         4-Melao's
         5-Nel Paradiso
         6-Pasos Habaneros
+        7-Cafe Cortina
 
 6+Plaza:
 
@@ -64,6 +66,7 @@
         2-La chucheria
         3-D'Kmino
         4-FoodMaster
+        5-Sensacioones
 
 8+Regla:
 
@@ -83,6 +86,7 @@
         1-Mundo Pizza(bar-restaurant)
         2-El rincon de mama
         3-La Juliana
+        4-Centro Habana
 
 12+Habana Vieja:
 
@@ -103,6 +107,6 @@
 
 
 
-total: 53
+total: 54
 
 -LA DIVINA PASTORA NECESITA REVISION

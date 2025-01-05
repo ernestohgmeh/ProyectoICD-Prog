@@ -1,0 +1,888 @@
+{
+    "municipality": "Boyeros",
+    "info":
+        {
+        "nameLocal": "KM Pary",
+        "location":
+        {
+            "address": "Avenida independencia #28511 % 285 A & 289",
+            "barrio": "Baluarte",
+            "GPS": "23.006546,-82.393745"
+        },
+        "horarios": 
+        {
+            "monday": "1000-0500",
+            "thuesday": "0900-1200",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+        },
+        "contactUs":
+        {
+            "phone": [52766526],
+            "web": "",
+            "social": ["https://www.instagram.com/kmpary_bar_restaurant/","https://www.facebook.com/p/Kmpary-bar-100039889495120/"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP","USD"],
+            "parqueo": true,
+            "porCiento": 10,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": true,
+            "ac": true,
+            "entretenimiento": ["artistas invitados"],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Sandwich de Jamon y Queso",
+                    "foodPrecio": 1050
+                },
+                {
+                    "foodName": "Sándwich de Jamon, Queso y Chorizo",
+                    "foodPrecio": 1170
+                },
+                {
+                    "foodName": "Sándwich de Atun",
+                    "foodPrecio": 1250
+                },
+                {
+                    "foodName": "Hamburguesa de Pollo",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Hamburguesa de Cerdo",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Hamburguesa de Cerdo KM",
+                    "foodPrecio": 1660
+                },
+                {
+                    "foodName": "Hamburguesa de Res",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Hamburguesa KM",
+                    "foodPrecio": 1660
+                },
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Frituras de Malanga",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Fajitas de Pollo",
+                    "foodPrecio": 1020
+                },
+                {
+                    "foodName": "Fajitas de Cerdo",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "Eperlan de Pescado",
+                    "foodPrecio": 1150
+                },
+                {
+                    "foodName": "Brusquetas",
+                    "foodPrecio": 410
+                },
+                {
+                    "foodName": "Brusquetas de Atun",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Ensalada Fria de Jamon",
+                    "foodPrecio": 690
+                },
+                {
+                    "foodName": "Ensalada Fria de Atun",
+                    "foodPrecio": 780
+                },
+                {
+                    "foodName": "Coctel de Camarones",
+                    "foodPrecio": 1600
+                },
+                {
+                    "foodName": "Camaron Rebosado",
+                    "foodPrecio": 2050
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Picadera KM",
+                    "foodPrecio": 2800
+                },
+                {
+                    "foodName": "Bolitas de Queso",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Entremes Surtido",
+                    "foodPrecio": 1150
+                },
+                {
+                    "foodName": "Maripositas Chinas",
+                    "foodPrecio": 470
+                },
+                {
+                    "foodName": "Tostones Rellenos de Jamon",
+                    "foodPrecio": 670
+                },
+                {
+                    "foodName": "Tostones Rellenos de Res",
+                    "foodPrecio": 780
+                },
+                {
+                    "foodName": "Tostones Rellenos de Atun",
+                    "foodPrecio": 920
+                },
+                {
+                    "foodName": "Ceviche de Peruano",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Ceviche KM (Camaron y Pescado)",
+                    "foodPrecio": 1700
+                },
+                {
+                    "foodName": "Finos Cortes de Jamon Serrano",
+                    "foodPrecio": 1700
+                },
+                {
+                    "foodName": "Carpacio de Pulpo",
+                    "foodPrecio": 1550
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Bruschetta de Cerdo",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Cazuela de Mariscos",
+                    "foodPrecio": 4000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Solomillo de Cerdo",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lonjas de Cerdo",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Corte Wagyu con Queso Azul",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Corte Wagyu a la Pimienta",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Corte Wagyu al Grill",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Corte Wagyu al Vino",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Entrecot",
+                    "foodPrecio": 3900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Churrasco de Res",
+                    "foodPrecio": 3850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Vaca Frita de Res",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Masa de Cerdo Frita",
+                    "foodPrecio": 1980,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa Vieja de Res",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Pescado Grille",
+                    "foodPrecio": 1390,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Riñonada Encebollado",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga Grille Encebollada",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga al Curri",
+                    "foodPrecio": 1260,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga a la Crema con Chocolate",
+                    "foodPrecio": 1280,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Cerdo Salteado",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Cerdo a la Doch",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Rollo de Pechuga Rellena",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Pescado",
+                    "foodPrecio": 1390,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Pescado Napado",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Grillada Mixta",
+                    "foodPrecio": 5700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete Jonville",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo de Cerdo Ahumado",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Rueda de Pescado a la Plancha",
+                    "foodPrecio": 1760,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Rueda de Pescado al Ajillo",
+                    "foodPrecio": 1870,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Rueda de Pescado en Salsa Criolla",
+                    "foodPrecio": 1870,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta Batabano",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta Grille",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta Termidor",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta Jonville",
+                    "foodPrecio": 3400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta Enchilada",
+                    "foodPrecio": 2400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Garbanzo Frito",
+                    "foodPrecio": 1550,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tamal en Casuela",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tamal con Carne",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tacos de Cerdo",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tacos de Res",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tacos de Camarones",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Frito",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Frito Especial",
+                    "foodPrecio": 2050,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo Encebollado",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camaron Enchilado",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camaron al Ajillo",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Gordon Blue",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Pescado Canciller",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Uruguayo",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Cerdo",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fricase de Cerdo",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Chuleta de Cerdo",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Papillot de Pescado",
+                    "foodPrecio": 1820,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Rollo de Filete de Cerdo Relleno",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Blanco",
+                    "foodPrecio": 170,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Moro",
+                    "foodPrecio": 340,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Pilaf",
+                    "foodPrecio": 380,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "CCrema de Queso",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Crema Aurora",
+                    "foodPrecio": 480,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Crema Virgina",
+                    "foodPrecio": 580,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lazaña de Jamon",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lazaña Boloñeza",
+                    "foodPrecio": 1390,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Canelon de Jamon",
+                    "foodPrecio": 670,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetti Napolitano",
+                    "foodPrecio": 670,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetti al Pesto",
+                    "foodPrecio": 1020,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetti de Atun",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Al Aglio, Olio, e Peperoncino",
+                    "foodPrecio": 670,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "A la Boloñesa",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetti a la Carbonara",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetti a la Arrabiata",
+                    "foodPrecio": 1020,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza KM",
+                    "foodPrecio": 2750,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Queso Gouda",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza 4 Quesos",
+                    "foodPrecio": 2100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Queso Azul",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Langosta",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Camaron",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Jamon Serrano",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Ropa Vieja",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Atun",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Hawaiana",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Bacon",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Aceitunas",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Jamon Ahumado",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Peperoni",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Chorizo",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Margarita",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Cebolla",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Pimiento",
+                    "foodPrecio": 1120,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],      
+            "postre":
+            [
+                {
+                    "foodName": "Tartas de Limon",
+                    "foodPrecio": 340
+                },
+                {
+                    "foodName": "Flan",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "CupCake",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Dulces Finos",
+                    "foodPrecio": 420
+                },
+                {
+                    "foodName": "Paletas de Helados",
+                    "foodPrecio": 280
+                },
+                {
+                    "foodName": "Sandy de Helado Nestle",
+                    "foodPrecio": 330
+                },
+                {
+                    "foodName": "Helado Nestle",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Potes de Helado 250ml",
+                    "foodPrecio": 370
+                },
+                {
+                    "foodName": "Potes de Helado 500ml",
+                    "foodPrecio": 740
+                },
+                {
+                    "foodName": "Potes de Helado 1L",
+                    "foodPrecio": 930
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cerveza Cristal",
+                    "foodPrecio": 420,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Blue",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Sol",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Corona",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco Importado",
+                    "foodPrecio": 370,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco Nacional",
+                    "foodPrecio": 305,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Red Bull",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Agua Natural",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Tonica",
+                    "foodPrecio": 230,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta Bucanero",
+                    "foodPrecio": 370,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta Importada",
+                    "foodPrecio": 370,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malteada",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Kermato",
+                    "foodPrecio": 560,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada",
+                    "foodPrecio": 560,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo de Frutas",
+                    "foodPrecio": 155,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batido de Helado",
+                    "foodPrecio": 830,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo de Caja",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Leche Condensada Malteada",
+                    "foodPrecio": 255,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Expreso",
+                    "foodPrecio": 100,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Cortado",
+                    "foodPrecio": 130,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café con Leche",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}
