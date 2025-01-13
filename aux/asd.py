@@ -70,7 +70,8 @@ def Promedio_recortado_seccion(lista:list):
     """
     
     porciento = int(len(lista) * 0.1)
-    lista.sort()
+    if len(lista) == 0: return 0
+    lista.sort(key=lambda x: x["foodPrecio"])
     while porciento > 0:
         lista.pop(0)
         lista.pop(-1)
@@ -78,8 +79,9 @@ def Promedio_recortado_seccion(lista:list):
     
     output = 0
     for k in lista:
-        output += k["foodPrecio"]
-    return output / len(lista)
+            output += int(k["foodPrecio"])
+    output /= len(lista)
+    return output
 
 def Promedio_restaurant(dicc:dict):
     """
@@ -116,5 +118,10 @@ def Promedio_municipio(lista:list):
         elif k["municipality"].lower() == "marianao": salida[12]["Marianao"].append(Promedio_restaurant(k))
         elif k["municipality"].lower() == "regla": salida[13]["Regla"].append(Promedio_restaurant(k))
         elif k["municipality"].lower() == "lisa": salida[14]["Lisa"].append(Promedio_restaurant(k))
-        
-        
+    
+    
+    for k in salida:
+        for i in k:
+            k[i] = sum(k[i]) / len(k[i])
+    return salida
+            

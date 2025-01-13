@@ -198,21 +198,9 @@
                 }
             ],
             "postre":
-            [
-                {
-                    "foodName": "string/ nombre del plato",
-                    "foodPrecio": "int/precio del plato"
-                }
-            ],
+            [],
             "bebidas":
-            [
-                {
-                    "foodName": "string/ nombre de la bebida",
-                    "foodPrecio": "int/precio del plato",
-                    "alcoholica": false,
-                    "importada": false
-                }
-            ]
+            []
         }
     }
 }

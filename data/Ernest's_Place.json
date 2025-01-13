@@ -647,20 +647,8 @@
                     "importada": false
                 },
                 {
-                    "foodName": "Habana Club añejo especial",
-                    "foodPrecio": null,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
                     "foodName": "Habana Club Ritual",
                     "foodPrecio": 300,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Habana Club Reserva",
-                    "foodPrecio": null,
                     "alcoholica": true,
                     "importada": false
                 },
@@ -739,12 +727,6 @@
                 {
                     "foodName": "Tequila reposado new",
                     "foodPrecio": 280,
-                    "alcoholica": true,
-                    "importada": true
-                },
-                {
-                    "foodName": "Tequila alto",
-                    "foodPrecio": null,
                     "alcoholica": true,
                     "importada": true
                 },
@@ -901,12 +883,6 @@
                 {
                     "foodName": "Tom coller",
                     "foodPrecio": 630,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Gin tonic",
-                    "foodPrecio": null,
                     "alcoholica": true,
                     "importada": false
                 },

@@ -157,18 +157,6 @@
                     "clasficacion": "aaa"
                 },
                 {
-                    "foodName": "Arroz / Rice",
-                    "foodPrecio": null,
-                    "description": null,
-                    "clasficacion": "aaa"
-                },
-                {
-                    "foodName": "Potaje / Bean Soup",
-                    "foodPrecio": null,
-                    "description": null,
-                    "clasficacion": "aaa"
-                },
-                {
                     "foodName": "Vianda Frita / Fried Crop of the Day",
                     "foodPrecio": 800,
                     "description": null,

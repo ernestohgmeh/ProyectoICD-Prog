@@ -347,12 +347,6 @@
                     "importada": true
                 },
                 {
-                    "foodName": "Refrescos nacionales",
-                    "foodPrecio": null,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
                     "foodName": "Refrescos importados",
                     "foodPrecio": 350,
                     "alcoholica": false,

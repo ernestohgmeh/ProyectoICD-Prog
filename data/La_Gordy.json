@@ -283,12 +283,6 @@
                     "foodPrecio": 400,
                     "description": null,
                     "clasficacion": "aaa"
-                },
-                {
-                    "foodName": "Arroz Frito",
-                    "foodPrecio": null,
-                    "description": null,
-                    "clasficacion": "aaa"
                 }
             ]
 ,
