@@ -1,0 +1,432 @@
+{
+    "municipality": "Habana Vieja",
+    "info":
+        {
+        "nameLocal": "Pal Karajo",
+        "location":
+        {
+            "address": "Calle Cuba #60 entre Peña Cobre y Cuarteles",
+            "barrio": "",
+            "GPS": "23.143116,-82.354095"
+        },
+        "horarios": 
+        {
+            "monday": "0830-2359",
+            "thuesday": "0830-2359",
+            "wednesday": "0830-2359",
+            "thursday": "0830-2359",
+            "friday": "0830-2359",
+            "saturday": "0830-2359",
+            "sunday": "0830-2359"
+        },
+        "contactUs":
+        {
+            "phone": [63436878],
+            "web": "https://palkarajo.com/",
+            "social": ["https://www.instagram.com/pal.karajo","https://www.facebook.com/profile.php?id=61564539794404&rdid=DG37UEFzCldrcDty&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fs1GkVTCSQQiUFa8n%2F"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Coctel de Mariscos",
+                    "foodPrecio": 3800
+                },
+                {
+                    "foodName": "Carpaccio",
+                    "foodPrecio": 3800
+                },
+                {
+                    "foodName": "Ceviche de la Costa",
+                    "foodPrecio": 3400
+                },
+                {
+                    "foodName": "Mixto de Montaditos",
+                    "foodPrecio": 2900
+                },
+                {
+                    "foodName": "Ceviche Vegetariano",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "Gazpacho Andaluz",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "Delicias al Ajillo",
+                    "foodPrecio": 4500
+                },
+                {
+                    "foodName": "Pulpo a la Gallega",
+                    "foodPrecio": 4400
+                },
+                {
+                    "foodName": "Festival de Taquitos",
+                    "foodPrecio": 3900
+                },
+                {
+                    "foodName": "Camarones Tempura",
+                    "foodPrecio": 3900
+                },
+                {
+                    "foodName": "Perlitas de Pescado",
+                    "foodPrecio": 3500
+                },
+                {
+                    "foodName": "Quiche de Verduras",
+                    "foodPrecio": 2900
+                },
+                {
+                    "foodName": "Croqueticas de la Abuela",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Quesadillas Parrilleras",
+                    "foodPrecio": 2100
+                },
+                {
+                    "foodName": "Empanadas de Carne",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Empanadas de Vegetales",
+                    "foodPrecio": 1450
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Ensalada Pal Karajo",
+                    "foodPrecio": 4900,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Ensalada Rusa",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Ensalada Cesar",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Ensalada Tropical de Pollo",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Ensalada Temporada",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Moro",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Blanco",
+                    "foodPrecio": 550,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Vegetales Salteados",
+                    "foodPrecio": 550,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Vianda Frita",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Marea Negra (2 Pax)",
+                    "foodPrecio": 4500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Meloso Marinero",
+                    "foodPrecio": 3700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz con Pollo a la Cacerola",
+                    "foodPrecio": 2900,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pasta Marea Negra",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pasta Frutti de Mare",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pasta Bolognesa",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pasta Napoles",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pasta Arrabiata",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Pal Karajo",
+                    "foodPrecio": 4800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Vegetariana",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Hawaiana",
+                    "foodPrecio": 2900,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Margarita",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Chuletas a la Criolla",
+                    "foodPrecio": 4900,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Escalopines Encebollados",
+                    "foodPrecio": 4600,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Costillas BBQ",
+                    "foodPrecio": 4500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Típica Masa Frita",
+                    "foodPrecio": 4400,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Muslo de Pollo del Karajo",
+                    "foodPrecio": 3700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Suprema de Pollo a la Plancha Gratinada",
+                    "foodPrecio": 3600,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Daditos de Pechuga al Curry y Agridulce",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga Grille",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta Termidor",
+                    "foodPrecio": 9800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Entomatado Marinero",
+                    "foodPrecio": 6800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete a la Plancha con Salsa de Camaron",
+                    "foodPrecio": 5100,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Gambas a la Tempura",
+                    "foodPrecio": 4700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pescado Frito y Enterito",
+                    "foodPrecio": 4500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Parrillada Pal Karajo (2 Pax)",
+                    "foodPrecio": 14500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete a las Brasas",
+                    "foodPrecio": 10100,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Ojo de Bife",
+                    "foodPrecio": 9900,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Montura de Lomo",
+                    "foodPrecio": 9700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Sarten de Ternera",
+                    "foodPrecio": 8000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filetitos de Novillos a la Crema Roquefort",
+                    "foodPrecio": 7800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Estofado de Cuadril",
+                    "foodPrecio": 7800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Milanesa Argentina",
+                    "foodPrecio": 7100,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Entrecot",
+                    "foodPrecio": 6400,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Bife Chorizo",
+                    "foodPrecio": 6300,
+                    "description": null,
+                    "clasificacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Tortas de la Casa",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Wafles",
+                    "foodPrecio": 1350
+                },
+                {
+                    "foodName": "Empanada de Queso con Guayaba",
+                    "foodPrecio": 1150
+                },
+                {
+                    "foodName": "Crepes",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Croissant de Jamon",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Croissant",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Ensalada de Frutas",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Panqueque",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Helados",
+                    "foodPrecio": 850
+                }
+            ],
+            "bebidas":[]
+        }
+    }
+}

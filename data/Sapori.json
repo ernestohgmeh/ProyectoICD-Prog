@@ -1,0 +1,636 @@
+{
+    "municipality": "Playa",
+    "info":
+        {
+        "nameLocal": "Sapori",
+        "location":
+        {
+            "address": "Calle 6 % 7ma & Avenida 5b(Aven 31)",
+            "barrio": "Miramar",
+            "GPS": "23.125424,-82.413641"
+        },
+        "horarios": 
+        {
+            "monday": "0800-2200",
+            "thuesday": "0800-2200",
+            "wednesday": "0800-2200",
+            "thursday": "0800-2200",
+            "friday": "0800-2200",
+            "saturday": "0800-2200",
+            "sunday": "0800-2200"
+        },
+        "contactUs":
+        {
+            "phone": [63969295],
+            "web": "",
+            "social": ["https://www.instagram.com/sapori_oficial/?hl=es"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "tostadas de mantequilla y mermelada",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "tostadas de aguacate, chia, aceite de oliva y tomate",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "ensalada de frutas",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "yogurt con cereal",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "yogurt con frutas",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "leche con cereal",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "crepes",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "crepes de nutella",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "tostadas francesas",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "waffles",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "huevos al gusto",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "huevos benedictos",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "desayuno continental",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "desayuno americano",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "desayuno sapori",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "desayuno healthy",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "croissant natural",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "baguette natural pequeño",
+                    "foodPrecio": 180
+                },
+                {
+                    "foodName": "barra de baguette natural",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "pan briochi",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "pan boom",
+                    "foodPrecio": 250
+                },
+                {
+                    "foodName": "pan rustico",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "bolitas de queso (5u)",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "croquetas (6u)",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "papas fritas",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "brusquetas clásicas (4u)",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "brusquetas de jamon serrano (4u)",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "nuggets de pollo (6u)",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "tacos de pechuga (3u)",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "tacos de cerdo (3u)",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "picadera sapori",
+                    "foodPrecio": 4000
+                },
+                {
+                    "foodName": "ensalada cesar",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "ensalada capresse",
+                    "foodPrecio": 2700
+                },
+                {
+                    "foodName": "ensalada estación",
+                    "foodPrecio": 1800
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "carpaccio de res",
+                    "foodPrecio": 3250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "ceviche de pescado",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "dulce de chocolate",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "dulce de fresa",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "dulce de vainilla",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "dulce de avellana",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "dulce de limón",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "dulce de tiramisú",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "dulce de tres leches",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "dulce de yogurt con frutos del bosque",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "dulce de pistacho",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "tartaleta de chocolate",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "tartaleta de pistacho con limón",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "cheesecake de fresa",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "ferrero rocher",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "panna cotta",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "matilda",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "tarta de yogurt y frutos del bosque",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta de chocolate",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta de fresa",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta de vainilla",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta de avellana",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta de limón",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta tres leches",
+                    "foodPrecio": 5000
+                },
+                {
+                    "foodName": "tarta cheesecake fresa",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta matilda",
+                    "foodPrecio": 8000
+                },
+                {
+                    "foodName": "tarta de tiramisú",
+                    "foodPrecio": 8000
+                },
+                {
+                    "foodName": "tarta tres leches con frutos rojos",
+                    "foodPrecio": 8000
+                },
+                {
+                    "foodName": "tarta de yogurt y frutos del bosque",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta de chocolate",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta de fresa",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta de vainilla",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta de avellana",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta de limón",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta tres leches",
+                    "foodPrecio": 5000
+                },
+                {
+                    "foodName": "tarta cheesecake fresa",
+                    "foodPrecio": 6500
+                },
+                {
+                    "foodName": "tarta matilda",
+                    "foodPrecio": 8000
+                },
+                {
+                    "foodName": "tarta de tiramisú",
+                    "foodPrecio": 8000
+                },
+                {
+                    "foodName": "tarta tres leches con frutos rojos",
+                    "foodPrecio": 8000
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "agua natural",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "agua gaseada",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "agua tónica",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "refresco gaseado",
+                    "foodPrecio": 550,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "malta",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "red bull",
+                    "foodPrecio": 750,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "jugo de caja",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "jugo natural",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "limonada",
+                    "foodPrecio": 1000,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "batido de frutas",
+                    "foodPrecio": 800,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "smoothie frutos rojos y platano",
+                    "foodPrecio": 800,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "smoothie mango y platano",
+                    "foodPrecio": 800,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "smoothie verde",
+                    "foodPrecio": 800,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "batido de helado",
+                    "foodPrecio": 1200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "cerveza cristal botella",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cerveza crona botella",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "cerveza stella artois",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "servicio michelada",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "servicio chelada",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "tinto de verano",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "sangría",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "piña colada",
+                    "foodPrecio": 1400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "aperol spritz",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "daiquiri",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "mojito",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "caipiroska",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "margarita",
+                    "foodPrecio": 1300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "gin tonic",
+                    "foodPrecio": 1300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "san francisco",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cafe expresso",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café cubano",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café cortadito",
+                    "foodPrecio": 430,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café americano",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café bombon",
+                    "foodPrecio": 550,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café moca",
+                    "foodPrecio": 550,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café capuchino",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café escoses",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café chantilly",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café affogato",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café latte",
+                    "foodPrecio": 850,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "frapuccino",
+                    "foodPrecio": 1200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café ice latte",
+                    "foodPrecio": 850,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "chocolate caliente",
+                    "foodPrecio": 850,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "te caliente",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "te frio",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

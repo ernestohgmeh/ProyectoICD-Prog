@@ -62,3 +62,59 @@ def Graf_Bar(id:int,temp = Get_Fixed_Objets()):
     mplp.xticks(rotation=90, fontsize= 7)
     mplp.legend("oal")
     mplp.show()
+
+
+def Promedio_recortado_seccion(lista:list):
+    """
+    Toma los precios de los productos, los ordena y devuelve el promedios sin contar el 10% inferior y superior
+    """
+    
+    porciento = int(len(lista) * 0.1)
+    lista.sort()
+    while porciento > 0:
+        lista.pop(0)
+        lista.pop(-1)
+        porciento -= 1
+    
+    output = 0
+    for k in lista:
+        output += k["foodPrecio"]
+    return output / len(lista)
+
+def Promedio_restaurant(dicc:dict):
+    """
+    devuelve promedio recortado por seccion de todas las secciones y cuanto gasta una persona
+    """
+    
+    entrante = dicc["menu"]["entrantes"] = Promedio_recortado_seccion(dicc["menu"]["entrantes"])
+    fuerte = dicc["menu"]["platoFuerte"] = Promedio_recortado_seccion(dicc["menu"]["platoFuerte"])
+    postres = dicc["menu"]["postre"] = Promedio_recortado_seccion(dicc["menu"]["postre"])
+    bebidas = dicc["menu"]["bebidas"] = Promedio_recortado_seccion(dicc["menu"]["bebidas"])
+    
+    return (entrante + fuerte + postres + bebidas*2) / 5
+    
+    
+
+def Promedio_municipio(lista:list):
+    """
+    Toma los promedios de los restaurantes y devuelve el promedios
+    """
+    salida = [{"Cerro": []},{"Centro": []},{"Vieja": []},{"Plaza": []},{"Playa": []},{"Este": []},{"Gua": []},{"Diez": []},{"Boyeros": []},{"Cotorro": []},{"Arroyo": []},{"San": []},{"Marianao": []},{"Regla": []},{"Lisa": []}]
+    for k in lista:
+        if k["municipality"].lower() == "cerro": salida[0]["Cerro"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "centro habana": salida[1]["Centro"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "habana vieja": salida[2]["Vieja"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "plaza de la revolucion": salida[3]["Plaza"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "playa": salida[4]["Playa"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "habana del este": salida[5]["Este"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "guanabacoa": salida[6]["Gua"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "10 de octubre": salida[7]["Diez"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "boyeros": salida[8]["Boyeros"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "cotorro": salida[9]["Cotorro"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "arroyo naranjo": salida[10]["Arroyo"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "san miguel del padron": salida[11]["San"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "marianao": salida[12]["Marianao"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "regla": salida[13]["Regla"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "lisa": salida[14]["Lisa"].append(Promedio_restaurant(k))
+        
+        

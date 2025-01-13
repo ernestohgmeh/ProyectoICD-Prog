@@ -1,0 +1,250 @@
+{
+    "municipality": "Playa",
+    "info":
+        {
+        "nameLocal": "El Palenque",
+        "location":
+        {
+            "address": "",
+            "barrio": "",
+            "GPS": "23.086191,-82.462627"
+        },
+        "horarios": 
+        {
+            "monday": "",
+            "thuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": ["https://www.facebook.com/p/Restaurante-El-Palenque-100063582806083/?locale=es_LA"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": 10,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 150
+                },
+                {
+                    "foodName": "Cesta de Pan",
+                    "foodPrecio": 100
+                },
+                {
+                    "foodName": "Chicharrones",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Entremes Surtido",
+                    "foodPrecio": 100
+                },
+                {
+                    "foodName": "Entremes de Jamon y Chorizo",
+                    "foodPrecio": 150
+                },
+                {
+                    "foodName": "Variado de Queso",
+                    "foodPrecio": 200
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Arroz con Pollo",
+                    "foodPrecio": 250,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga con Papas Fritas",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Fajitas de Pollo Salteadas",
+                    "foodPrecio": 400,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Picadillo de Res",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Res",
+                    "foodPrecio": 300,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Res a la Campesina",
+                    "foodPrecio": 400,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Chilindrón de Cordero",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Masa de Cerdo Fritas",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo",
+                    "foodPrecio": 300,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo Asado",
+                    "foodPrecio": 630,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Cerdo Asado",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 215,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Ensalada de Vegetales",
+                    "foodPrecio": 300,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pasta Napolitana",
+                    "foodPrecio": 250,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Lasaña de Carne",
+                    "foodPrecio": 200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Mermelada con Queso",
+                    "foodPrecio": 60
+                },
+                {
+                    "foodName": "Arroz con Leche",
+                    "foodPrecio": 60
+                },
+                {
+                    "foodName": "Dulce de Frutabomba",
+                    "foodPrecio": 120
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Jugos Naturales",
+                    "foodPrecio": 100,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza",
+                    "foodPrecio": 120,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Palenque",
+                    "foodPrecio": 40,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cortadito",
+                    "foodPrecio": 60,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café con Leche",
+                    "foodPrecio": 80,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Te",
+                    "foodPrecio": 30,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Licores Nacionales",
+                    "foodPrecio": 20,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Havana Club Reserva",
+                    "foodPrecio": 40,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tequila Blanco",
+                    "foodPrecio": 150,
+                    "alcoholica": true,
+                    "importada": true
+                }
+            ]
+        }            
+    }
+}

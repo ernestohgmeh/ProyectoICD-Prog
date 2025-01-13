@@ -1,0 +1,472 @@
+{
+    "municipality": "Habana Vieja",
+    "info":
+        {
+        "nameLocal": "Antojos",
+        "location":
+        {
+            "address": "Callejón Espada % Cuarteles & Chacon",
+            "barrio": "",
+            "GPS": "23.1416040,-82.355210"
+        },
+        "horarios": 
+        {
+            "monday": "1100-2359",
+            "thuesday": "1100-2359",
+            "wednesday": "1100-2359",
+            "thursday": "1100-2359",
+            "friday": "1100-2359",
+            "saturday": "1100-2359",
+            "sunday": "1100-2359"
+        },
+        "contactUs":
+        {
+            "phone": [52824907],
+            "web": "",
+            "social": ["https://www.instagram.com/restauranteantojos/?hl=es","https://www.facebook.com/antojoscuba"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": 10,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Fritura de Temporada / Frying in Season",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Croquetas de la Casa / Home Croquettes",
+                    "foodPrecio": 1700
+                },
+                {
+                    "foodName": "Tostones Campesinos / Farmer Fried Plantain",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Caldosa Guajira / Country Consomme",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "Tacos",
+                    "foodPrecio": 2700
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Trozos de Pollo a la Mantequilla / Butter Chicken",
+                    "foodPrecio": 2950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa Vieja con Platanitos Maduros / Shredded Beef with Fried Sweet Banana",
+                    "foodPrecio": 3150,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ensalada Campesina / Country Salad",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Costillas de Cerdo Barbacoa / BBQ Pork Ribs",
+                    "foodPrecio": 4300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz a la Chorrera (2 PAX) / A la Chorrera Melted Rice (2 PAX)",
+                    "foodPrecio": 3500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Picadillo a la Habanera / A la Habanera Ground Beef",
+                    "foodPrecio": 2930,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Masas de Cerdo Frita / Fried Pork Chops",
+                    "foodPrecio": 3800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarones al Gusto / Shrimp at Your Choice",
+                    "foodPrecio": 3900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo Grillé / Grilled Chicken on the Coal",
+                    "foodPrecio": 2950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pesca al Carbón / Fish of the Day on the Coal",
+                    "foodPrecio": 3950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pinchos Antojos / Antojos Brochette",
+                    "foodPrecio": 3700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo al Carbón / Pork Loin on the Coal",
+                    "foodPrecio": 4500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo Encebollado / Pork Steak",
+                    "foodPrecio": 3550,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz / Rice",
+                    "foodPrecio": null,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Potaje / Bean Soup",
+                    "foodPrecio": null,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Vianda Frita / Fried Crop of the Day",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Potaje / Bean Soup",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Blanco / White Rice",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pan Artesanal / Homemade Bread",
+                    "foodPrecio": 1050,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Vegetales al Carbón / Vegetables on the Coal",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Crema de Malanga / Taro Cream",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Postres de la casa",
+                    "foodPrecio": 950
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Aguas Naturales",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito Antojos",
+                    "foodPrecio": 1280,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Aguas Tónicas",
+                    "foodPrecio": 750,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Collins",
+                    "foodPrecio": 1180,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refrescos",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña Colada",
+                    "foodPrecio": 1630,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Red Bull",
+                    "foodPrecio": 850,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cuba Libre",
+                    "foodPrecio": 1230,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugos Naturales",
+                    "foodPrecio": 750,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubata",
+                    "foodPrecio": 1230,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubanito",
+                    "foodPrecio": 1380,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada",
+                    "foodPrecio": 900,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Canchánchara",
+                    "foodPrecio": 1150,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daiquirí",
+                    "foodPrecio": 1250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Havana Special",
+                    "foodPrecio": 1180,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Gin Tonic",
+                    "foodPrecio": 1450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Bloody Mary",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Negroni",
+                    "foodPrecio": 1550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Martini",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Caipiroska",
+                    "foodPrecio": 1250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Screwdriver",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Margarita",
+                    "foodPrecio": 1380,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Mary Pickford",
+                    "foodPrecio": 1150,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada de la Casa",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Vino Blanco (Copa)",
+                    "foodPrecio": 1400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Vino Tinto (Copa)",
+                    "foodPrecio": 1450,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Screwdriver",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Margarita",
+                    "foodPrecio": 1380,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Mary Pickford",
+                    "foodPrecio": 1150,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada de la Casa",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Americano",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Expresso",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Cortado",
+                    "foodPrecio": 430,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café con Leche",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Capuchino",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Bombón",
+                    "foodPrecio": 550,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Frapuchino",
+                    "foodPrecio": 900,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]                        
+        }
+    }
+}

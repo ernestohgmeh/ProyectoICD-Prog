@@ -1,0 +1,1074 @@
+{
+    "municipality": "Centro Habana",
+    "info":
+        {
+        "nameLocal": "La Mimosa",
+        "location":
+        {
+            "address": "Salud % Escobar & Gervaceo",
+            "barrio": "",
+            "GPS": "23.133533,-82.368055"
+        },
+        "horarios": 
+        {
+            "monday": "1200-2300",
+            "thuesday": "1200-2300",
+            "wednesday": "1200-2300",
+            "thursday": "1200-2300",
+            "friday": "1200-2300",
+            "saturday": "1200-2300",
+            "sunday": "1200-2300"
+        },
+        "contactUs":
+        {
+            "phone": [78671790],
+            "web": "https://mercadomimosa.com/",
+            "social": ["https://www.instagram.com/restaurantemimosa/?hl=es","https://www.facebook.com/groups/1939137983061178"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": false,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": null,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "croquetas de jamón",
+                    "foodPrecio": 1280
+                },
+                {
+                    "foodName": "focaccia al orégano",
+                    "foodPrecio": 994
+                },
+                {
+                    "foodName": "brusqueta tradicional",
+                    "foodPrecio": 1337
+                },
+                {
+                    "foodName": "galletas caseras con pate de jamón",
+                    "foodPrecio": 1337
+                },
+                {
+                    "foodName": "ensalada caprese",
+                    "foodPrecio": 1881
+                },
+                {
+                    "foodName": "menestra de verduras",
+                    "foodPrecio": 1881
+                },
+                {
+                    "foodName": "coctel de camarones",
+                    "foodPrecio": 2082
+                },
+                {
+                    "foodName": "variedad de quesos c/frutos secos",
+                    "foodPrecio": 2164
+                },
+                {
+                    "foodName": "entremes de jamón serrano",
+                    "foodPrecio": 3057
+                },
+                {
+                    "foodName": "ensalada de frutas secas",
+                    "foodPrecio": 1463
+                },
+                {
+                    "foodName": "bastones de queso frito sobre salsa pommodoro",
+                    "foodPrecio": 2168
+                },
+                {
+                    "foodName": "antipasto mimosa",
+                    "foodPrecio": 2361
+                },
+                {
+                    "foodName": "papas fritas al aroma de ajo",
+                    "foodPrecio": 1096
+                },
+                {
+                    "foodName": "ensalada fría italiana",
+                    "foodPrecio": 659
+                },
+                {
+                    "foodName": "crema de queso",
+                    "foodPrecio": 1197
+                },
+                {
+                    "foodName": "crema virginia",
+                    "foodPrecio": 1197
+                },
+                {
+                    "foodName": "crema aurora",
+                    "foodPrecio": 1197
+                },
+                {
+                    "foodName": "crema de hongos",
+                    "foodPrecio": 1850
+                },
+                {
+                    "foodName": "crema crema de queso azul",
+                    "foodPrecio": 2107
+                },
+                {
+                    "foodName": "crema de vegetales",
+                    "foodPrecio": 1136
+                },
+                {
+                    "foodName": "crema de camarón",
+                    "foodPrecio": 1785
+                },
+                {
+                    "foodName": "crema de mariscos",
+                    "foodPrecio": 2083
+                },
+                {
+                    "foodName": "fondue de queso",
+                    "foodPrecio": 2191
+                },
+                {
+                    "foodName": "sopa de pollo y apio",
+                    "foodPrecio": 1220
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "ravioli relleno con jamon",
+                    "foodPrecio": 1906,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "ravioli relleno c/mouse de camaron",
+                    "foodPrecio": 2084,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "ñoquis al queso azul",
+                    "foodPrecio": 2001,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "ñoquis al pomodoro y queso parmesano",
+                    "foodPrecio": 2032,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "fetuccini alfredo",
+                    "foodPrecio": 1895,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "lenguini de mare",
+                    "foodPrecio": 2209,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "lasagna a la bolognesa",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "lasagna rellena con jamon",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "canelones rellenos con camarones",
+                    "foodPrecio": 2346,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "canelones de jamon",
+                    "foodPrecio": 2091,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "canelones rellenos mixtos",
+                    "foodPrecio": 2345,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "plamontese",
+                    "foodPrecio": 2846,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "risotto mar y tierra",
+                    "foodPrecio": 3326,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "risotto di mare",
+                    "foodPrecio": 3326,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "risotto al trio de carne",
+                    "foodPrecio": 2846,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "risotto de vegetales",
+                    "foodPrecio": 2370,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "risotto nero di mare",
+                    "foodPrecio": 3326,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa mar y tierra",
+                    "foodPrecio": 3013,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa al pesto",
+                    "foodPrecio": 1638,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa al pommodoro",
+                    "foodPrecio": 1513,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa a la carbonara",
+                    "foodPrecio": 2171,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa arrabiata",
+                    "foodPrecio": 1477,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa a la marinera",
+                    "foodPrecio": 2987,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa al burro",
+                    "foodPrecio": 1638,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa a la bolognesa",
+                    "foodPrecio": 2128,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa napolitana",
+                    "foodPrecio": 999,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa alfredo",
+                    "foodPrecio": 1836,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa panna",
+                    "foodPrecio": 2091,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa con filete de res a su gusto",
+                    "foodPrecio": 2168,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa al aglio",
+                    "foodPrecio": 1425,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones con salsa al jamon",
+                    "foodPrecio": 1836,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti/fusili/macarrones nero di mare",
+                    "foodPrecio": 3328,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "macarrones mimosa 4 quesos c/pechuga",
+                    "foodPrecio": 2617,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "rigatoni a las 3 carne",
+                    "foodPrecio": 2179,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "capricho mimosa",
+                    "foodPrecio": 2080,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "camarones al viecco rone",
+                    "foodPrecio": 2985,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "camarones al aroma de porcini y tartufo",
+                    "foodPrecio": 2985,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "lomitos de pescado al horno en crema",
+                    "foodPrecio": 2787,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pescado al oliva y pommodoro",
+                    "foodPrecio": 2787,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pescado grille en salsa pamesana",
+                    "foodPrecio": 2787,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "filetes de res a la amatrcciana",
+                    "foodPrecio": 2142,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "conejo a las finas hierbas en papillote",
+                    "foodPrecio": 2417,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "escalope de cerdo grille",
+                    "foodPrecio": 2987,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza napolitana",
+                    "foodPrecio": 999,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza margarita",
+                    "foodPrecio": 1513,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de jamon",
+                    "foodPrecio": 1566,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza hawaiana",
+                    "foodPrecio": 1549,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de bacon",
+                    "foodPrecio": 1976,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de chorizo, jamon y salame",
+                    "foodPrecio": 2240,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de camarones",
+                    "foodPrecio": 2465,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de pimientos",
+                    "foodPrecio": 2023,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de cebolla",
+                    "foodPrecio": 1620,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de filete de res",
+                    "foodPrecio": 2875,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de champiñones",
+                    "foodPrecio": 2062,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de vegetales",
+                    "foodPrecio": 2013,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de atun",
+                    "foodPrecio": 2472,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de bacon y camarones",
+                    "foodPrecio": 2179,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza al pesto",
+                    "foodPrecio": 1910,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de jamon y camarones",
+                    "foodPrecio": 2376,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza marinera",
+                    "foodPrecio": 2812,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de aceitunas verdes deshuesadas",
+                    "foodPrecio": 2179,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza mimosa",
+                    "foodPrecio": 2560,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza a caballo",
+                    "foodPrecio": 2238,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza gran jumbo",
+                    "foodPrecio": 3344,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza 4 quesos",
+                    "foodPrecio": 2693,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza strombolis quesos, ahumados",
+                    "foodPrecio": 2860,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza calzone",
+                    "foodPrecio": 2575,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza a la toscana",
+                    "foodPrecio": 2677,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza 4 jamones",
+                    "foodPrecio": 2910,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "flan de caramelo",
+                    "foodPrecio": 540
+                },
+                {
+                    "foodName": "ensalada de helado mimosa",
+                    "foodPrecio": 734
+                },
+                {
+                    "foodName": "cheese cake",
+                    "foodPrecio": 761
+                },
+                {
+                    "foodName": "copa de helado tradicional",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "copa lolita",
+                    "foodPrecio": 709
+                },
+                {
+                    "foodName": "torta helada",
+                    "foodPrecio": 667
+                },
+                {
+                    "foodName": "suero de helado",
+                    "foodPrecio": 779
+                },
+                {
+                    "foodName": "torta bombón",
+                    "foodPrecio": 1083
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "jugos naturales",
+                    "foodPrecio": 366,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "jugos importados",
+                    "foodPrecio": 320,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "limonada frappe",
+                    "foodPrecio": 531,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "limonada clarete",
+                    "foodPrecio": 801,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "refresco nacional",
+                    "foodPrecio": 270,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "refresco importado",
+                    "foodPrecio": 320,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "malta",
+                    "foodPrecio": 335,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "kermato",
+                    "foodPrecio": 491,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "malteada",
+                    "foodPrecio": 693,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "red bull",
+                    "foodPrecio": 740,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "cola dietética",
+                    "foodPrecio": 398,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "agua nacional",
+                    "foodPrecio": 190,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "agua importada",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "cerveza nacional",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cerveza importada",
+                    "foodPrecio": 320,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "copa de cerveza",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "jarra de cerveza",
+                    "foodPrecio": 626,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "habana club añejo blanco",
+                    "foodPrecio": 235,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "habana club 3 años",
+                    "foodPrecio": 235,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "habana club añejo especial",
+                    "foodPrecio": 256,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "habana club reserva",
+                    "foodPrecio": 531,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "habana club añejo 7 años",
+                    "foodPrecio": 489,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "habana club selección de maestro",
+                    "foodPrecio": 1132,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "habana club unio",
+                    "foodPrecio": null,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "habana club tributo",
+                    "foodPrecio": null,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "aguardiente santero",
+                    "foodPrecio": 245,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "ron santiago añejo",
+                    "foodPrecio": 323,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "amaretto disaronno",
+                    "foodPrecio": 565,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "frangelico",
+                    "foodPrecio": 1018,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "baileys",
+                    "foodPrecio": 565,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "sambuco",
+                    "foodPrecio": 565,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "anis del mono dulce",
+                    "foodPrecio": 519,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "pernod",
+                    "foodPrecio": 387,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "ricard",
+                    "foodPrecio": 387,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "cmapari",
+                    "foodPrecio": 165,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "licores cubanos",
+                    "foodPrecio": 165,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "chivas regal",
+                    "foodPrecio": 1485,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "jhonnie walker black level",
+                    "foodPrecio": 534,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "jhonnie walker red level",
+                    "foodPrecio": 444,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "jhonnie walker blue level j&b",
+                    "foodPrecio": 630,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "havana special",
+                    "foodPrecio": 531,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cuba libre",
+                    "foodPrecio": 531,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "clan campbell",
+                    "foodPrecio": 418,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "wisky single malt",
+                    "foodPrecio": 1106,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "jameson",
+                    "foodPrecio": 895,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "jack daniels ballantines",
+                    "foodPrecio": 740,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "vermouth rojo",
+                    "foodPrecio": 283,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "vermouth rosado dulce",
+                    "foodPrecio": 283,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "vermouth seco",
+                    "foodPrecio": 285,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "copa de vino del dia tinto",
+                    "foodPrecio": 786,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "copa de vino del dia blanco",
+                    "foodPrecio": 786,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "copa de vino del dia rosado",
+                    "foodPrecio": 786,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "brandy",
+                    "foodPrecio": 316,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "ginebra",
+                    "foodPrecio": 687,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "ginebra beefeater",
+                    "foodPrecio": 716,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "tequila reposado",
+                    "foodPrecio": 532,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "tequila blanco",
+                    "foodPrecio": 454,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "brandy torres 5",
+                    "foodPrecio": 484,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "brandy torres 10",
+                    "foodPrecio": 468,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "mojito",
+                    "foodPrecio": 531,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "ron collins",
+                    "foodPrecio": 531,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "daiquiri",
+                    "foodPrecio": 531,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "havana special",
+                    "foodPrecio": 531,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cubata",
+                    "foodPrecio": 531,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cubanito",
+                    "foodPrecio": 531,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "mulata",
+                    "foodPrecio": 531,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "mimosa",
+                    "foodPrecio": 739,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "bloody mar",
+                    "foodPrecio": 739,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "piña colada",
+                    "foodPrecio": 739,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "margarita",
+                    "foodPrecio": 739,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "martini",
+                    "foodPrecio": 739,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "screwdriver",
+                    "foodPrecio": 739,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "caipirinha",
+                    "foodPrecio": 739,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "tom collins",
+                    "foodPrecio": 739,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "gin tonic",
+                    "foodPrecio": 739,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "sangria",
+                    "foodPrecio": 739,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "sangria tropical",
+                    "foodPrecio": 739,
+                    "alcoholica": true,
+                    "importada": true
+                }
+            ]            
+        }
+    }
+}

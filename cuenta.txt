@@ -9,6 +9,8 @@
         6-Nameless
         7-Entabla2
         8-KM Pary
+        9-La Gordy
+        10-Altahabana Club
                 
 15+Habana del Este:
 
@@ -17,6 +19,7 @@
         3-D'Maximo Sabor(restaurant)
         4-La ruta de Hemingway(restaurant)
         5-Aires de cojimar(restaurant)(bebidas)
+        6-Los Hermanos
 
 
 2+Guanabacoa:
@@ -68,6 +71,11 @@
         3-D'Kmino
         4-FoodMaster
         5-Sensacioones
+        6-El Palenque
+        7-El Gaban
+        8-Jota Jota
+        9-Mercy Bar
+        10-Sapori
 
 8+Regla:
 
@@ -88,6 +96,9 @@
         2-El rincon de mama
         3-La Juliana
         4-Flor de loto
+        5-Doña Alicia
+        6-La Mimosa
+        7-Ricardon
 
 12+Habana Vieja:
 
@@ -95,7 +106,12 @@
         2-Mythos(restaurant)
         3-La Macorina(restaurant)
         4-El Surtidor
-        5-
+        5-Pal Karajo
+        6-Venami
+        7-Sibarita
+        8-Chachacha
+        9-Cafe del Angel
+        10- Antojos
 
 13+Marianao:
 
@@ -108,6 +124,5 @@
 
 
 
-total: 54
+total: 79
 
--LA DIVINA PASTORA NECESITA REVISION

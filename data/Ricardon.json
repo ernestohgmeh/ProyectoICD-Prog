@@ -1,0 +1,701 @@
+{
+    "municipality": "Centro Habana",
+    "info":
+        {
+        "nameLocal": "Ricardon",
+        "location":
+        {
+            "address": "Industria & Esquina San Miguel",
+            "barrio": "",
+            "GPS": "23.137319,-82.360927"
+        },
+        "horarios": 
+        {
+            "monday": "1200-2359",
+            "thuesday": "1200-2359",
+            "wednesday": "1200-2359",
+            "thursday": "1200-2359",
+            "friday": "1200-2359",
+            "saturday": "1200-2359",
+            "sunday": "1200-2359"
+        },
+        "contactUs":
+        {
+            "phone": [78614325],
+            "web": "https://ricardon.com/web/",
+            "social": ["https://www.instagram.com/restaurantericardon/?hl=es","https://www.facebook.com/ricardonrestaurante/?locale=es_LA"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": true,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "croquetas de chorizo (10 un)",
+                    "foodPrecio": 970
+                },
+                {
+                    "foodName": "tostones rellenos con jamon y queso (50g jamon, 30g queso)",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "tacos de camaron (200g)",
+                    "foodPrecio": 1800
+                },
+                {
+                    "foodName": "tacos de cerdo y res (65g cerdo y 65g res)",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "tacos de pollo (125g)",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "ceviche estilo ricardo",
+                    "foodPrecio": 1350
+                },
+                {
+                    "foodName": "coctel de langosta (150g)",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "quesadillas de jamon y queso (75g cada uno)",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "empanadillas de queso con mermelada de guayaba",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "tacos de pollo en salsa pico de gallo (125)",
+                    "foodPrecio": 1250
+                },
+                {
+                    "foodName": "brusquetas de jamon y queso (50g jamon y 30g queso)",
+                    "foodPrecio": 875
+                },
+                {
+                    "foodName": "frituras de malanga",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "tapas de salmon con queso crema y uvas pasas (60g)",
+                    "foodPrecio": 1125
+                },
+                {
+                    "foodName": "tostones rellenos de ropa vieja de cerdo (100g)",
+                    "foodPrecio": 1000
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "baston de pollo empanado (280g)",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "brochetas de pollo con piña (280g)",
+                    "foodPrecio": 2025,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "brochetas de pollo (280g)",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pollo a la crema con jamon serrano (280g)",
+                    "foodPrecio": 2250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "fajitas de pollo a la campesina (280g)",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pollo gorden blue (280g y 45g jamon y queso)",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pollo grille en salsa de cebolla (280g)",
+                    "foodPrecio": 2250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pollo grille basado en salsa barbecue (250g)",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "alondridas de cerdo en salsa criolla (210g)",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "montado de pollo jamon y queso (280c pollo y jamon y queso)",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "brochetas de cerdo con piña (280g)",
+                    "foodPrecio": 2100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "ropa vieja de cerdo sin salsa de tomate (170g)",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "ropa vieja de cerdo con salsa de tomate (170g)",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "bistec de cerdo gratinado con jamon y queso (280g y 45g jamon y queso)",
+                    "foodPrecio": 2400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "lomo de cerdo deshuesado con mojo criollo (280g)",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "lomo ahumado agridulce (280g)",
+                    "foodPrecio": 2250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "lomo ahumado al graten (280)",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "lomo ahumado grille (280g)",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "lomo ahumado en salsa barbacoa (280g)",
+                    "foodPrecio": 2250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pescado relleno con salmon",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "arroz marinero",
+                    "foodPrecio": 3350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "camarón en salsa de crema de queso y albahaca",
+                    "foodPrecio": 3300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "camarón thermidor",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "filete de salmon (350g)",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pescado del dia (280g)",
+                    "foodPrecio": 2625,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pescado salvaje",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "fajitas de pescado en mirepoix de vegetales (280g)",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pescado grille c/ m d hotel (280g)",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "langosta grille c/ m d hotel (350g)",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "enchilado de pulpo (250g)",
+                    "foodPrecio": 4000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pescado marinero (280g pescado y 60g camarón)",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "camarón empanado (250g)",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "camarones enchilados (250g)",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "filete de pescado empanado (200g)",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "dados de pescado en salsa cubana (200g)",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pescado joinville (280g pescado y 50g de camarón)",
+                    "foodPrecio": 3700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "zarzuela marinera (150g de cada producto)",
+                    "foodPrecio": 4900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "sirloin con salsa española",
+                    "foodPrecio": 12000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "ribeye de wagyu de res",
+                    "foodPrecio": 14000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "ribeye angus",
+                    "foodPrecio": 9000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "wagyu new york strip",
+                    "foodPrecio": 13750,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "chilindron de cordero (250g)",
+                    "foodPrecio": 2400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "ropa vieja de res sin salsa de tomate (170g)",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "dados de res estofado (250g)",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "ropa vieja de res con salsa de tomate (170g)",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "estofado de cordero al vino tinto (250g)",
+                    "foodPrecio": 2250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pollo asado",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "new york strip angus",
+                    "foodPrecio": 8400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pollo entero relleno 2500gr (ordenar mínimo 4 horas de antelación)",
+                    "foodPrecio": 10000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "camarones enchilados (250g)",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de serrano",
+                    "foodPrecio": 1950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de camarones",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de atun",
+                    "foodPrecio": 1550,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de cebolla",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de chorizo vela",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de jamon",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza napolitana",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de aji y cebolla",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza al pesto",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza 4 queso",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza a la carbonara",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti napoles con queso gouda",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti con jamon y queso gouda",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti camarones",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti en salsa blanca cremosa con parmesano y...",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti con atun",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti en salsa cremosa de salmon ahumado",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti carbonara",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "boniato frito",
+                    "foodPrecio": 200
+                },
+                {
+                    "foodName": "arroz blanco",
+                    "foodPrecio": 210
+                },
+                {
+                    "foodName": "tostones al ajo",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "arroz moro",
+                    "foodPrecio": 310
+                },
+                {
+                    "foodName": "tostones naturales",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "vegetales salteados al estilo del chef",
+                    "foodPrecio": 150
+                },
+                {
+                    "foodName": "baguette de jamón y queso",
+                    "foodPrecio": 1150
+                },
+                {
+                    "foodName": "baguette de atún y vegetales",
+                    "foodPrecio": 975
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "flan al caramelo",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "eclair de crema y chocolate (1 unidad)",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "cake de chocolate (porción)",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "dulce de papaya",
+                    "foodPrecio": 275
+                },
+                {
+                    "foodName": "dulce coco del abuelo",
+                    "foodPrecio": 250
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "agua gaseada",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "agua natural buonaso ml",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "agua tonica",
+                    "foodPrecio": 750,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "malta importada turbo malta",
+                    "foodPrecio": 425,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "refresco santa de naranja",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "refresco 7 up",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "refresco importado pepsi cola (lata)",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "jugo kermato",
+                    "foodPrecio": 750,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "cerveza corona",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "cerveza cristal",
+                    "foodPrecio": 440,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cerveza stella de botella",
+                    "foodPrecio": 660,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "cerveza heineken (botella)",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "cerveza presidente light",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "cerveza presidente",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "cerveza modelo superior",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "vb frontera chardonnay (botella)",
+                    "foodPrecio": 2650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "vb frontera sauvignon blanc (botella)",
+                    "foodPrecio": 2400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "vt frontera c 3/4 (botella)",
+                    "foodPrecio": 2600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "vt frontera merlot (botella)",
+                    "foodPrecio": 2400,
+                    "alcoholica": true,
+                    "importada": true
+                }
+            ]
+            
+        }
+    }
+}

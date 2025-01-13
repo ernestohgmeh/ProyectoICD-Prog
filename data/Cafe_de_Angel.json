@@ -1,0 +1,218 @@
+{
+    "municipality": "Habana Vieja",
+    "info":
+        {
+        "nameLocal": "Cafe del Angel",
+        "location":
+        {
+            "address": "Chacon & Compostela",
+            "barrio": "",
+            "GPS": "23.141804,-82.355561"
+        },
+        "horarios": 
+        {
+            "monday": "0800-2200",
+            "thuesday": "0800-2200",
+            "wednesday": "0800-2200",
+            "thursday": "0800-2200",
+            "friday": "0800-2200",
+            "saturday": "0800-2200",
+            "sunday": "0800-2200"
+        },
+        "contactUs":
+        {
+            "phone": [78015162],
+            "web": "",
+            "social": ["https://www.instagram.com/cafedelangeljf/?hl=es"]
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": null,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": 10,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Croquetas Serrano",
+                    "foodPrecio": 1480
+                },
+                {
+                    "foodName": "Rillete de Cerdo",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Tacos de Cerdo",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "Mixto de Brusquetas",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "Tacos de Camarones",
+                    "foodPrecio": 2380
+                },
+                {
+                    "foodName": "Empanadillas de Queso",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "Tabla Charcutería",
+                    "foodPrecio": 4000
+                },
+                {
+                    "foodName": "Bocata Catalana",
+                    "foodPrecio": 2400
+                },
+                {
+                    "foodName": "Sandwich de Atún",
+                    "foodPrecio": 1530
+                },
+                {
+                    "foodName": "Sandwich Vegetales",
+                    "foodPrecio": 1530
+                },
+                {
+                    "foodName": "Sandwich Cubano",
+                    "foodPrecio": 2600
+                },
+                {
+                    "foodName": "Huevos & Pesto",
+                    "foodPrecio": 2400
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Solomillo de Cerdo",
+                    "foodPrecio": 4200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pescado a la Siciliana",
+                    "foodPrecio": 3580,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa Vieja",
+                    "foodPrecio": 3580,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Costillas de Cerdo",
+                    "foodPrecio": 4950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Hamburguesa de Res",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta Caribeña",
+                    "foodPrecio": 5400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo Mediterráneo",
+                    "foodPrecio": 2340,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaghetti Pomodoro",
+                    "foodPrecio": 1880,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ragu de Cordero",
+                    "foodPrecio": 3450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ravioli Carbonara",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaghetti al Pesto",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Rigatoni Amatriciana",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaghetti Altamar",
+                    "foodPrecio": 3450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Mousse de Chocolate",
+                    "foodPrecio": 1925
+                },
+                {
+                    "foodName": "Esfera de Maracuyá",
+                    "foodPrecio": 1925
+                },
+                {
+                    "foodName": "Arroz con Leche",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Dados de Guayaba",
+                    "foodPrecio": 1500
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "string/ nombre de la bebida",
+                    "foodPrecio": "int/precio del plato",
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}

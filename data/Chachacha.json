@@ -1,0 +1,436 @@
+{
+    "municipality": "Habana Vieja",
+    "info":
+        {
+        "nameLocal": "Chachacha",
+        "location":
+        {
+            "address": "Avenida Belgica % Chacon & Tejadillo",
+            "barrio": "",
+            "GPS": "23.140665,-82.356486"
+        },
+        "horarios": 
+        {
+            "monday": "1200-2359",
+            "thuesday": "1200-2359",
+            "wednesday": "1200-2359",
+            "thursday": "1200-2359",
+            "friday": "1200-2359",
+            "saturday": "1200-2359",
+            "sunday": "1200-2359"
+        },
+        "contactUs":
+        {
+            "phone": [78672450],
+            "web": "",
+            "social": ["https://www.instagram.com/chachacha.havana/?hl=es","https://www.facebook.com/chachachahavana/"]
+        },
+        "services":
+        {
+            "tranfer": false,
+            "delivery": false,
+            "parallevar": true,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": true,
+            "porCiento": 10,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": true,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Ceviche de la Casa",
+                    "foodPrecio": 3050
+                },
+                {
+                    "foodName": "Carpaccio de Pulpo con Vinagreta de Cítricos",
+                    "foodPrecio": 3850
+                },
+                {
+                    "foodName": "Tiradito de Pez con Chicharrita",
+                    "foodPrecio": 3050
+                },
+                {
+                    "foodName": "Carpaccio de Res con Rúcula y Aceite de Trufa",
+                    "foodPrecio": 4450
+                },
+                {
+                    "foodName": "Carpaccio de Atún Rojo",
+                    "foodPrecio": 4100
+                },
+                {
+                    "foodName": "Pan y Mantequilla",
+                    "foodPrecio": 1150
+                },
+                {
+                    "foodName": "Croquetas Braseadas de Pollo",
+                    "foodPrecio": 2250
+                },
+                {
+                    "foodName": "Crema de Calabaza, Betabel y Parmesano",
+                    "foodPrecio": 1800
+                },
+                {
+                    "foodName": "Tacos ChaChaChá",
+                    "foodPrecio": 2700
+                },
+                {
+                    "foodName": "Empanadillas de Carne BBQ",
+                    "foodPrecio": 2250
+                },
+                {
+                    "foodName": "Tabla de Jamón Serrano, Salami y Quesos",
+                    "foodPrecio": 5700
+                },
+                {
+                    "foodName": "Sashimi Ahumado",
+                    "foodPrecio": 4100
+                },
+                {
+                    "foodName": "Tartar de Res",
+                    "foodPrecio": 4450
+                },
+                {
+                    "foodName": "Tartar de Atún",
+                    "foodPrecio": 4100
+                },
+                {
+                    "foodName": "Ensalada Jorrin",
+                    "foodPrecio": 3050
+                },
+                {
+                    "foodName": "Ensalada César con Pollo y Bacon",
+                    "foodPrecio": 3850
+                },
+                {
+                    "foodName": "Ensalada ChaChaChá",
+                    "foodPrecio": 3850
+                },
+                {
+                    "foodName": "Ensalada Mixta de Salmón",
+                    "foodPrecio": 3850
+                },
+                {
+                    "foodName": "Ensalada Griega",
+                    "foodPrecio": 3400
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pasta Salsa Boloñesa",
+                    "foodPrecio": 3850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pasta Camarón, Curry y Pimienta Rosa",
+                    "foodPrecio": 4100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pasta Salsa Alfredo",
+                    "foodPrecio": 3850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pasta Salsa Funghi con Pollo y Trufa",
+                    "foodPrecio": 4450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pasta Salsa Carbonara Trufada",
+                    "foodPrecio": 4150,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pasta Salsa Bisque al Fruti D'Mare",
+                    "foodPrecio": 4900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Risotto Nero di Sepia",
+                    "foodPrecio": 4900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Risotto Funghi - Porcini y Trufa",
+                    "foodPrecio": 4560,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Risotto Del Mar",
+                    "foodPrecio": 4560,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Risotto Carbonara Trufado",
+                    "foodPrecio": 4180,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Risotto Sémola y Trufa",
+                    "foodPrecio": 4180,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Masas de Cerdo Confitadas",
+                    "foodPrecio": 3800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lechón Cubano",
+                    "foodPrecio": 4560,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa Vieja de la Abuela",
+                    "foodPrecio": 4180,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Picadillo a la Habanera",
+                    "foodPrecio": 4180,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Solomillo de Cerdo Español",
+                    "foodPrecio": 5320,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Puntas de Filete Estilo ChaChaChá",
+                    "foodPrecio": 7600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Thai de Pollo, Curry de Coco y Pasas",
+                    "foodPrecio": 4180,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Solomillo Argentino (280g)",
+                    "foodPrecio": 11150,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Entrecote de Ternera (350g)",
+                    "foodPrecio": 10640,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Puntas de Cerdo BBQ",
+                    "foodPrecio": 5320,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Pescado al Horno con Finas Hierbas",
+                    "foodPrecio": 4180,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta Caribeña",
+                    "foodPrecio": 6460,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Zarzuela de Mariscos",
+                    "foodPrecio": 10500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarones al Gusto",
+                    "foodPrecio": 6460,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pulpo Nórdico",
+                    "foodPrecio": 9500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Calamar Patagónico",
+                    "foodPrecio": 6460,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Vianda Frita",
+                    "foodPrecio": 760,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Puré de Temporada",
+                    "foodPrecio": 1140,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ensalada de Estación",
+                    "foodPrecio": 1520,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Blanco",
+                    "foodPrecio": 760,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Frijoles Negros",
+                    "foodPrecio": 1140,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Cóctel de Langosta",
+                    "foodPrecio": 2660,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Patacón ChaChaChá",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Quesadilla Cuatro Quesos",
+                    "foodPrecio": 3420,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Papa Rellena de Camarón y Queso",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Frituritas de Malanga",
+                    "foodPrecio": 2250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tamal en Cazuela",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Brownie",
+                    "foodPrecio": 3000
+                },
+                {
+                    "foodName": "Esfera de Frutas",
+                    "foodPrecio": 3000
+                },
+                {
+                    "foodName": "Bizcocho",
+                    "foodPrecio": 2900
+                },
+                {
+                    "foodName": "Arroz con Leche de la Abuela",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Flan Tía Lola",
+                    "foodPrecio": 2700
+                },
+                {
+                    "foodName": "Copa de Helado",
+                    "foodPrecio": 2200
+                },
+                {
+                    "foodName": "Carajillo",
+                    "foodPrecio": 1050
+                },
+                {
+                    "foodName": "Bombón",
+                    "foodPrecio": 1200
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Expresso",
+                    "foodPrecio": 520,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Nespresso",
+                    "foodPrecio": 960,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cortado",
+                    "foodPrecio": 875,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Frappuccino",
+                    "foodPrecio": 2200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Té / Infusiones",
+                    "foodPrecio": 620,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}
