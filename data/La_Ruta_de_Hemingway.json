@@ -178,7 +178,7 @@
                 },
                 {
                     "foodName": "Filete de Atun Rojo Importado",
-                    "foodPrecio": "3500",
+                    "foodPrecio": 3500,
                     "description": null,
                     "clasificacion": "Carne Blanca"
                 },

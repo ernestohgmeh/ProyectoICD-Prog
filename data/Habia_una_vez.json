@@ -253,7 +253,7 @@
             [
                 {
                     "foodName": "Helado Bombom",
-                    "foodPrecio": "800"
+                    "foodPrecio": 800
                 }
             ],
             "bebidas":

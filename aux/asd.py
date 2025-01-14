@@ -121,7 +121,8 @@ def Promedio_municipio(lista:list):
     
     
     for k in salida:
-        for i in k:
-            k[i] = sum(k[i]) / len(k[i])
+        for key in k.items():
+            if len(k[key[0]]) == 0: k[key[0]] = 0
+            else: k[key[0]] = sum(k[key[0]]) / len(k[key[0]])
     return salida
             
