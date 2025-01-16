@@ -1,0 +1,187 @@
+{
+    "municipality": "Arroyo Naranjo",
+    "info":
+        {
+        "nameLocal": "Casa del maiz",
+        "location":
+        {
+            "address": "Avenida 1er anillo % Calzada de Managua & San Agustin",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1000-2200",
+            "thuesday": "1000-2200",
+            "wednesday": "1000-2200",
+            "thursday": "1000-2200",
+            "friday": "1000-2200",
+            "saturday": "1000-2200",
+            "sunday": "1000-2200"
+        },
+        "contactUs":
+        {
+            "phone": [52003758],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": true,
+            "porCiento": 5,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Fritura de Malte",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Fritura de Malanga",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Tostón Relleno",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Chicharrón",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Garbanzos",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Cubito de Maíz",
+                    "foodPrecio": 1070
+                },
+                {
+                    "foodName": "Garbanzos Fritos",
+                    "foodPrecio": 450
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Fricasé de Cerdo",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo Ahumado",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Costilla Ahumada",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Fajitas de Cerdo",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Fajita de Pollo",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Alitas de Pollo",
+                    "foodPrecio": 1050,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo en Cazuela",
+                    "foodPrecio": 1050,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga de Pollo",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de Pescado",
+                    "foodPrecio": 1480,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Espeñan",
+                    "foodPrecio": 1280,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa Vieja",
+                    "foodPrecio": 1420,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Chilindrón de Carnero",
+                    "foodPrecio": 1420,
+                    "description": null,
+                    "clasificacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Helado Pote de 1lt",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Helado Pote Pequeño",
+                    "foodPrecio": 490
+                },
+                {
+                    "foodName": "Arroz con Leche",
+                    "foodPrecio": 200
+                }
+            ],
+            "bebidas":
+            []
+        }
+    }
+}

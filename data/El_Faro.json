@@ -1,0 +1,176 @@
+{
+    "municipality": "Guanabacoa",
+    "info":
+        {
+        "nameLocal": "El Faro",
+        "location":
+        {
+            "address": "Pepe Antonio % Maximo Gomez & Maceo",
+            "barrio": "",
+            "GPS": "23.124280,-82.304165"
+        },
+        "horarios": 
+        {
+            "monday": "0900-2300",
+            "thuesday": "0900-2300",
+            "wednesday": "0900-2300",
+            "thursday": "0900-2300",
+            "friday": "0900-2300",
+            "saturday": "0900-2300",
+            "sunday": "0900-2300"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Enchilado de Cangrejo",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Croqueta de la Casa",
+                    "foodPrecio": 180
+                },
+                {
+                    "foodName": "Ensalada Fría de Jamón",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Ensalada Fría de Atún",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Picadera Tropical",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Plato a lo Cubano",
+                    "foodPrecio": 800
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pan con Hamburguesa",
+                    "foodPrecio": 500.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Hamburguesa Faro",
+                    "foodPrecio": 900.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Costillas de Cerdo",
+                    "foodPrecio": 1200.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Ruedas de Pescado Grille",
+                    "foodPrecio": 1400.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo Grille",
+                    "foodPrecio": 950.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza El Faro",
+                    "foodPrecio": 900.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Combinada",
+                    "foodPrecio": 900.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Hawaiana",
+                    "foodPrecio": 900.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Cebolla",
+                    "foodPrecio": 900.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Pimiento",
+                    "foodPrecio": 900.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Gustazo",
+                    "foodPrecio": 900.00,
+                    "description": "Doble Queso",
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Jamón",
+                    "foodPrecio": 900.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetti Napolitano",
+                    "foodPrecio": 750.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetti de Jamón",
+                    "foodPrecio": 850.00,
+                    "description": null,
+                    "clasificacion": "aaa"
+                }
+            ],
+            "postre":
+            [],
+            "bebidas":
+            []
+        }
+    }
+}

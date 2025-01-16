@@ -1,0 +1,335 @@
+{
+    "municipality": "Guanabacoa",
+    "info":
+        {
+        "nameLocal": "Pizzas Vip",
+        "location":
+        {
+            "address": "",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1000-2200",
+            "thuesday": "1000-2200",
+            "wednesday": "1000-2200",
+            "thursday": "1000-2200",
+            "friday": "1000-2200",
+            "saturday": "1000-2200",
+            "sunday": "1000-2200"
+        },
+        "contactUs":
+        {
+            "phone": [52844312],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Croquetas de la Casa",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Fritura de Malanga",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Bolita de Queso",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Fajita de Pechuga",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "Ensalada Fría",
+                    "foodPrecio": 370
+                },
+                {
+                    "foodName": "Papa Frita",
+                    "foodPrecio": 580
+                },
+                {
+                    "foodName": "Fajita de Cerdo",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Crema de Queso",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Crema Virginia",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Crema Aurora",
+                    "foodPrecio": 520
+                },
+                {
+                    "foodName": "Crema Mixta",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Tacos de Jamón",
+                    "foodPrecio": 1030
+                },
+                {
+                    "foodName": "Tacos de Res",
+                    "foodPrecio": 1350
+                },
+                {
+                    "foodName": "Tacos de Cangrejo",
+                    "foodPrecio": 1380
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pizza de Queso",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Cebolla",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Pimiento",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Jamón",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Chorizo",
+                    "foodPrecio": 1050,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Hawaiana",
+                    "foodPrecio": 1260,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Bacón",
+                    "foodPrecio": 1240,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Doble Queso",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Camarón",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Res",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Atún con Cebolla",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Jamón Serrano",
+                    "foodPrecio": 1570,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Aceituna",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis Napolitano",
+                    "foodPrecio": 720,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis Boloñesa",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis Carbonara",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis Alfredo",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis de Atún",
+                    "foodPrecio": 1270,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis Pollo",
+                    "foodPrecio": 1120,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis de Camarones",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis Chorizo",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis Negro Di Mare",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                }
+            ],
+            "postre":
+            [],
+            "bebidas":
+            [
+                {
+                    "foodName": "Henike",
+                    "foodPrecio": 360,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Importada",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza de Lata Cristal",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza de Botella",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Pomitos de Agua",
+                    "foodPrecio": 150,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco de Pomito",
+                    "foodPrecio": 180,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco de Lata",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugos de Lata",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jugos de Cajita",
+                    "foodPrecio": 180,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Tigón",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco Importado",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta Importada",
+                    "foodPrecio": 270,
+                    "alcoholica": false,
+                    "importada": true
+                }
+            ]
+        }
+    }
+}

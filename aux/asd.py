@@ -35,7 +35,7 @@ def Id_Show(lista:list):
     """
     id = []
     for k, i in enumerate(lista):
-        id.append(f"{k}- {i["nameLocal"]}")
+        id.append(f"{k}- {i['nameLocal']}")
     for i in id:
         print(f"{i}")
         
@@ -69,18 +69,13 @@ def Promedio_recortado_seccion(lista:list):
     Toma los precios de los productos, los ordena y devuelve el promedios sin contar el 10% inferior y superior
     """
     
-    porciento = int(len(lista) * 0.1)
     if len(lista) == 0: return 0
     lista.sort(key=lambda x: x["foodPrecio"])
-    while porciento > 0:
-        lista.pop(0)
-        lista.pop(-1)
-        porciento -= 1
+    porciento = int(len(lista) * 0.1)
+    lista = lista[porciento:len(lista)-porciento]
     
-    output = 0
-    for k in lista:
-            output += int(k["foodPrecio"])
-    output /= len(lista)
+    if len(lista) == 0: return 0
+    output = sum(int(k["foodPrecio"]) for k in lista) / len(lista)
     return output
 
 def Promedio_restaurant(dicc:dict):
@@ -88,12 +83,11 @@ def Promedio_restaurant(dicc:dict):
     devuelve promedio recortado por seccion de todas las secciones y cuanto gasta una persona
     """
     
-    entrante = dicc["menu"]["entrantes"] = Promedio_recortado_seccion(dicc["menu"]["entrantes"])
-    fuerte = dicc["menu"]["platoFuerte"] = Promedio_recortado_seccion(dicc["menu"]["platoFuerte"])
-    postres = dicc["menu"]["postre"] = Promedio_recortado_seccion(dicc["menu"]["postre"])
-    bebidas = dicc["menu"]["bebidas"] = Promedio_recortado_seccion(dicc["menu"]["bebidas"])
-    
-    return (entrante + fuerte + postres + bebidas*2) / 5
+    entrante = Promedio_recortado_seccion(dicc["menu"]["entrantes"])
+    fuerte = Promedio_recortado_seccion(dicc["menu"]["platoFuerte"])
+    postres = Promedio_recortado_seccion(dicc["menu"]["postre"])
+    bebidas = Promedio_recortado_seccion(dicc["menu"]["bebidas"])
+    return (entrante + fuerte + postres + bebidas*2)
     
     
 

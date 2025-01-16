@@ -1,0 +1,273 @@
+{
+    "municipality": "Guanabacoa",
+    "info":
+        {
+        "nameLocal": "Route 66",
+        "location":
+        {
+            "address": "string/ calle pricipal entre calles laterales",
+            "barrio": "string/ nombre del barrio",
+            "GPS": "23.135993,-82.305213"
+        },
+        "horarios": 
+        {
+            "monday": "closed",
+            "thuesday": "1200-2130",
+            "wednesday": "1200-2130",
+            "thursday": "1200-2130",
+            "friday": "1200-2130",
+            "saturday": "1200-2130",
+            "sunday": "1200-2130"
+        },
+        "contactUs":
+        {
+            "phone": [52833863],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Tostones rellenos de jamón y queso",
+                    "foodPrecio": 1090
+                },
+                {
+                    "foodName": "Tostones rellenos de bolognesa",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Tostones rellenos de vegetales salteados y queso",
+                    "foodPrecio": 910
+                },
+                {
+                    "foodName": "Garbanzos fritos",
+                    "foodPrecio": 1900
+                },
+                {
+                    "foodName": "Ceviche de pescado",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Frituras de malanga",
+                    "foodPrecio": 595
+                },
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 490
+                },
+                {
+                    "foodName": "Brosquetas",
+                    "foodPrecio": 420
+                },
+                {
+                    "foodName": "Tamal",
+                    "foodPrecio": 400
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Lomo ahumado (con gratinado de queso)",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo ahumado (con salsa de piña)",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Enchilado de camarones",
+                    "foodPrecio": 3300,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Camarones al ajillo",
+                    "foodPrecio": 2950,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Camarones en salsa de frutas",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Enchilado de pulpo",
+                    "foodPrecio": 2690,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pulpo al ajillo",
+                    "foodPrecio": 2470,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de pescado Route 66 (a la plancha gratinado con queso y camarón)",
+                    "foodPrecio": 3550,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Monte toro a la francesa (a la plancha gratinado con queso)",
+                    "foodPrecio": 2400,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de pescado en salsa de frutas",
+                    "foodPrecio": 2250,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de pescado a la plancha",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz frito especial Route 66",
+                    "foodPrecio": 2065,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz frito",
+                    "foodPrecio": 1280,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz blanco",
+                    "foodPrecio": 200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Puré de malanga",
+                    "foodPrecio": 335,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Ensalada mixta de estación",
+                    "foodPrecio": 425,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Super Route 66 (Cerdo)",
+                    "foodPrecio": 1965,
+                    "description": "Hamburguesas, jamón, queso, vegetales, salsas acompañantes y mango frito",
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Castrol (Cerdo)",
+                    "foodPrecio": 1255,
+                    "description": "Hamburguesas, jamón Viking, queso, vegetales, salsas acompañantes y mango frito",
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Texaco (Cerdo)",
+                    "foodPrecio": 940,
+                    "description": "Hamburguesas, jamón Viking, queso, vegetales, salsas acompañantes y mango frito",
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de queso gouda",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Lasaña queso gouda",
+                    "foodPrecio": 1420,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis de queso gouda",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasificacion": "aaa"
+                }
+            ],
+            "postre":
+            [],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cerveza importada",
+                    "foodPrecio": 210,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Vino tinto",
+                    "foodPrecio": 2200,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refrescos importados",
+                    "foodPrecio": 240,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta importada",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Agua Mineral",
+                    "foodPrecio": 190,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugos importados",
+                    "foodPrecio": 210,
+                    "alcoholica": false,
+                    "importada": true
+                }
+            ]            
+        }
+    }
+}

@@ -1,0 +1,700 @@
+{
+    "municipality": "Arroyo Naranjo",
+    "info":
+        {
+        "nameLocal": "Atlanta",
+        "location":
+        {
+            "address": "Atlanta #9, % Calzada de Porvenir & Calzada de 10 de octubre",
+            "barrio": "La Palma",
+            "GPS": "23.075211,-82.358228"
+        },
+        "horarios": 
+        {
+            "monday": "1000-2200",
+            "thuesday": "1000-2200",
+            "wednesday": "1000-2200",
+            "thursday": "1000-2200",
+            "friday": "1000-2200",
+            "saturday": "1000-2200",
+            "sunday": "1000-2200"
+        },
+        "contactUs":
+        {
+            "phone": [59694801],
+            "web": "",
+            "social": ["https://www.facebook.com/atlantacafe/?locale=es_LA"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP","USD","MLC"],
+            "parqueo": true,
+            "porCiento": false,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Croquetas de la casa",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Ensalada de pollo",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Tostones rellenos",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Frituras de malanga",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Garbanzos fritos",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Eperlán de picar",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Fajitas de pollo",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "Ceviche ATLANTA",
+                    "foodPrecio": 950
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Tacos ATLANTA",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz frito",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz frito especial",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Paella valenciana",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Paella mixta",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz con pollo a la chorrera",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de cerdo grillé",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Masas de cerdo fritas",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec uruguayo de cerdo",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de pescado grillé",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de pescado con queso",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete canciller",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo frito/asado",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga de pollo grillé",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga gratinada",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga princesa",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Gordon Blue",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo ahumado grille",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo ahumado gratinado c/queso",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo ahumado a la piña",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pechugón ATLANTA",
+                    "foodPrecio": 2650,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Spaghetti Napolitano",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Lasagna de jamón",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza napolitana",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza ATLANTA",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Suero de helado",
+                    "foodPrecio": 850
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada (servicio)",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Roncollins",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Calimocho",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tinto de verano",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiroska",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipirinha",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipirisima",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Canchanchara",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña colada",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubalibre",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangría",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daiquirí",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubata",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubanito",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sex on the Beach",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Bloody Mary",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Gintonic",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Vodkatonic",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Margarita",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jaggerbull",
+                    "foodPrecio": 1250,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Negroni",
+                    "foodPrecio": 1550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ginebra de la casa",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ginebra Beefeater",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Ginebra Tanqueray",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Ginebra Gordons",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Tequila silver de la casa",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tequila reposado de la casa",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tequila Olmeca silver",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Tequila Olmeca reposado",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Tequila Olmeca dark",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Tequila Patrón silver",
+                    "foodPrecio": 1550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Tequila Patrón reposado",
+                    "foodPrecio": 1700,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Vodka de la casa",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Vodka Absolut",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Vodka Grey Goose",
+                    "foodPrecio": 1550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Whisky de la casa",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "William Lawson",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "VAT 69",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Ballantines",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jhonie W. etiqueta roja",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jhonie W. etiq. negra",
+                    "foodPrecio": 1250,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Buchanans deluxe",
+                    "foodPrecio": 1550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Chivas Regal",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Ron h.c. blanco",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron h.c. 3 años",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron h.c. reserva",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron h.c. 7 años",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron santiago c. blanca",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron santiago 8 años",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron santiago 11 años",
+                    "foodPrecio": 1450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron santiago 12 años",
+                    "foodPrecio": 1550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Cristal (lata)",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Cristal (botella)",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Bucanero",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Corona",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Heineken",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Otras cervezas importadas",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Agua natural",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refrescos importados (lata)",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jugos naturales",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batidos de frutas",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Red bull",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta Bucanero",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Maltas (otras marcas)",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Copa de vino de la casa",
+                    "foodPrecio": 420,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Copa de vino Frontera",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cate expreso",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café cortado",
+                    "foodPrecio": 320,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café bombón",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Capuchino",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Frapuchino",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Frapuchino con helado",
+                    "foodPrecio": 880,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

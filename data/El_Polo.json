@@ -1,0 +1,325 @@
+{
+    "municipality": "Guanabacoa",
+    "info":
+        {
+        "nameLocal": "El Polo",
+        "location":
+        {
+            "address": "Cruz Verde % Independencia Este & Barreto Este",
+            "barrio": "",
+            "GPS": "23.122032,-82.307894"
+        },
+        "horarios": 
+        {
+            "monday": "1200-2359",
+            "thuesday": "1200-2359",
+            "wednesday": "1200-2359",
+            "thursday": "1200-2359",
+            "friday": "1200-2359",
+            "saturday": "1200-2359",
+            "sunday": "1200-2359"
+        },
+        "contactUs":
+        {
+            "phone": [52411618,77974262],
+            "web": "",
+            "social": ["https://www.facebook.com/restaurant.polo?locale=es_LA"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento":[],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Toston Relleno de jamón y queso",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Toston Relleno de atún y queso",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Fajitas de pechuga",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Ensaladas frías de jamón",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Ensalada fría de atún",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Eperlano de Pescado",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "Croquetas de la Casa",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Frituras Malanga",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Coctel camarones",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 550
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Bistec de cerdo grille encebollado",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Uruguallo de cerdo",
+                    "foodPrecio": 2400,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec princesa",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga grille",
+                    "foodPrecio": 1850,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga gratinada",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Cordon bleu de pechuga",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de res encebollado",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Uruguallo de res",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa vieja de res",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de pescado grille",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete Montero",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete Canciller",
+                    "foodPrecio": 2900,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete gratinado",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Camaron enchilado",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Camaron al ajillo",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Camaron empanizado",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Arroz Frito con camarones",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Filete Mediterraneo",
+                    "foodPrecio": 3500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo Ahumado",
+                    "foodPrecio": 2400,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Mar y Tierra",
+                    "foodPrecio": 4500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Masa de Vida",
+                    "foodPrecio": 4100,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Hawaiana",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetti Napolitano",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetti Carbonara",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasificacion": "aaa"
+                }
+            ],
+            "postre":
+            [],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cerveza Nacional",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza importada",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Agua Natural 500ml",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco nacional",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refrescos importados",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta Nacional",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta Importada",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jugo de caja",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Jugo de Lata",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cafe expreso",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

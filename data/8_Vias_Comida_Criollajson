@@ -1,0 +1,196 @@
+{
+    "municipality": "Arroyo Naranjo",
+    "info":
+        {
+        "nameLocal": "8 Vias: Comida Criolla",
+        "location":
+        {
+            "address": "Avenida 1er Anillo 3km despues de San Agustin",
+            "barrio": "",
+            "GPS": "23.051851,-82.332161"
+        },
+        "horarios": 
+        {
+            "monday": "1100-2300",
+            "thuesday": "1100-2300",
+            "wednesday": "1100-2300",
+            "thursday": "1100-2300",
+            "friday": "1100-2300",
+            "saturday": "1100-2300",
+            "sunday": "1100-2300"
+        },
+        "contactUs":
+        {
+            "phone": [59107933],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": true,
+            "porCiento": false,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Croquetas de queso",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Tostones Rellenos",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Tostones Tradicionales",
+                    "foodPrecio": 250
+                },
+                {
+                    "foodName": "Papas Fritas",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Platanos Fritos",
+                    "foodPrecio": 200
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Bistec de Higado(460 gramos)",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Higado Italiana(460 gramos)",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo(460 gramos)",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Chuleta de Cerdo(460 gramos)",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Fricase de Cerdo(430 gramos)",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Masa Frita(430 gramos)",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Fricase de Carnero(960 gramos)",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec Uruguayo",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pescado Entero a la Marinera",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa Vieja(460 gramos)",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Camaron Enchilado",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta Grille(690 gramos)",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta Enchilada(690 gramos)",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pescado Empanado",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Enchilado de Cangrejo",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Pollo",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga de Pollo",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasificacion": "aaa"
+                },
+                {
+                    "foodName": "Costilla Frita o Fricase",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasificacion": "aaa"
+                }
+            ],
+            "postre":
+            [],
+            "bebidas":
+            []
+        }
+    }
+}
