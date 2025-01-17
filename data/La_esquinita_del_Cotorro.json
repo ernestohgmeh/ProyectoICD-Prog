@@ -1,0 +1,132 @@
+{
+    "municipality": "Cotorro",
+    "info":
+        {
+        "nameLocal": "La esquinita del Cotorro",
+        "location":
+        {
+            "address": "Avenida 71 cerca de la Carretera Central",
+            "barrio": "",
+            "GPS": "23.044758,-82.268628"
+        },
+        "horarios": 
+        {
+            "monday": "1000-2000",
+            "thuesday": "1000-2000",
+            "wednesday": "1000-2000",
+            "thursday": "1000-2000",
+            "friday": "1000-2000",
+            "saturday": "1000-2000",
+            "sunday": "1000-2000"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "tostones",
+                    "foodPrecio": 200
+                },
+                {
+                    "foodName": "tortilla natural",
+                    "foodPrecio": 220
+                },
+                {
+                    "foodName": "tortilla de queso blanco",
+                    "foodPrecio": 280
+                },
+                {
+                    "foodName": "tortilla de jamón",
+                    "foodPrecio": 320
+                },
+                {
+                    "foodName": "tortilla de chorizo",
+                    "foodPrecio": 320
+                },
+                {
+                    "foodName": "tortilla mixta",
+                    "foodPrecio": 410
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "hamburguesa simple",
+                    "foodPrecio": 250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa doble",
+                    "foodPrecio": 380,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa esquinita",
+                    "foodPrecio": 480,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa esquinita plus",
+                    "foodPrecio": 580,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pan con jamón",
+                    "foodPrecio": 240,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pan con jamón y chorizo",
+                    "foodPrecio": 270,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pan con chorizo",
+                    "foodPrecio": 160,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}

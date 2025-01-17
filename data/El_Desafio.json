@@ -1,0 +1,234 @@
+{
+    "municipality": "Cotorro",
+    "info":
+        {
+        "nameLocal": "El Desafio",
+        "location":
+        {
+            "address": "Calle 58 número 6712 % 67 & 69",
+            "barrio": "",
+            "GPS": "23.044299,-82.248407"
+        },
+        "horarios": 
+        {
+            "monday": "1200-2200",
+            "thuesday": "1200-2200",
+            "wednesday": "1200-2200",
+            "thursday": "1200-2200",
+            "friday": "1200-2200",
+            "saturday": "1200-2200",
+            "sunday": "1200-2200"
+        },
+        "contactUs":
+        {
+            "phone": [63510685],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP","USD","MLC"],
+            "parqueo": true,
+            "porCiento": false,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Tostones campesinos",
+                    "foodPrecio": 435
+                },
+                {
+                    "foodName": "Eperlan",
+                    "foodPrecio": 985
+                },
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 575
+                },
+                {
+                    "foodName": "Coctel de langosta",
+                    "foodPrecio": 1135
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Filete de pescado empanado",
+                    "foodPrecio": 1995,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Masa frita",
+                    "foodPrecio": 1885,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo",
+                    "foodPrecio": 1885,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo deshuesado",
+                    "foodPrecio": 1885,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pierna ahumada",
+                    "foodPrecio": 1945,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de cerdo",
+                    "foodPrecio": 2995,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Costilla",
+                    "foodPrecio": 1935,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta",
+                    "foodPrecio": 1985,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga a la brasa",
+                    "foodPrecio": 1535,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Enchilado de langosta",
+                    "foodPrecio": 2235,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langostón",
+                    "foodPrecio": 2685,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo al carbón",
+                    "foodPrecio": 4440,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Chuleta",
+                    "foodPrecio": 1935,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Dulce de leche",
+                    "foodPrecio": 795
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cerveza Heineken",
+                    "foodPrecio": 325,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza unlager",
+                    "foodPrecio": 295,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Hollandia",
+                    "foodPrecio": 270,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Ashe",
+                    "foodPrecio": 270,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Kiss",
+                    "foodPrecio": 265,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco de Cola",
+                    "foodPrecio": 270,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco de limon",
+                    "foodPrecio": 270,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta Morena",
+                    "foodPrecio": 325,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Yogurt de sabor",
+                    "foodPrecio": 225,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua natural",
+                    "foodPrecio": 225,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 295,
+                    "alcoholica": false,
+                    "importada": true
+                }
+            ]            
+        }
+    }
+}
