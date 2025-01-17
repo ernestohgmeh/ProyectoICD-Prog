@@ -1,0 +1,144 @@
+{
+    "municipality": "Arroyo Naranjo",
+    "info":
+        {
+        "nameLocal": "El Triangulo",
+        "location":
+        {
+            "address": "Esquina Calzada de 10 de octubre & Calzada de Porvenir",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "0800-2359",
+            "thuesday": "0800-2359",
+            "wednesday": "0800-2359",
+            "thursday": "0800-2359",
+            "friday": "0800-2359",
+            "saturday": "0800-2359",
+            "sunday": "0800-2359"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": false,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP","USD","MLC"],
+            "parqueo": true,
+            "porCiento": false,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Fajitas de pollo",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 150
+                },
+                {
+                    "foodName": "Bolitas de queso",
+                    "foodPrecio": 150
+                },
+                {
+                    "foodName": "Tostones",
+                    "foodPrecio": 150
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pollo Frito",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasificacion": "carne blanca"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cerveza Cristal",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Bucanero",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Escorial",
+                    "foodPrecio": 200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Holanda",
+                    "foodPrecio": 200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua",
+                    "foodPrecio": 120,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo de caja",
+                    "foodPrecio": 180,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Red Bull",
+                    "foodPrecio": 230,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

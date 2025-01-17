@@ -1,0 +1,140 @@
+{
+    "municipality": "Cotorro",
+    "info":
+        {
+        "nameLocal": "El Cocal",
+        "location":
+        {
+            "address": "",
+            "barrio": "",
+            "GPS": "23.047258,-82.255332"
+        },
+        "horarios": 
+        {
+            "monday": "1200-2359",
+            "thuesday": "",
+            "wednesday": "",
+            "thursday": "1200-2359",
+            "friday": "1200-2359",
+            "saturday": "1200-2359",
+            "sunday": "1200-2359"
+        },
+        "contactUs":
+        {
+            "phone": [76822199],
+            "web": "",
+            "social": ["https://www.facebook.com/p/Restaurante-El-Cocal-100091974067093/"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": true,
+            "porCiento": 10,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Bolitas de queso",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Ensalada de Atun",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Toston de queso",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Toston de jamon y queso",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Toston de Atun",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Crema de queso",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Crema Aurora",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Crema Virginia",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Crema Mixta",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Coctel Camaron",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Empellas",
+                    "foodPrecio": 550
+                }
+            ]   ,
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pizza de Jamon",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "Pizza de Queso",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Pizza Hawaiiana",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Eperlan Pechuga",
+                    "foodPrecio": 1600
+                },
+                {
+                    "foodName": "Eperlan Pescado",
+                    "foodPrecio": 2000
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Flan",
+                    "foodPrecio": 500
+                }
+            ],
+            "bebidas":[]
+        }
+    }
+}

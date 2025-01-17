@@ -84,85 +84,85 @@
             [
                 {
                     "foodName": "Pan con Hamburguesa",
-                    "foodPrecio": 500.00,
+                    "foodPrecio": 500,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Hamburguesa Faro",
-                    "foodPrecio": 900.00,
+                    "foodPrecio": 900,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Costillas de Cerdo",
-                    "foodPrecio": 1200.00,
+                    "foodPrecio": 1200,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Ruedas de Pescado Grille",
-                    "foodPrecio": 1400.00,
+                    "foodPrecio": 1400,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Pollo Grille",
-                    "foodPrecio": 950.00,
+                    "foodPrecio": 950,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Pizza El Faro",
-                    "foodPrecio": 900.00,
+                    "foodPrecio": 900,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Pizza Combinada",
-                    "foodPrecio": 900.00,
+                    "foodPrecio": 900,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Pizza Hawaiana",
-                    "foodPrecio": 900.00,
+                    "foodPrecio": 900,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Pizza de Cebolla",
-                    "foodPrecio": 900.00,
+                    "foodPrecio": 900,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Pizza de Pimiento",
-                    "foodPrecio": 900.00,
+                    "foodPrecio": 900,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Pizza Gustazo",
-                    "foodPrecio": 900.00,
+                    "foodPrecio": 900,
                     "description": "Doble Queso",
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Pizza Jamón",
-                    "foodPrecio": 900.00,
+                    "foodPrecio": 900,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Spaguetti Napolitano",
-                    "foodPrecio": 750.00,
+                    "foodPrecio": 750,
                     "description": null,
                     "clasificacion": "aaa"
                 },
                 {
                     "foodName": "Spaguetti de Jamón",
-                    "foodPrecio": 850.00,
+                    "foodPrecio": 850,
                     "description": null,
                     "clasificacion": "aaa"
                 }

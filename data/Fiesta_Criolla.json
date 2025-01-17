@@ -1,0 +1,285 @@
+{
+    "municipality": "Arroyo Naranjo",
+    "info":
+        {
+        "nameLocal": "Fiesta Criolla",
+        "location":
+        {
+            "address": "Calle100 & Puente de Calabazar & La Fortuna",
+            "barrio": "",
+            "GPS": "23.040181,-82.312343"
+        },
+        "horarios": 
+        {
+            "monday": "1200-2359",
+            "thuesday": "1200-2359",
+            "wednesday": "1200-2359",
+            "thursday": "1200-2359",
+            "friday": "1200-2359",
+            "saturday": "1200-2359",
+            "sunday": "1200-2359"
+        },
+        "contactUs":
+        {
+            "phone": [52413555],
+            "web": "",
+            "social": ["https://www.facebook.com/RestaurantFiestaCriolla/?locale=es_LA"]
+        },
+        "services":
+        {
+            "tranfer": false,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": true,
+            "porCiento": false,
+            "alquiler": null,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Toston criollo",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Toston relleno con Jamon y Queso",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Toston relleno con Atun",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Eperlan",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Fajitas de pollo",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Caldo de Mariscos",
+                    "foodPrecio": 1000
+                },
+                {
+                    "foodName": "Camaron Rebosado",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Tamal en Hojas",
+                    "foodPrecio": 90
+                },
+                {
+                    "foodName": "Fritura de Malanga",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Platano Frito",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Alitas de Pollo",
+                    "foodPrecio": 850
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pollo Asado",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga Grillé",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga Gratinada Jamón y Queso",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Chuleta",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pechuga Salteada con vegetales",
+                    "foodPrecio": 1550,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo Ahumado",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lomo deshuesado ahumado",
+                    "foodPrecio": 1550,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Costillas Fritas",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Masa Frita",
+                    "foodPrecio": 1550,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec Grillé",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec Gratinado de Jamón y Queso",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa Vieja",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Suprema carnero",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fricasé de Carnero",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarón grillé",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta grillé",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pulpo grillé",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pescado grillé",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Rueda pescado grillé",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pescado Grillé gratinado con Jamón y Queso",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Don Pedro",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Masa de cangrejo",
+                    "foodPrecio": 1050,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Caldero de mariscos",
+                    "foodPrecio": 3500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Mar y tierra",
+                    "foodPrecio": 3950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Paella",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Mariscada",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetis Napolitanos",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetis con Jamón y Queso",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Tres Leches",
+                    "foodPrecio": 350
+                }
+            ],
+            "bebidas":
+            []
+        }
+    }
+}

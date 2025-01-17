@@ -1,0 +1,149 @@
+{
+    "municipality": "Cotorro",
+    "info":
+        {
+        "nameLocal": "El Bache",
+        "location":
+        {
+            "address": "Calle 30 % 95 & 97",
+            "barrio": "Las Brisas",
+            "GPS": "23.042822,-82.263035"
+        },
+        "horarios": 
+        {
+            "monday": "1030-2230",
+            "thuesday": "1030-2230",
+            "wednesday": "1030-2230",
+            "thursday": "1030-2230",
+            "friday": "1030-2230",
+            "saturday": "closed",
+            "sunday": "closed"
+        },
+        "contactUs":
+        {
+            "phone": [54703920],
+            "web": "",
+            "social": ["https://www.instagram.com/_elbache/","https://www.facebook.com/p/El-bache-del-cotorro-100064169228995/"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["musica"],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "lasaña",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "lasaña de queso gouda",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "espaguetti con queso gouda",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "espaguetti",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza napolitana",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza doble queso",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza queso gouda",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza jamón",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza chorizo",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza aceituna",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza aceituna",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza atún",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza cebolla",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza hawaiana",
+                    "foodPrecio": 1450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}
