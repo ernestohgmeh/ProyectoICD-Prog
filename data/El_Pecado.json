@@ -1,0 +1,218 @@
+{
+    "municipality": "San Miguel del Padron",
+    "info":
+        {
+        "nameLocal": "Pecado",
+        "location":
+        {
+            "address": "Calle Matos #152 % Fernanda & Central",
+            "barrio": "La Fernanda",
+            "GPS": "23.101850,-82.341227"
+        },
+        "horarios": 
+        {
+            "monday": "1100-2300",
+            "thuesday": "1100-2300",
+            "wednesday": "1100-2300",
+            "thursday": "1100-2300",
+            "friday": "1100-2300",
+            "saturday": "1100-2300",
+            "sunday": "1100-2300"
+        },
+        "contactUs":
+        {
+            "phone": [52828577,76795921],
+            "web": "",
+            "social": ["https://www.facebook.com/BarRestaurantePecado/"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                  "foodName": "Aceitunas",
+                  "foodPrecio": 350
+                },
+                {
+                  "foodName": "Entremes de jamon y queso",
+                  "foodPrecio": 300
+                },
+                {
+                  "foodName": "Bolitas de queso",
+                  "foodPrecio": 350
+                },
+                {
+                  "foodName": "Papitas fritas",
+                  "foodPrecio": 350
+                },
+                {
+                  "foodName": "Croquetas",
+                  "foodPrecio": 340
+                },
+                {
+                  "foodName": "Fajitas de pollo",
+                  "foodPrecio": 500
+                },
+                {
+                  "foodName": "Eperelan de pescado",
+                  "foodPrecio": 600
+                },
+                {
+                  "foodName": "Coctel de camaron",
+                  "foodPrecio": 570
+                },
+                {
+                  "foodName": "Tostones de jamon y queso",
+                  "foodPrecio": 380
+                },
+                {
+                  "foodName": "Tostones de atun",
+                  "foodPrecio": 450
+                },
+                {
+                  "foodName": "Picadera Pecado",
+                  "foodPrecio": 1200
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                  "foodName": "Cerdo grille",
+                  "foodPrecio": 650,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Masas ritas",
+                  "foodPrecio": 750,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Solomillo de cerdo",
+                  "foodPrecio": 720,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Costillas en salsa BBQ",
+                  "foodPrecio": 600,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Bistec Uruguayo de cerdo",
+                  "foodPrecio": 850,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Pechuga empanada",
+                  "foodPrecio": 700,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Pechuga grille",
+                  "foodPrecio": 650,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Pechuga princesa",
+                  "foodPrecio": 800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Pechuga Gordon blue",
+                  "foodPrecio": 850,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Filete de pescado",
+                  "foodPrecio": 730,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Pescado canciller",
+                  "foodPrecio": 950,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Pescado Jhonbill",
+                  "foodPrecio": 1200,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Pescado empanado",
+                  "foodPrecio": 780,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Ropa vieja",
+                  "foodPrecio": 650,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Vaca frita",
+                  "foodPrecio": 720,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Filete de res encebollado",
+                  "foodPrecio": 750,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Uruguayo de res",
+                  "foodPrecio": 730,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Camarones",
+                  "foodPrecio": 750,
+                  "description": null,
+                  "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}

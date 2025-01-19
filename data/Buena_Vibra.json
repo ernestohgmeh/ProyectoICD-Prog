@@ -1,0 +1,154 @@
+{
+    "municipality": "San Miguel del Padron",
+    "info":
+        {
+        "nameLocal": "Buena Vibra",
+        "location":
+        {
+            "address": "string/ calle pricipal entre calles laterales",
+            "barrio": "string/ nombre del barrio",
+            "GPS": "string/ latitud,longitud"
+        },
+        "horarios": 
+        {
+            "monday": "1200-2200",
+            "thuesday": "1200-2200",
+            "wednesday": "1200-2200",
+            "thursday": "1200-2200",
+            "friday": "1200-2200",
+            "saturday": "1200-2200",
+            "sunday": "1200-2200"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                  "foodName": "croquetas",
+                  "foodPrecio": 400
+                },
+                {
+                  "foodName": "fritura de malanga",
+                  "foodPrecio": 400
+                },
+                {
+                  "foodName": "vianda frita",
+                  "foodPrecio": 300
+                },
+                {
+                  "foodName": "tostones tradicionales",
+                  "foodPrecio": 300
+                },
+                {
+                  "foodName": "tostones rellenos",
+                  "foodPrecio": 500
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                  "foodName": "bistec de pollo",
+                  "foodPrecio": 850,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "bistec de pollo empanado",
+                  "foodPrecio": 900,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "hígado de cerdo",
+                  "foodPrecio": 800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "lomo ahumado",
+                  "foodPrecio": 900,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "bistec de cerdo",
+                  "foodPrecio": 900,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pechuga de pollo",
+                  "foodPrecio": 900,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "espaguetti con queso",
+                  "foodPrecio": 400,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "espaguetti de jamón",
+                  "foodPrecio": 550,
+                  "description": null,
+                  "clasficacion": "aaa"
+                }
+              ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "tequila reposado",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "licor crema",
+                    "foodPrecio": 200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "piña colada",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                }
+            ]
+        }
+    }
+}

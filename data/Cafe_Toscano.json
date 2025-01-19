@@ -1,0 +1,162 @@
+{
+    "municipality": "San Miguel del Padron",
+    "info":
+        {
+        "nameLocal": "Cafe Toscano",
+        "location":
+        {
+            "address": "Calzada de Guines #10425 % 104 & 112",
+            "barrio": "La Rosita",
+            "GPS": "23.071704,-82.307797"
+        },
+        "horarios": 
+        {
+            "monday": "0800-2200",
+            "thuesday": "0800-2200",
+            "wednesday": "0800-2200",
+            "thursday": "0800-2200",
+            "friday": "0800-2200",
+            "saturday": "0800-2200",
+            "sunday": "0800-2200"
+        },
+        "contactUs":
+        {
+            "phone": [50800611],
+            "web": "",
+            "social": ["https://www.instagram.com/toscanocafeteria/"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": false,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                  "foodName": "tostones rellenos",
+                  "foodPrecio": 250
+                },
+                {
+                  "foodName": "tostones",
+                  "foodPrecio": 150
+                },
+                {
+                  "foodName": "platano",
+                  "foodPrecio": 100
+                },
+                {
+                  "foodName": "hamburguesa sencilla",
+                  "foodPrecio": 300
+                },
+                {
+                  "foodName": "hamburguesa con queso",
+                  "foodPrecio": 380
+                },
+                {
+                  "foodName": "hamburguesa doble con queso",
+                  "foodPrecio": 550
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                  "foodName": "pollo chiflado",
+                  "foodPrecio": 400,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pollo especial",
+                  "foodPrecio": 1000,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "espaguetti",
+                  "foodPrecio": 330,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "espaguetti con queso gouda",
+                  "foodPrecio": 400,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza napolitana",
+                  "foodPrecio": 17,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza doble de queso",
+                  "foodPrecio": 250,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza hawaiana",
+                  "foodPrecio": 290,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza gouda",
+                  "foodPrecio": 250,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza cubana",
+                  "foodPrecio": 320,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza grande napolitana",
+                  "foodPrecio": 550,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza grande doble de queso",
+                  "foodPrecio": 790,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza grande gouda",
+                  "foodPrecio": 940,
+                  "description": null,
+                  "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}
