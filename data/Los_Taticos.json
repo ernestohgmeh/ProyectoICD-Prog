@@ -1,0 +1,190 @@
+{
+    "municipality": "Marianao",
+    "info":
+        {
+        "nameLocal": "Los Taticos",
+        "location":
+        {
+            "address": "27 & 27A",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "0800-2359",
+            "thuesday": "0800-2359",
+            "wednesday": "0800-2359",
+            "thursday": "0800-2359",
+            "friday": "0800-2359",
+            "saturday": "0800-2359",
+            "sunday": "0800-2359"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP","USD","EUR"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Super Hamburguesa Tatico",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Hamburguesa Tatico",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Super hamburguesa queso",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Hamburguesa queso",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Super hamburguesa sencilla",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Hamburguesa sencilla",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Sandwich Tatico",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Bocadito de atun",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Pan con lechon",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Pan con croqueta",
+                    "foodPrecio": 240
+                },
+                {
+                    "foodName": "Picadera Tatico",
+                    "foodPrecio": 2800
+                },
+                {
+                    "foodName": "Entremes surtido",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Tostones rellenos",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Bolitas de queso",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Bolitas de carne",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Croquetas caseras",
+                    "foodPrecio": 800
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Lasagña",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Tatico",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza mixta",
+                    "foodPrecio": 680,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza hawaiana",
+                    "foodPrecio": 680,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza jamon",
+                    "foodPrecio": 680,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de queso",
+                    "foodPrecio": 680,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Taco de cerdo",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo al carbon",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Taco de carne",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Taco de atun",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "municipality": "Marianao",
+    "info":
+        {
+        "nameLocal": "La Yaya",
+        "location":
+        {
+            "address": "Calle !00 & esq 51",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1100-2300",
+            "thuesday": "1100-2300",
+            "wednesday": "1100-2300",
+            "thursday": "1100-2300",
+            "friday": "1100-2300",
+            "saturday": "1100-2300",
+            "sunday": "1100-2300"
+        },
+        "contactUs":
+        {
+            "phone": [52016522],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Hamburguesa",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Hamburguesa yuya",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "Pan con jamon",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Pan con perro",
+                    "foodPrecio": 280
+                },
+                {
+                    "foodName": "Superpicadera",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Tostones rellenos",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Frituras de malanga",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Papas fritas",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 600
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Spaguettis con queso gouda",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguettis doble queso",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza napolitana",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza doble queso",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de jamon",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fajitas de pollo con papa",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "helado",
+                    "foodPrecio": 1000
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Refrescos Importados",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cervezas importadas",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "jugo de lata",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "jugos caja",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta Santa Isabel",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Cubelazo",
+                    "foodPrecio": 2700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Termo de cerveza",
+                    "foodPrecio": 2000,
+                    "alcoholica": true,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "municipality": "Marianao",
+    "info":
+        {
+        "nameLocal": "Rodney",
+        "location":
+        {
+            "address": "72A",
+            "barrio": "Tropicana",
+            "GPS": "23.094582,-82.418665"
+        },
+        "horarios": 
+        {
+            "monday": "1200-2200",
+            "thuesday": "1200-2200",
+            "wednesday": "1200-2200",
+            "thursday": "1200-2200",
+            "friday": "1200-2200",
+            "saturday": "1200-2200",
+            "sunday": "1200-2200"
+        },
+        "contactUs":
+        {
+            "phone": [7279147],
+            "web": "https://www.cabaret-tropicana.com/es/locaciones/restaurant-rodney/",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": true,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Sandwich de un agrego",
+                    "foodPrecio": 230
+                },
+                {
+                    "foodName": "Sandwich de dos agregos",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Picadera de la casa",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Entremes de embutido y queso",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Tacos mexicanos de pollo",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Tacos mexicanos de cerdo",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "sopa del dia",
+                    "foodPrecio": 125
+                },
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 250
+                },
+                {
+                    "foodName": "Crema aurora",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Crema virginia",
+                    "foodPrecio": 480
+                },
+                {
+                    "foodName": "Crema de calabaza con queso",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Eperlan de pescado",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Fajitas de pollo",
+                    "foodPrecio": 500
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pata napolitana",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza napolitana",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza campesina",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza especial rodney",
+                    "foodPrecio": 800,
+                    "description": "rellena con queso",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza especial rodney",
+                    "foodPrecio": 900,
+                    "description": "rellena con embutido",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza super especial rodney",
+                    "foodPrecio": 1200,
+                    "description": "rellena con queso y varios embutidos",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lonjas de cerdo asada",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "fricase de cerdo",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de cerdo grille",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo asado",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo frito",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo deshuesado",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete migñon",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Steack de res",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de pescado a la plancha",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de pescado gratinado con queso",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete de pescado canciller",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta a la plancha",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta enchilada",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}

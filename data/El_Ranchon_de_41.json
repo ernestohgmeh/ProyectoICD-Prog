@@ -1,0 +1,114 @@
+{
+    "municipality": "Marianao",
+    "info":
+        {
+        "nameLocal": "El Ranchon de 41",
+        "location":
+        {
+            "address": "sAvenida 41 & 84",
+            "barrio": "",
+            "GPS": "23.089611,-82.421601"
+        },
+        "horarios": 
+        {
+            "monday": "open",
+            "thuesday": "open",
+            "wednesday": "open",
+            "thursday": "open",
+            "friday": "open",
+            "saturday": "open",
+            "sunday": "open"
+        },
+        "contactUs":
+        {
+            "phone": [52014975],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Croquetas de la casa",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Coctel de camaron",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Picadera el toro bravo",
+                    "foodPrecio": 1700
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Espaguetis",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de queso blanco",
+                    "foodPrecio": 400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de queso gouda",
+                    "foodPrecio": 680,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo chiflado",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Fajitas de pollo",
+                    "foodPrecio": 750,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Suero de helado",
+                    "foodPrecio": 400
+                }
+            ],
+            "bebidas":[]
+        }
+    }
+}
