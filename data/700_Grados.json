@@ -1,0 +1,402 @@
+{
+    "municipality": "Marianao",
+    "info":
+        {
+        "nameLocal": "700 Grados",
+        "location":
+        {
+            "address": "Avenida 41 & Esquina 86",
+            "barrio": "",
+            "GPS": "23.087928,-82.421757"
+        },
+        "horarios": 
+        {
+            "monday": "1100-0300",
+            "thuesday": "1100-0300",
+            "wednesday": "1100-0300",
+            "thursday": "1100-0300",
+            "friday": "1100-0300",
+            "saturday": "1100-0300",
+            "sunday": "1100-0300"
+        },
+        "contactUs":
+        {
+            "phone": [54063906,59312103],
+            "web": "",
+            "social": ["https://www.instagram.com/700gradoshabana/?hl=es","https://www.facebook.com/700gradosHabana/?locale=es_LA"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                  "foodName": "croquetas de la casa",
+                  "foodPrecio": 890
+                },
+                {
+                  "foodName": "finger de pollo empanizado",
+                  "foodPrecio": 890
+                },
+                {
+                  "foodName": "tacos de pollo",
+                  "foodPrecio": 990
+                },
+                {
+                  "foodName": "tacos de cerdo",
+                  "foodPrecio": 1100
+                },
+                {
+                  "foodName": "frituras de malanga",
+                  "foodPrecio": 790
+                },
+                {
+                  "foodName": "emtremes de aceituna",
+                  "foodPrecio": 1130
+                },
+                {
+                  "foodName": "papas fritas",
+                  "foodPrecio": 890
+                },
+                {
+                  "foodName": "eperlan de pescado",
+                  "foodPrecio": 1380
+                },
+                {
+                  "foodName": "coctel de langosta",
+                  "foodPrecio": 1600
+                },
+                {
+                  "foodName": "coctel de camaron",
+                  "foodPrecio": 1600
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                  "foodName": "espaguetis con camaron",
+                  "foodPrecio": 2500,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "espaguetis de langosta",
+                  "foodPrecio": 2500,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "espaguetis marineros",
+                  "foodPrecio": 1100,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza napolitana",
+                  "foodPrecio": 1200,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza hawaiana",
+                  "foodPrecio": 1450,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "lonjas de cerdo al carbon",
+                  "foodPrecio": 1850,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "saltimboca de cerdo",
+                  "foodPrecio": 1750,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "bistec de cerdo",
+                  "foodPrecio": 1650,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "fajitas de cerdo salteadas",
+                  "foodPrecio": 1650,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "solomillo de cerdo",
+                  "foodPrecio": 2900,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "masas de cerdo en salsa teriyaki",
+                  "foodPrecio": 2200,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "fricase de cerdo",
+                  "foodPrecio": 2200,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pechuga de pollo",
+                  "foodPrecio": 1650,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "bistec uruguayo",
+                  "foodPrecio": 1850,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "ropa vieja de res",
+                  "foodPrecio": 2200,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "filete de pescado",
+                  "foodPrecio": 1850,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "camaron al gusto",
+                  "foodPrecio": 2800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "enchilado de langosta",
+                  "foodPrecio": 2800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "paella de marisco",
+                  "foodPrecio": 3550,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "cazuela de marisco",
+                  "foodPrecio": 3600,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "Mar y tierra campesina",
+                  "foodPrecio": 3550,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "filete john bill",
+                  "foodPrecio": 3550,
+                  "description": null,
+                  "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                  "foodName": "refresco internacional",
+                  "foodPrecio": 380,
+                  "alcoholica": false,
+                  "importada": true
+                },
+                {
+                  "foodName": "malta internacional",
+                  "foodPrecio": 440,
+                  "alcoholica": false,
+                  "importada": true
+                },
+                {
+                  "foodName": "energizante",
+                  "foodPrecio": 550,
+                  "alcoholica": false,
+                  "importada": true
+                },
+                {
+                  "foodName": "red bull",
+                  "foodPrecio": 830,
+                  "alcoholica": false,
+                  "importada": true
+                },
+                {
+                  "foodName": "cerveza internacional",
+                  "foodPrecio": 350,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "dispensada cristal",
+                  "foodPrecio": 350,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "cerveza bucanero",
+                  "foodPrecio": 550,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "cerveza cristal",
+                  "foodPrecio": 550,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "cerveza corona",
+                  "foodPrecio": 750,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "cerveza sol",
+                  "foodPrecio": 750,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "cerveza heineken",
+                  "foodPrecio": 750,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "servicio michelada",
+                  "foodPrecio": 490,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "servicio de chelada",
+                  "foodPrecio": 300,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "caipiroska",
+                  "foodPrecio": 380,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "caipirisima",
+                  "foodPrecio": 380,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "mojito",
+                  "foodPrecio": 450,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "caipirina",
+                  "foodPrecio": 380,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "sangría",
+                  "foodPrecio": 400,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "vodca tonic",
+                  "foodPrecio": 480,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "gin tonic",
+                  "foodPrecio": 550,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "cuba libre",
+                  "foodPrecio": 480,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "cubata especial",
+                  "foodPrecio": 490,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "daiquirí",
+                  "foodPrecio": 380,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "piña colada",
+                  "foodPrecio": 450,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "vino tinto",
+                  "foodPrecio": 400,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "limonada frescura",
+                  "foodPrecio": 250,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "limonada natural",
+                  "foodPrecio": 250,
+                  "alcoholica": false,
+                  "importada": false
+                }
+            ]              
+        }
+    }
+}

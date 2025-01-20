@@ -1,0 +1,198 @@
+{
+    "municipality": "San Miguel del Padron",
+    "info":
+        {
+        "nameLocal": "La Patrona",
+        "location":
+        {
+            "address": "Calzada de Guines en San Francisco de Paula",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "closed",
+            "thuesday": "0800-2359",
+            "wednesday": "0800-2359",
+            "thursday": "0800-2359",
+            "friday": "0800-2359",
+            "saturday": "0800-2359",
+            "sunday": "0800-2359"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": ["https://www.facebook.com/people/La-Patrona-De-San-Miguel/61558759442087/?_rdr"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                  "foodName": "hamburguesa clasica",
+                  "foodPrecio": 500
+                },
+                {
+                  "foodName": "hamburguesa sencilla",
+                  "foodPrecio": 700
+                },
+                {
+                  "foodName": "hamburguesa grosera",
+                  "foodPrecio": 1200
+                },
+                {
+                  "foodName": "hamburguesa patrona",
+                  "foodPrecio": 1000
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                  "foodName": "bistec uruguayo",
+                  "foodPrecio": 2600,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "ropa vieja",
+                  "foodPrecio": 1400,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "escalope de cerdo",
+                  "foodPrecio": 1800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "bistec de cerdo",
+                  "foodPrecio": 1600,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "arroz frito",
+                  "foodPrecio": 1000,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "lasaña",
+                  "foodPrecio": 1250,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "canelones",
+                  "foodPrecio": 1100,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "espaguetti carbonara",
+                  "foodPrecio": 15000,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza La Patrona",
+                  "foodPrecio": 1800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                  "foodName": "flan",
+                  "foodPrecio": 200
+                },
+                {
+                  "foodName": "copa lolita",
+                  "foodPrecio": 400
+                },
+                {
+                  "foodName": "cesta helado",
+                  "foodPrecio": 500
+                },
+                {
+                  "foodName": "tres gracias",
+                  "foodPrecio": 300
+                }
+            ],
+            "bebidas":
+            [
+                {
+                  "foodName": "café express",
+                  "foodPrecio": 150,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "cafe con crema",
+                  "foodPrecio": 180,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "cafe La Patrona",
+                  "foodPrecio": 250,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "frapuchino",
+                  "foodPrecio": 250,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "jugos",
+                  "foodPrecio": 100,
+                  "alcoholica": false,
+                  "importada": true
+                },
+                {
+                  "foodName": "suero helado",
+                  "foodPrecio": 350,
+                  "alcoholica": false,
+                  "importada": true
+                },
+                {
+                  "foodName": "batidos",
+                  "foodPrecio": 300,
+                  "alcoholica": false,
+                  "importada": false
+                }
+            ]              
+        }
+    }
+}

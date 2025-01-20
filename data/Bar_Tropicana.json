@@ -1,0 +1,346 @@
+{
+    "municipality": "Marianao",
+    "info":
+        {
+        "nameLocal": "Bar Tropicana",
+        "location":
+        {
+            "address": "72A & Avenida 41",
+            "barrio": "",
+            "GPS": "23.094454,-82.419659"
+        },
+        "horarios": 
+        {
+            "monday": "12:00-22:00",
+            "thuesday": "12:00-22:00",
+            "wednesday": "12:00-22:00",
+            "thursday": "12:00-22:00",
+            "friday": "12:00-22:00",
+            "saturday": "12:00-22:00",
+            "sunday": "12:00-22:00"
+        },
+        "contactUs":
+        {
+            "phone": [7279147],
+            "web": "https://www.cabaret-tropicana.com/es/",
+            "social": ["https://www.instagram.com/cabarettropicana/?hl=es"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": true,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": true,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":[],
+            "platoFuerte":[],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                  "foodName": "Aguas nacionales",
+                  "foodPrecio": 100,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Agua saborizada",
+                  "foodPrecio": 100,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Agua Natural",
+                  "foodPrecio": 100,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Refresco",
+                  "foodPrecio": 60,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Jugos de frutas en conserva",
+                  "foodPrecio": 100,
+                  "alcoholica": false,
+                  "importada": true
+                },
+                {
+                  "foodName": "Jugos de frutas naturales",
+                  "foodPrecio": 100,
+                  "alcoholica": false,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cervezas nacionales o importadas",
+                  "foodPrecio": 200,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "Cerveza Dispensada",
+                  "foodPrecio": 160,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Copa de vino de la casa",
+                  "foodPrecio": 300,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Havana Club 3 años",
+                  "foodPrecio": 100,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Especial Havana Club",
+                  "foodPrecio": 120,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Havana Club 7 años",
+                  "foodPrecio": 320,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Havana Club Pacto Navio",
+                  "foodPrecio": 730,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Havana club seleccion de maestros",
+                  "foodPrecio": 750,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Aguardiente Gobernador",
+                  "foodPrecio": 14300,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "Chiva Regal 12 Años",
+                  "foodPrecio": 995,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "Ballentinees finest",
+                  "foodPrecio": 500,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "J&B",
+                  "foodPrecio": 650,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "Johnnie Walker etiqueta roja",
+                  "foodPrecio": 550,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "Jameson",
+                  "foodPrecio": 650,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "VAT",
+                  "foodPrecio": 580,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "Tequila 3 sombreros",
+                  "foodPrecio": 300,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "Vodka Igor",
+                  "foodPrecio": 395,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "Brandy Napoleón",
+                  "foodPrecio": 190,
+                  "alcoholica": true,
+                  "importada": true
+                },
+                {
+                  "foodName": "Cremas y licores (Cacao)",
+                  "foodPrecio": 85,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cremas y licores (Café)",
+                  "foodPrecio": 85,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cremas y licores (Menta)",
+                  "foodPrecio": 85,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cremas y licores (Marrasquino)",
+                  "foodPrecio": 85,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cremas y licores (Triple sec)",
+                  "foodPrecio": 85,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cremas y licores (Curacao azul)",
+                  "foodPrecio": 85,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cremas y licores (Piña)",
+                  "foodPrecio": 85,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Daiquiri Natural",
+                  "foodPrecio": 450,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Daiquiri Frapeado Natural",
+                  "foodPrecio": 450,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cuba libre",
+                  "foodPrecio": 730,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "cubata",
+                  "foodPrecio": 700,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Daiquiri mulata",
+                  "foodPrecio": 620,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Daiquiri Saborizado",
+                  "foodPrecio": 450,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Gin cola",
+                  "foodPrecio": 750,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Gin tonic",
+                  "foodPrecio": 785,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Rom tonic",
+                  "foodPrecio": 550,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Vodka cola",
+                  "foodPrecio": 600,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Vodka tónica",
+                  "foodPrecio": 650,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Whisky cola",
+                  "foodPrecio": 500,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Tropicana special",
+                  "foodPrecio": 450,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Cocteles Internacionales",
+                  "foodPrecio": 500,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Canchánchara",
+                  "foodPrecio": 450,
+                  "alcoholica": true,
+                  "importada": false
+                },
+                {
+                  "foodName": "Piña colada",
+                  "foodPrecio": 450,
+                  "alcoholica": true,
+                  "importada": false
+                }
+            ]              
+        }
+    }
+}

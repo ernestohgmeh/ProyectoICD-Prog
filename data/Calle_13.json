@@ -1,0 +1,318 @@
+{
+    "municipality": "San Miguel del Padron",
+    "info":
+        {
+        "nameLocal": "Calle 13",
+        "location":
+        {
+            "address": "Calzada de Guines #45 % 13 & 23",
+            "barrio": "Ampliacion de San Matias",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1000-2300",
+            "thuesday": "1000-2300",
+            "wednesday": "1000-2300",
+            "thursday": "1000-2300",
+            "friday": "1000-2300",
+            "saturday": "1000-2300",
+            "sunday": "1000-2300"
+        },
+        "contactUs":
+        {
+            "phone": [76930887],
+            "web": "",
+            "social": ["https://www.facebook.com/Calle13BarRestaurante/?locale=es_LA",""]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                  "foodName": "croquetas de queso",
+                  "foodPrecio": 600
+                },
+                {
+                  "foodName": "frituras de malanga",
+                  "foodPrecio": 600
+                },
+                {
+                  "foodName": "tostones rellenos",
+                  "foodPrecio": 700
+                },
+                {
+                  "foodName": "eperlan",
+                  "foodPrecio": 1300
+                },
+                {
+                  "foodName": "dedos de pollo",
+                  "foodPrecio": 1000
+                },
+                {
+                  "foodName": "coctel de camaron",
+                  "foodPrecio": 1300
+                },
+                {
+                  "foodName": "camaron rebozado",
+                  "foodPrecio": 1200
+                },
+                {
+                  "foodName": "crema de queso",
+                  "foodPrecio": 850
+                },
+                {
+                  "foodName": "crema aurora",
+                  "foodPrecio": 550
+                },
+                {
+                  "foodName": "crema virginia",
+                  "foodPrecio": 800
+                },
+                {
+                  "foodName": "crema de camaron",
+                  "foodPrecio": 900
+                },
+                {
+                  "foodName": "surtido KY13",
+                  "foodPrecio": 4000
+                },
+                {
+                  "foodName": "hamburguesa sencilla",
+                  "foodPrecio": 1400
+                },
+                {
+                  "foodName": "hamburguesa KY13",
+                  "foodPrecio": 2950
+                },
+                {
+                  "foodName": "sandwich sencillo",
+                  "foodPrecio": 1250
+                },
+                {
+                  "foodName": "sandwich lomo ahumado",
+                  "foodPrecio": 1250
+                },
+                {
+                  "foodName": "sandwich especial",
+                  "foodPrecio": 2100
+                },
+                {
+                  "foodName": "sandwich de atún",
+                  "foodPrecio": 1150
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                  "foodName": "bistec de cerdo grille",
+                  "foodPrecio": 2350,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "bistec de cerdo empanado",
+                  "foodPrecio": 2700,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "uruguayo de cerdo",
+                  "foodPrecio": 3500,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pechuga de pollo grille",
+                  "foodPrecio": 2400,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pechuga de pollo gratinada",
+                  "foodPrecio": 2800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pollo gordon blue",
+                  "foodPrecio": 3650,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pollo frito o asado",
+                  "foodPrecio": 2000,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "ropa vieja de res",
+                  "foodPrecio": 2800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "picadillo a la habanera",
+                  "foodPrecio": 2700,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "chuleta de cerdo",
+                  "foodPrecio": 2600,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "lomo ahumado",
+                  "foodPrecio": 2500,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "costilla de cerdo frita",
+                  "foodPrecio": 2300,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "masa de cerdo frita",
+                  "foodPrecio": 3800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "bistec de pollo",
+                  "foodPrecio": 2200,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "arroz frito",
+                  "foodPrecio": 2800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "filete de pescado grille",
+                  "foodPrecio": 3000,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "filete de pescado empanado",
+                  "foodPrecio": 3300,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "filete de pescado gratinado",
+                  "foodPrecio": 3500,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pescado montetoro",
+                  "foodPrecio": 3800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pescado canciller",
+                  "foodPrecio": 4250,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "camaron grille",
+                  "foodPrecio": 2600,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "enchilado de camaron",
+                  "foodPrecio": 2800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "camaron al ajillo",
+                  "foodPrecio": 2700,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "langosta grille",
+                  "foodPrecio": 2700,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "langosta enchilada",
+                  "foodPrecio": 2800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "espaguetti de queso",
+                  "foodPrecio": 1300,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "lasaña de jamón",
+                  "foodPrecio": 1800,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "espaguetti a la carbonara",
+                  "foodPrecio": 2000,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza de queso",
+                  "foodPrecio": 1200,
+                  "description": null,
+                  "clasficacion": "aaa"
+                },
+                {
+                  "foodName": "pizza familiar de queso",
+                  "foodPrecio": 3350,
+                  "description": null,
+                  "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}

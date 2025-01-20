@@ -1,0 +1,118 @@
+{
+    "municipality": "Marianao",
+    "info":
+        {
+        "nameLocal": "Obelisco",
+        "location":
+        {
+            "address": "Avenida 31",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "0900-1800",
+            "thuesday": "0900-1800",
+            "wednesday": "0900-1800",
+            "thursday": "0900-1800",
+            "friday": "0900-1800",
+            "saturday": "0900-1800",
+            "sunday": "0900-1800"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": false,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": "CUP"
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": ["casual"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "bolitas de carne",
+                    "foodPrecio": 20
+                },
+                {
+                    "foodName": "Dados de queso",
+                    "foodPrecio": 180
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pizza de queso",
+                    "foodPrecio": 200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "agua saborizada",
+                    "foodPrecio": 50,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "agua natural",
+                    "foodPrecio": 180,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza cristal",
+                    "foodPrecio": 180,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Vino blanco entre Rio",
+                    "foodPrecio": 160,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Vino blanco",
+                    "foodPrecio": 160,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza",
+                    "foodPrecio": 50,
+                    "alcoholica": true,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}
