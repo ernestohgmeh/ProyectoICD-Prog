@@ -1,0 +1,496 @@
+{
+    "municipality": "Cerro",
+    "info":
+        {
+        "nameLocal": "La Lola",
+        "location":
+        {
+            "address": "Calle Ayestarán % San Pablo & Pedro Pérez",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1400-0200",
+            "thuesday": "1400-0200",
+            "wednesday": "1400-0200",
+            "thursday": "1400-0200",
+            "friday": "1400-0200",
+            "saturday": "1400-0200",
+            "sunday": "1400-0200"
+        },
+        "contactUs":
+        {
+            "phone": [53654726],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Brusquetas",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Croquetas de jamón",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Papas fritas",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Papas gratinadas",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Tostón relleno de atún",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "Tostón relleno de jamón y queso",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Bolitas de queso",
+                    "foodPrecio": 730
+                },
+                {
+                    "foodName": "Frituras de malanga",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Picadera Lalola",
+                    "foodPrecio": 4000
+                },
+                {
+                    "foodName": "Picadera sencilla",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Bocadillo de jamón y queso",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Sándwich de jamón y queso/papas",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Sándwich cubano",
+                    "foodPrecio": 1100
+                },
+                {
+                    "foodName": "Sándwich de jamón y queso",
+                    "foodPrecio": 900
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Canelones",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Penne napolitano",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza napolitana",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espagueti napolitano",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espagueti a la carbonara",
+                    "foodPrecio": 1970,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tacos de carne",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Hamburguesa",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lonjas de cerdo",
+                    "foodPrecio": 3500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Nuggets de pollo",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Masas de cerdo",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "Piña Colada",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ron Collins",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangría",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Screw Driver",
+                    "foodPrecio": 475,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daiquiri",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Gintonic",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "John Collins",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mojito",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Margarita",
+                    "foodPrecio": 950,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Blue Hawai",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Blue Lagoon",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipirinha",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipirisima",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiroska",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cuba Libre",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubanito",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubata",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 150,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Michelada",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua natural Cool Heaven",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Energizante Tigon Drink",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Bucanero lata",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Heineken botella",
+                    "foodPrecio": 574,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Cristal lata",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Cristal botella",
+                    "foodPrecio": 420,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Super Bock botella",
+                    "foodPrecio": 370,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Sol",
+                    "foodPrecio": 480,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Limonada Frape",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Kermato",
+                    "foodPrecio": 580,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta Optimal",
+                    "foodPrecio": 370,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco naranja",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco de limón",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco cola",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco Pepsi",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Café Bombom",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Cortadito",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café Express",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Helado",
+                    "foodPrecio": 900,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Copa Lolita Ración",
+                    "foodPrecio": 2000,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo La Estancia",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malteada",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubetazo La Lola",
+                    "foodPrecio": 4200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cubetazo Picadera",
+                    "foodPrecio": 3300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Botella de whisky Ballantines",
+                    "foodPrecio": 10000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Botella de whisky Johnnie Walker Red Label",
+                    "foodPrecio": 13000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Botella de whisky Johnnie Walker Red Label 1LT",
+                    "foodPrecio": 15000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Botella de whisky Jamerson",
+                    "foodPrecio": 10000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Botella de whisky Chivas Regal",
+                    "foodPrecio": 15000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Botella Ron Havana Club Smokey",
+                    "foodPrecio": 5000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Botella Ron Havana Club Reserva",
+                    "foodPrecio": 5000,
+                    "alcoholica": true,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

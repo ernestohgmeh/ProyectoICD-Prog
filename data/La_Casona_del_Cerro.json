@@ -1,0 +1,166 @@
+{
+    "municipality": "Cerro",
+    "info":
+        {
+        "nameLocal": "La Casona del Cerro",
+        "location":
+        {
+            "address": "Calzada del Cerro % Alzobispo & Peñón",
+            "barrio": "",
+            "GPS": "23.109022,-82.382839"
+        },
+        "horarios": 
+        {
+            "monday": "1000-2200",
+            "thuesday": "1000-2200",
+            "wednesday": "1000-2200",
+            "thursday": "1000-2200",
+            "friday": "1000-2200",
+            "saturday": "1000-2200",
+            "sunday": "1000-2200"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": null,
+            "delivery": null,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":[],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "pizza napolitana c/queso gouda",
+                    "foodPrecio": 450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza doble queso",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de jamon y queso gouda",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza mixta c/queso gouda",
+                    "foodPrecio": 550,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar c/queso gouda",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar doble queso",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar de jamon y queso gouda",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar mixta c/queso gouda",
+                    "foodPrecio": 1050,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti c/queso gouda",
+                    "foodPrecio": 450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti c/ jamon y queso gouda",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti doble queso gouda",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti mixto",
+                    "foodPrecio": 550,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pollo asado",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "masa frita",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "bistec de cerdo",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "fricasé de cerdo",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "chuleta",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}

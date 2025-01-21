@@ -1,0 +1,470 @@
+{
+    "municipality": "Regla",
+    "info":
+        {
+        "nameLocal": "5ta Billar",
+        "location":
+        {
+            "address": "Av. Rotaria % Enlace & Calle A.",
+            "barrio": "",
+            "GPS": "23.123392,-82.323157"
+        },
+        "horarios": 
+        {
+            "monday": "1300-0100",
+            "thuesday": "1300-0100",
+            "wednesday": "1300-0100",
+            "thursday": "1300-0100",
+            "friday": "1300-0100",
+            "saturday": "1300-0100",
+            "sunday": "1300-0100"
+        },
+        "contactUs":
+        {
+            "phone": [52943290],
+            "web": "",
+            "social": ["https://www.instagram.com/5tabillar/","https://www.facebook.com/5ta.Billar/?locale=es_LA"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": false,
+            "altos": true,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "CACAHUATES PICANTE",
+                    "foodPrecio": 110
+                },
+                {
+                    "foodName": "TOSTONES RELLENOS J&G",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "TOSTONES RELLENOS ATUN",
+                    "foodPrecio": 980
+                },
+                {
+                    "foodName": "TOSTONES RELLENOS CARNE",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "CROQUETAS BOLA 9",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "BOLITA DDE QUESO",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "FAJITAS DE POLLO",
+                    "foodPrecio": 920
+                },
+                {
+                    "foodName": "EPERLAN",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "ENTREMÉS",
+                    "foodPrecio": 960
+                },
+                {
+                    "foodName": "SURTIDO 5TABILLA",
+                    "foodPrecio": 1650
+                },
+                {
+                    "foodName": "SURTIDO PREMIUM",
+                    "foodPrecio": 2950
+                },
+                {
+                    "foodName": "ROSITAS DE MAIZ",
+                    "foodPrecio": 600
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "TACOS DE CERDO",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "POLLO A LA GORDON BLUE",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "URUGUAYO DE CERDO",
+                    "foodPrecio": 2100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "BISTEC DE POLLO ENCEBOLLADO",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "BISTEC DE CERDO ENCEBOLLADO",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "BROCHETAS DE CERDO AL CARBÓN",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "BABY CHICKEN",
+                    "foodPrecio": 960,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "KINGS CHICKEN",
+                    "foodPrecio": 1350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "LOMO DE CERDO ASADO AL CARBÓN",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "CHORIZADA AL CARBÓN",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "LA PARRILLADA",
+                    "foodPrecio": 4950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Focaccia",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza napolitana",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza mixta",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza cuatro estaciones",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cervezas Nacionales",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza corona",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cervezaz importadas",
+                    "foodPrecio": 320,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "margarita",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "margarita blue",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "tequila sunrise",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "medusa",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "margarita",
+                    "foodPrecio": 720,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "margarita blue",
+                    "foodPrecio": 780,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "tequila sunrise",
+                    "foodPrecio": 780,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "medusa",
+                    "foodPrecio": null,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "servicio chelada",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "servicio michelada",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "jagger bomb",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "mojito corona",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "corona sunrise",
+                    "foodPrecio": 880,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "sangria",
+                    "foodPrecio": 760,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "jarra de sangria",
+                    "foodPrecio": 3720,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "alexander",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "eclipse",
+                    "foodPrecio": 1020,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "mai tai",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "orgasmo",
+                    "foodPrecio": 1080,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "aperol sprits",
+                    "foodPrecio": 1650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "italian sunset",
+                    "foodPrecio": 780,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "mimosa",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malteada",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "San francisco",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco",
+                    "foodPrecio": 340,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Red bull",
+                    "foodPrecio": 750,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Agua natural",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Kermato",
+                    "foodPrecio": 680,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tigon",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugo",
+                    "foodPrecio": 230,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada frappe",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada frappe curacao",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada frappe granadina",
+                    "foodPrecio": 380,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada frappe melocoton",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada frappe menta",
+                    "foodPrecio": 380,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada frappe mora",
+                    "foodPrecio": 380,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada frappe naranja",
+                    "foodPrecio": 470,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada frescura (hierbabuena)",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "limonada frappe piña",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada frappe tropical blue",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

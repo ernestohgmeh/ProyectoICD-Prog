@@ -1,0 +1,120 @@
+{
+    "municipality": "Cerro",
+    "info":
+        {
+        "nameLocal": "Brutal Habana",
+        "location":
+        {
+            "address": "Calle Infanta & Esquina Universidad",
+            "barrio": "",
+            "GPS": "23.120613,-82.372584"
+        },
+        "horarios": 
+        {
+            "monday": "1200-2359",
+            "thuesday": "1200-2359",
+            "wednesday": "1200-2359",
+            "thursday": "1200-2359",
+            "friday": "1200-2359",
+            "saturday": "1200-2359",
+            "sunday": "1200-2359"
+        },
+        "contactUs":
+        {
+            "phone": [50989151],
+            "web": "",
+            "social": ["https://www.instagram.com/brutal_habana/?hl=es"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": 10,
+            "alquiler": null,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Papas Fritas (Medias) 100g",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Papas Fritas (Normal) 200g",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "SalchiPapas",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "SalchiPapas BRUTAL",
+                    "foodPrecio": 1400
+                },
+                {
+                    "foodName": "Croquetas de Pollo x 5",
+                    "foodPrecio": 175
+                },
+                {
+                    "foodName": "Croquetas de Pollo x 10",
+                    "foodPrecio": 350
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Hamburguesa Brutal",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Hamburguesa Sencilla",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Baguette Brutal",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "SalchiPapas Brutal",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Papas Fritas Brutal",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}

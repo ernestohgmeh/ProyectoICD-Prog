@@ -56,137 +56,129 @@
             "entrantes":[],
             "platoFuerte":
             [
-                {
-                    "foodName": "string/ nombre del plato",
-                    "foodPrecio": "int/precio del plato",
-                    "description": "string-null/ en caso de q el nombre del plato sea un nombre unico y no diga de q esta hecho; de otra forma el valor es null",
-                    "clasificacion": "string/ carne roja, blanca, guarniciones etc"
-                }
-            ],
+              {
+                "foodName": "bistec de pollo",
+                "foodPrecio": 1500,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "bistec de cerdo",
+                "foodPrecio": 1950,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "bistec de res",
+                "foodPrecio": 1950,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "pechuga de pollo",
+                "foodPrecio": 1950,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "chuleta de cerdo",
+                "foodPrecio": 1950,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "masa de cerdo frita",
+                "foodPrecio": 2000,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "cerdo guisado",
+                "foodPrecio": 2000,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "lomo ahumado",
+                "foodPrecio": 2000,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "costilla de cerdo",
+                "foodPrecio": 2000,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "ropa vieja",
+                "foodPrecio": 2000,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "filete de merluza",
+                "foodPrecio": 2000,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "espaguetti con queso blanco",
+                "foodPrecio": 400,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "espaguetti con queso gouda",
+                "foodPrecio": 420,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "espaguetti con queso parmesano",
+                "foodPrecio": 450,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "pizza de queso blanco",
+                "foodPrecio": 280,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "pizza de queso blanco XL",
+                "foodPrecio": 770,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "pizza de queso gouda",
+                "foodPrecio": 320,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "pizza de queso gouda XL",
+                "foodPrecio": 830,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "pizza de queso parmesano",
+                "foodPrecio": 350,
+                "description": null,
+                "clasficacion": "aaa"
+              },
+              {
+                "foodName": "pizza de queso parmesano XL",
+                "foodPrecio": 850,
+                "description": null,
+                "clasficacion": "aaa"
+              }
+          ],
             "postre":[],
-            "bebidas":
-            [
-                {
-                  "foodName": "bistec de pollo",
-                  "foodPrecio": 1500,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "bistec de cerdo",
-                  "foodPrecio": 1950,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "bistec de res",
-                  "foodPrecio": 1950,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "pechuga de pollo",
-                  "foodPrecio": 1950,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "chuleta de cerdo",
-                  "foodPrecio": 1950,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "masa de cerdo frita",
-                  "foodPrecio": 2000,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "cerdo guisado",
-                  "foodPrecio": 2000,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "lomo ahumado",
-                  "foodPrecio": 2000,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "costilla de cerdo",
-                  "foodPrecio": 2000,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "ropa vieja",
-                  "foodPrecio": 2000,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "filete de merluza",
-                  "foodPrecio": 2000,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "espaguetti con queso blanco",
-                  "foodPrecio": 400,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "espaguetti con queso gouda",
-                  "foodPrecio": 420,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "espaguetti con queso parmesano",
-                  "foodPrecio": 450,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "pizza de queso blanco",
-                  "foodPrecio": 280,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "pizza de queso blanco XL",
-                  "foodPrecio": 770,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "pizza de queso gouda",
-                  "foodPrecio": 320,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "pizza de queso gouda XL",
-                  "foodPrecio": 830,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "pizza de queso parmesano",
-                  "foodPrecio": 350,
-                  "description": null,
-                  "clasficacion": "aaa"
-                },
-                {
-                  "foodName": "pizza de queso parmesano XL",
-                  "foodPrecio": 850,
-                  "description": null,
-                  "clasficacion": "aaa"
-                }
-            ]              
+            "bebidas":[]              
         }
     }
 }

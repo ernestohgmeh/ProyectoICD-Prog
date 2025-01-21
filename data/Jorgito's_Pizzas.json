@@ -1,0 +1,148 @@
+{
+    "municipality": "Cerro",
+    "info":
+        {
+        "nameLocal": "Jorguito's Pizzas",
+        "location":
+        {
+            "address": "Pedroso % Infanta & Cruz del Padre",
+            "barrio": "",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1100-2300",
+            "thuesday": "1100-2300",
+            "wednesday": "1100-2300",
+            "thursday": "1100-2300",
+            "friday": "1100-2300",
+            "saturday": "1100-2300",
+            "sunday": "1100-2300"
+        },
+        "contactUs":
+        {
+            "phone": [54031349,78780156],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": null,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":[],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "pizza de queso gouda (20cm)",
+                    "foodPrecio": 410,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de queso gouda (32cm)",
+                    "foodPrecio": 750,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de 2 quesos (32cm)",
+                    "foodPrecio": 990,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza hawaiana (32cm)",
+                    "foodPrecio": 1110,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de 3 quesos (32cm)",
+                    "foodPrecio": 1320,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de 4 quesos (32cm)",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de vegetales (32cm)",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar de queso gouda (40x50cm)",
+                    "foodPrecio": 1820,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar de 2 quesos (40x50cm)",
+                    "foodPrecio": 2780,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar hawaiana (40x50cm)",
+                    "foodPrecio": 3260,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar de 3 quesos (40x50cm)",
+                    "foodPrecio": 3345,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar de 4 quesos (40x50cm)",
+                    "foodPrecio": 3470,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar de vegetales (40x50cm)",
+                    "foodPrecio": 5420,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "spaghetti c/queso gouda",
+                    "foodPrecio": 690,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}

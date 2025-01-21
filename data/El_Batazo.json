@@ -1,0 +1,148 @@
+{
+    "municipality": "Cerro",
+    "info":
+        {
+        "nameLocal": "El Batazo",
+        "location":
+        {
+            "address": "Primelles 356 % Santa Teresa & Daois",
+            "barrio": "",
+            "GPS": "23.105625,-82.388974"
+        },
+        "horarios": 
+        {
+            "monday": "1100-2200",
+            "thuesday": "1100-2200",
+            "wednesday": "1100-2200",
+            "thursday": "1100-2200",
+            "friday": "1100-2200",
+            "saturday": "1100-2200",
+            "sunday": "1100-2200"
+        },
+        "contactUs":
+        {
+            "phone": [58050408],
+            "web": "",
+            "social": ["https://www.facebook.com/groups/240732693872050/user/61554246767014/"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP","USD","MLC"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":[],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pizza de queso",
+                    "foodPrecio": 750,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de chorizo",
+                    "foodPrecio": 930,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de jamón",
+                    "foodPrecio": 930,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de hawaiana",
+                    "foodPrecio": 1130,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de cebolla",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de ají",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de atún",
+                    "foodPrecio": 1250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de aceitunas",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de peperoni",
+                    "foodPrecio": 1050,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis de jamón",
+                    "foodPrecio": 780,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Hamburguesa strike",
+                    "foodPrecio": 550,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Hamburguesa doble play",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Hamburguesa homerun",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}

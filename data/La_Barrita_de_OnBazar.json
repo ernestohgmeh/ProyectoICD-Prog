@@ -1,0 +1,210 @@
+{
+    "municipality": "Cerro",
+    "info":
+        {
+        "nameLocal": "La Barrita de OnBazar",
+        "location":
+        {
+            "address": "Amenida % Cruz del Pader & Infanta",
+            "barrio": "",
+            "GPS": "23.121723,-82.374041"
+        },
+        "horarios": 
+        {
+            "monday": "0900-2300",
+            "thuesday": "0900-2300",
+            "wednesday": "0900-2300",
+            "thursday": "0900-2300",
+            "friday": "0900-2300",
+            "saturday": "0900-2300",
+            "sunday": "0900-2300"
+        },
+        "contactUs":
+        {
+            "phone": [54494741],
+            "web": "https://labarrita.onbazar.net/",
+            "social": ["https://www.instagram.com/la_barrita_onbazar/","https://www.facebook.com/profile.php?id=61550764100168"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": true,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP","USD","MLC"],
+            "parqueo": true,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": true,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Tostones rellenos",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Jamón ,queso y aceitunas",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Mixta",
+                    "foodPrecio": 1600
+                },
+                {
+                    "foodName": "Brochetas",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "Pollo frito",
+                    "foodPrecio": 1500
+                },
+                {
+                    "foodName": "Pollo chiflado",
+                    "foodPrecio": 1650
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pizza de napolitana",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de chorizo",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de jamón",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de hawaiana",
+                    "foodPrecio": 1150,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de cebolla",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis de jamón",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis de chorizo",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Hamburguesa",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Hamburguesa jamón y queso",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Hamburguesa onbazar",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "Café expreso",
+                    "foodPrecio": 180,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café cortado",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Capuchino",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café bombón",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña colada",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña colada (alchol)",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada frapé",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malteada",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

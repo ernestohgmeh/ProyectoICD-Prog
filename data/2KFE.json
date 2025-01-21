@@ -1,0 +1,214 @@
+{
+    "municipality": "Regla",
+    "info":
+        {
+        "nameLocal": "2KFE",
+        "location":
+        {
+            "address": "Pereira % Martí & Maceo",
+            "barrio": "",
+            "GPS": "23.127967,-82.334326"
+        },
+        "horarios": 
+        {
+            "monday": "1000-2000",
+            "thuesday": "1000-2000",
+            "wednesday": "1000-2000",
+            "thursday": "1000-2000",
+            "friday": "1000-2000",
+            "saturday": "1000-2000",
+            "sunday": "1000-2000"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": ""
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": [" local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                [
+                    {
+                        "foodName": "Croquetas",
+                        "foodPrecio": 300
+                    },
+                    {
+                        "foodName": "Viandas fritas",
+                        "foodPrecio": 100
+                    },
+                    {
+                        "foodName": "Brusquetas",
+                        "foodPrecio": 250
+                    },
+                    {
+                        "foodName": "Entremes surtido",
+                        "foodPrecio": 800
+                    },
+                    {
+                        "foodName": "Mini Gordon Bleu",
+                        "foodPrecio": 800
+                    },
+                    {
+                        "foodName": "Plato combinado",
+                        "foodPrecio": 1200
+                    }
+                ]                
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Tacos Carnitas",
+                    "foodPrecio": 850,
+                    "description": "Cerdo asado, cebolla encurtidos, salsa verde, cebollino y vegetal salteado",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tacos Res",
+                    "foodPrecio": 900,
+                    "description": "Ropa vieja, vegetal Salteado y salsa chimichurri",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tacos Pollo",
+                    "foodPrecio": 600,
+                    "description": "Hilos de pollo, crujientes, vegetal salteado y salsa vinagreta",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tacos Vegetariano",
+                    "foodPrecio": 400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tacos Vegetales salteados en mantequilla y limón",
+                    "foodPrecio": 0,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Tacos Jamón y Queso",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "Espresso",
+                    "foodPrecio": 100,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Americano",
+                    "foodPrecio": 100,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cortadito",
+                    "foodPrecio": 150,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Con Leche",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Espresso Macchiato",
+                    "foodPrecio": 180,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caramel Macchiato",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cappuccino",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Frappuccino",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Irlandés",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caribeño",
+                    "foodPrecio": 180,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Alma mía",
+                    "foodPrecio": 180,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Minty Coffee",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "2KF",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Lujo",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

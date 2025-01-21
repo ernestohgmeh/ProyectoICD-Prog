@@ -1,0 +1,80 @@
+{
+    "municipality": "Cerro",
+    "info":
+        {
+        "nameLocal": "Shapuseros",
+        "location":
+        {
+            "address": "Calzada de Ayestarán % San Pedro & Ayuntamineto",
+            "barrio": "",
+            "GPS": "23.117286,-82.384572"
+        },
+        "horarios": 
+        {
+            "monday": "0900-2100",
+            "thuesday": "0900-2100",
+            "wednesday": "0900-2100",
+            "thursday": "0900-2100",
+            "friday": "0900-2100",
+            "saturday": "0900-2100",
+            "sunday": "0900-2100"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": ["https://www.facebook.com/shapuseros/?locale=es_LA"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": false,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":[],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "hamburguesa de pollo",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "hamburguesa de cerdo",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "hamburguesa de res",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "hamburguesa Shapusero",
+                    "foodPrecio": 1200
+                }
+            ],
+            "postre":[],
+            "bebidas":[]
+        }
+    }
+}

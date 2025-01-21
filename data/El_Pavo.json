@@ -1,0 +1,338 @@
+{
+    "municipality": "Regla",
+    "info":
+        {
+        "nameLocal": "El Pavo",
+        "location":
+        {
+            "address": "San Luis % Via Blanca & Calle 6ta",
+            "barrio": "",
+            "GPS": "23.124230,-82.319468"
+        },
+        "horarios": 
+        {
+            "monday": "1200-2300",
+            "thuesday": "1200-2300",
+            "wednesday": "1200-2300",
+            "thursday": "1200-2300",
+            "friday": "1200-2300",
+            "saturday": "1200-2300",
+            "sunday": "1200-2300"
+        },
+        "contactUs":
+        {
+            "phone": [58222469,77976432],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": true,
+            "parallevar": null,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": null,
+            "porCiento": null,
+            "alquiler": null,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Ensalada Fría de Jamón",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Ensalada Fría de Atún",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 200
+                },
+                {
+                    "foodName": "Fajitas",
+                    "foodPrecio": 500
+                },
+                {
+                    "foodName": "Tostón relleno de Jamón",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Tostón relleno de Atún",
+                    "foodPrecio": 450
+                },
+                {
+                    "foodName": "Costillas",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Cóctel de Camarón",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "Garbanzo Frito",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Eperlan",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Entremés",
+                    "foodPrecio": 800
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pollo Grille",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Masa de Cerdo",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Cerdo a la Milanesa",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Res",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa Vieja",
+                    "foodPrecio": 1600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarones Enchilados",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarones al Ajillo",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarones Grille",
+                    "foodPrecio": 1200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarones Rebosados",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Enchilado de Langosta",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta Grille",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pescado Grille",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Marinada al Pavo",
+                    "foodPrecio": 2500,
+                    "description": "Camarón, langosta, pescado, +2 copas de vino",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Vegetales",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Jamón",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Chorizo",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Hawaiana",
+                    "foodPrecio": 850,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Carne",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza de Camarones",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Especial 'El Pavo'",
+                    "foodPrecio": 1500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis Napolitano",
+                    "foodPrecio": 600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis con Jamón",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis Boloñesa",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis con Camarones",
+                    "foodPrecio": 1000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis con Atún",
+                    "foodPrecio": 950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espaguetis con Bacon",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lasagna de Jamón",
+                    "foodPrecio": 800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Lasagna de Carne",
+                    "foodPrecio": 900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Flan de Leche",
+                    "foodPrecio": 180
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cerveza Nacional",
+                    "foodPrecio": 250
+                },
+                {
+                    "foodName": "Cerveza Nacional",
+                    "foodPrecio": 200
+                },
+                {
+                    "foodName": "Cerveza Corona",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Agua Natural",
+                    "foodPrecio": 180
+                },
+                {
+                    "foodName": "Agua Gaseada",
+                    "foodPrecio": 180
+                },
+                {
+                    "foodName": "Refresco Nacional",
+                    "foodPrecio": 225
+                },
+                {
+                    "foodName": "Refresco Importado",
+                    "foodPrecio": 260
+                },
+                {
+                    "foodName": "Malta Importada",
+                    "foodPrecio": 225
+                },
+                {
+                    "foodName": "Malta HyperMalt",
+                    "foodPrecio": 260
+                },
+                {
+                    "foodName": "Jugo(Cajita)",
+                    "foodPrecio": 180
+                }
+            ]            
+        }
+    }
+}
