@@ -55,32 +55,30 @@
         {
             "entrantes":
             [
-                [
-                    {
-                        "foodName": "Croquetas",
-                        "foodPrecio": 300
-                    },
-                    {
-                        "foodName": "Viandas fritas",
-                        "foodPrecio": 100
-                    },
-                    {
-                        "foodName": "Brusquetas",
-                        "foodPrecio": 250
-                    },
-                    {
-                        "foodName": "Entremes surtido",
-                        "foodPrecio": 800
-                    },
-                    {
-                        "foodName": "Mini Gordon Bleu",
-                        "foodPrecio": 800
-                    },
-                    {
-                        "foodName": "Plato combinado",
-                        "foodPrecio": 1200
-                    }
-                ]                
+                {
+                    "foodName": "Croquetas",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Viandas fritas",
+                    "foodPrecio": 100
+                },
+                {
+                    "foodName": "Brusquetas",
+                    "foodPrecio": 250
+                },
+                {
+                    "foodName": "Entremes surtido",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Mini Gordon Bleu",
+                    "foodPrecio": 800
+                },
+                {
+                    "foodName": "Plato combinado",
+                    "foodPrecio": 1200
+                }             
             ],
             "platoFuerte":
             [
@@ -105,12 +103,6 @@
                 {
                     "foodName": "Tacos Vegetariano",
                     "foodPrecio": 400,
-                    "description": null,
-                    "clasficacion": "aaa"
-                },
-                {
-                    "foodName": "Tacos Vegetales salteados en mantequilla y limón",
-                    "foodPrecio": 0,
                     "description": null,
                     "clasficacion": "aaa"
                 },

@@ -72,7 +72,7 @@
                     "foodPrecio": 900
                 },
                 {
-                    "foodName": "CROQUETAS BOLA 9",
+                    "foodName": "CROQUETAS BOLA NUEVE",
                     "foodPrecio": 650
                 },
                 {
@@ -257,12 +257,6 @@
                 {
                     "foodName": "tequila sunrise",
                     "foodPrecio": 780,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "medusa",
-                    "foodPrecio": null,
                     "alcoholica": true,
                     "importada": false
                 },
