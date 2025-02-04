@@ -1,0 +1,630 @@
+{
+    "municipality": "Centro Habana",
+    "info":
+        {
+        "nameLocal": "Macarena",
+        "location":
+        {
+            "address": "Calle Vapor #168 % Espada & San Francisco",
+            "barrio": "",
+            "GPS": "23.139811,-82.378054"
+        },
+        "horarios": 
+        {
+            "monday": "closed",
+            "thuesday": "1600-0300",
+            "wednesday": "1600-0300",
+            "thursday": "1600-0300",
+            "friday": "1600-0300",
+            "saturday": "1600-0300",
+            "sunday": "1600-0300"
+        },
+        "contactUs":
+        {
+            "phone": [58723821],
+            "web": "",
+            "social": ["https://www.instagram.com/cafe_bar_macarena/","https://www.facebook.com/people/Caf%C3%A9-Bar-Macarena/61554878931779/?_rdr"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": "    "
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": false,
+            "altos": true,
+            "ac": false,
+            "entretenimiento": [],
+            "comentarios": ""
+
+        },
+        "vestimenta": [],
+        "estatal": false,
+        "tipoDeComidaEspecializada": [],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "croquetas de la casa",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "jamón y queso",
+                    "foodPrecio": 650
+                },
+                {
+                    "foodName": "rollitos a la macarena",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "tostones rellenos",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "surtida queso y embutido",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "mixta la macarena",
+                    "foodPrecio": 2200
+                }
+            ],
+            "platoFuerte":[],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "agua 500 ml",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "agua tónica 330 ml",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "energizante",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "refresco limón",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "refresco cola",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "limonada frappe",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "limonada blue",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "limonada roja",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "limonada natural",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "limonada frescura",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "cerveza cristal de botella",
+                    "foodPrecio": 420,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cerveza bucanero de botella",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cerveza importada",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "mojitos",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cuba libre",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "bello monte",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cuba bella",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "mary pickford",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "havana especial",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "presidente",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "piña colada",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "daikiri",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "caipirissima",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cubanito",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "caipiroska",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "sex on the beach",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "screw driver",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "kamikase",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "black russian",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cosmopolitan",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "camino al cielo",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "blue hawaii",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "vodka tonic",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "bloody mary",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "moscú mule",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "long islad",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "vodka martini",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "charro negro",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "margarita",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "acapulco de noche",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "bloody mariachi",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "nieblas del caribe",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "submarino",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "long island ice tea",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "tom collins",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "caruso",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "gin and sin",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "gin tonic",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "martini",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "santiago 8",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "hc pacto de navio",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "santiago 11",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "santiago 12",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "monte de la rosa",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "olmeca blanco",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "olmeca reposado",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "don ramón",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "gin beefeater",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "gin q spades",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "gin q rosse",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "gin master",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "old fashion",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "mini julep",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "jhon collins",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "sangria",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "calimocho",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "tinto verano",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "medusa",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "derrame cerebral",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "B52",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "orgasmo",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "orgasmos multiples",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "submarino",
+                    "foodPrecio": 700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "chelada",
+                    "foodPrecio": 620,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "michelada",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "clan campbell",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "jameson",
+                    "foodPrecio": 550,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "JW red label",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "ballantines",
+                    "foodPrecio": 650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "chiva 12",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "jack daniel",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "JW black lavel",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "HC añejo blanco",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "HC añejo 3 años",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "HC añejo 7 años",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "HC ritual",
+                    "foodPrecio": 400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "expreso",
+                    "foodPrecio": 150,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "cortado",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "carajillo",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "frappuccino",
+                    "foodPrecio": 750,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]                                 
+        }
+    }
+}

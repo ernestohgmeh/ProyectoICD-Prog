@@ -1,0 +1,387 @@
+{
+    "municipality": "Centro Habana",
+    "info":
+        {
+        "nameLocal": "Fenix Dorado",
+        "location":
+        {
+            "address": "Calle Cuchillo % San Rafael & Zanja",
+            "barrio": "",
+            "GPS": "23.134757,-82.363867"
+        },
+        "horarios": 
+        {
+            "monday": "1100-2300",
+            "thuesday": "1100-2300",
+            "wednesday": "1100-2300",
+            "thursday": "1100-2300",
+            "friday": "1100-2300",
+            "saturday": "1100-2300",
+            "sunday": "1100-2300"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": false,
+            "delivery": false,
+            "parallevar": true,
+            "reservation": false,
+            "tipoDeMoneda": ["string/ siglas de las monedas q acepta"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Picadera Fénix",
+                    "foodPrecio": 1785
+                },
+                {
+                    "foodName": "Entremés jamón y aceite",
+                    "foodPrecio": 535
+                },
+                {
+                    "foodName": "Entremés jamón y queso",
+                    "foodPrecio": 835
+                },
+                {
+                    "foodName": "Entremés aceitunas",
+                    "foodPrecio": 555
+                },
+                {
+                    "foodName": "Coctel camarones",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Ensalada fría jamón",
+                    "foodPrecio": 595
+                },
+                {
+                    "foodName": "Ensalada fría atún",
+                    "foodPrecio": 850
+                },
+                {
+                    "foodName": "Vianda c/mojo",
+                    "foodPrecio": 315
+                },
+                {
+                    "foodName": "Tostones nat. ajillo",
+                    "foodPrecio": 495
+                },
+                {
+                    "foodName": "Tost. rellenos jamoniquesos",
+                    "foodPrecio": 695
+                },
+                {
+                    "foodName": "Tost. rellenos c/camarón",
+                    "foodPrecio": 835
+                },
+                {
+                    "foodName": "Mariposas chinas",
+                    "foodPrecio": 375
+                },
+                {
+                    "foodName": "Ensalada mixta",
+                    "foodPrecio": 360
+                },
+                {
+                    "foodName": "Sopa Fénix",
+                    "foodPrecio": 895
+                },
+                {
+                    "foodName": "Fritura malanga",
+                    "foodPrecio": 510
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Bistec cerdo grille",
+                    "foodPrecio": 1625,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec cerdo encebollado",
+                    "foodPrecio": 1885,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa vieja",
+                    "foodPrecio": 2535,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarón grille",
+                    "foodPrecio": 2785,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarón al ajillo",
+                    "foodPrecio": 2950,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarón enchilado",
+                    "foodPrecio": 3120,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete pescado grille",
+                    "foodPrecio": 2675,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete sensación",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Filete terraza",
+                    "foodPrecio": 3940,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Chop suey camarón",
+                    "foodPrecio": 2970,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Chop suey pollo",
+                    "foodPrecio": 1995,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Chop suey cerdo",
+                    "foodPrecio": 2205,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pollo grille",
+                    "foodPrecio": 3975,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Plancha de mar",
+                    "foodPrecio": 5255,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Masas cerdo ftas",
+                    "foodPrecio": 4550,
+                    "description": "1.5b",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Brochetas cerdo",
+                    "foodPrecio": 4650,
+                    "description": "1.56",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Plancha mar y tierra",
+                    "foodPrecio": 5255,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Corona fenix",
+                    "foodPrecio": 5965,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Zarzuela de mariscos",
+                    "foodPrecio": 5455,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Mucho cerdo",
+                    "foodPrecio": 8550,
+                    "description": "3 lb",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza c/queso gouda",
+                    "foodPrecio": 1120,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza c/queso blanco",
+                    "foodPrecio": 695,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Haw. queso blanco",
+                    "foodPrecio": 1145,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Haw. queso gouda",
+                    "foodPrecio": 1570,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espag. nap. c/queso gouda",
+                    "foodPrecio": 995,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Espag. nap. c/queso bco",
+                    "foodPrecio": 645,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cerveza Corona",
+                    "foodPrecio": 480,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cerveza Nacional",
+                    "foodPrecio": 360,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Importada",
+                    "foodPrecio": 280,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Refresco Nacional",
+                    "foodPrecio": 310,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco Importado",
+                    "foodPrecio": 350,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 340,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Nectar frutas",
+                    "foodPrecio": 340,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Aquia Nat, importada 500ml",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Ama Nat. Nacional 500ml",
+                    "foodPrecio": 210,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café expreso",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café americano",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Café carajillo",
+                    "foodPrecio": 320,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Vino (bot)",
+                    "foodPrecio": 2500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Copa heilada",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malteada",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Batido helado",
+                    "foodPrecio": 540,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]
+            
+        }
+    }
+}

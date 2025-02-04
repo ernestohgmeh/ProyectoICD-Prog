@@ -69,10 +69,14 @@ def Promedio_recortado_seccion(lista:list):
     Toma los precios de los productos, los ordena y devuelve el promedios sin contar el 10% inferior y superior
     """
     
-    if len(lista) == 0: return 0
-    lista.sort(key=lambda x: x["foodPrecio"])
-    porciento = int(len(lista) * 0.1)
-    lista = lista[porciento:len(lista)-porciento]
+    try:
+        if len(lista) == 0: return 0
+        lista.sort(key=lambda x: x["foodPrecio"])
+        porciento = int(len(lista) * 0.1)
+        lista = lista[porciento:len(lista)-porciento]
+    except:
+        print(lista)
+        
     
     if len(lista) == 0: return 0
     output = sum(int(k["foodPrecio"]) for k in lista) / len(lista)

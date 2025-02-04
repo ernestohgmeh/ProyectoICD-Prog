@@ -1,0 +1,786 @@
+{
+    "municipality": "Centro Habana",
+    "info":
+        {
+        "nameLocal": "Bone má 62",
+        "location":
+        {
+            "address": "San Rafael % Prado & Consulado",
+            "barrio": "",
+            "GPS": "23.137299,-82.359697"
+        },
+        "horarios": 
+        {
+            "monday": "0900-2359",
+            "thuesday": "0900-2359",
+            "wednesday": "0900-2359",
+            "thursday": "0900-2359",
+            "friday": "0900-2359",
+            "saturday": "0900-2359",
+            "sunday": "0900-2359"
+        },
+        "contactUs":
+        {
+            "phone": [78602134,53470440],
+            "web": "",
+            "social": ["https://www.instagram.com/bonema_62/?hl=es"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": false,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "waffles, nutella, queso crema, mermelada, miel y frutas",
+                    "foodPrecio": 1900
+                },
+                {
+                    "foodName": "huevos al gusto, pan, mantequilla, mermelada, frutas de temporada, jugo o café",
+                    "foodPrecio": 2100
+                },
+                {
+                    "foodName": "huevos al gusto, pan, jamón, queso, mantequilla, jugo o café",
+                    "foodPrecio": 2300
+                },
+                {
+                    "foodName": "papas fritas",
+                    "foodPrecio": 1050
+                },
+                {
+                    "foodName": "falafel",
+                    "foodPrecio": 1050
+                },
+                {
+                    "foodName": "sopa de lentejas",
+                    "foodPrecio": 1350
+                },
+                {
+                    "foodName": "ensalada mixta",
+                    "foodPrecio": 950
+                },
+                {
+                    "foodName": "coban salata",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "caprese",
+                    "foodPrecio": 1450
+                },
+                {
+                    "foodName": "ensalada nizarda",
+                    "foodPrecio": 1800
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "sándwich de vegetales",
+                    "foodPrecio": 1400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "sándwich de jamón y queso",
+                    "foodPrecio": 1650,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "sándwich de res",
+                    "foodPrecio": 1800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "sándwich de atún",
+                    "foodPrecio": 1700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "sándwich de jamón serrano",
+                    "foodPrecio": 2250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa natural smash",
+                    "foodPrecio": 2150,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa de falafel",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa smash con aguacate",
+                    "foodPrecio": 2250,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa smash con bacon y huevo frito",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "döner kebab",
+                    "foodPrecio": 1700,
+                    "description": "pan",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "dürüm kebab",
+                    "foodPrecio": 1750,
+                    "description": "tortilla",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "döner falafel",
+                    "foodPrecio": 1300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "dürüm köfte",
+                    "foodPrecio": 1750,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "plato de döner kebab",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "iskender kebab",
+                    "foodPrecio": 2400,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "plato de köfte de res",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza margarita",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza friarielli y salchicha italiana",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza funghi",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza vegetariana",
+                    "foodPrecio": 2300,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza 4 quesos",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza hawaiana",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza pepperoni / diabola",
+                    "foodPrecio": 2700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de salami",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de jamón serrano, rúcula y parmesano",
+                    "foodPrecio": 3200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza de atún y cebolla",
+                    "foodPrecio": 2600,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pasta napolitana",
+                    "foodPrecio": 1900,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pasta arrabiata",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pasta pesto",
+                    "foodPrecio": 2200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pasta bolognesa",
+                    "foodPrecio": 2800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pasta carbonara",
+                    "foodPrecio": 2650,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "flan",
+                    "foodPrecio": 700
+                },
+                {
+                    "foodName": "copa de helado",
+                    "foodPrecio": 900
+                },
+                {
+                    "foodName": "copa lolita",
+                    "foodPrecio": 1050
+                },
+                {
+                    "foodName": "cheesecake",
+                    "foodPrecio": 1150
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "agua natural",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "agua gaseada",
+                    "foodPrecio": 950,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "agua tónica mg",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "coca cola",
+                    "foodPrecio": 800,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "coca cola zero",
+                    "foodPrecio": 800,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "sprite",
+                    "foodPrecio": 800,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "energy drink",
+                    "foodPrecio": 850,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "jugo de fruta nat.",
+                    "foodPrecio": 600,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "limonada natural",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "limonada frappe",
+                    "foodPrecio": 550,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "ayran",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "suero de helado",
+                    "foodPrecio": 1500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "ginger ale",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "cerveza cristal",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cerveza heineken",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "cerveza corona",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "chelada (servicio)",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "michelada (servicio)",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "cuba libre",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "mojito",
+                    "foodPrecio": 1600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "gin basil smash",
+                    "foodPrecio": 1700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "caipirinha",
+                    "foodPrecio": 1400,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "strawberry caipi",
+                    "foodPrecio": 1550,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "daiquiri",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "strawberry daiquiri",
+                    "foodPrecio": 1600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "piña colada",
+                    "foodPrecio": 1700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "strawberry colada",
+                    "foodPrecio": 1800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "margarita",
+                    "foodPrecio": 1600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "whisky sour",
+                    "foodPrecio": 1650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "espresso martini",
+                    "foodPrecio": 1650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "sangría",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "yeni raki",
+                    "foodPrecio": 1300,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "aperol spritz",
+                    "foodPrecio": 1700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "campari spritz",
+                    "foodPrecio": 1700,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "campari soda",
+                    "foodPrecio": 1600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "vino tinto (copa)",
+                    "foodPrecio": 950,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "vino blanco (copa)",
+                    "foodPrecio": 950,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "beefeater gin tonic",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "gordons gin tonic",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "tanqueray gin tonic",
+                    "foodPrecio": 1600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "tanqueray 10 gin tonic",
+                    "foodPrecio": 1800,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "gin mare gin tonic",
+                    "foodPrecio": 1950,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "malfy gin tonic",
+                    "foodPrecio": 2000,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "botanist gin tonic",
+                    "foodPrecio": 2100,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "london no. 1 gin tonic",
+                    "foodPrecio": 1900,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "jameson whisky",
+                    "foodPrecio": 1400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "ballantine's whisky",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "ballantine's 12 whisky",
+                    "foodPrecio": 1400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "jack daniels whisky",
+                    "foodPrecio": 1650,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "johnnie walker red label whisky",
+                    "foodPrecio": 1400,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "johnnie walker black label whisky",
+                    "foodPrecio": 1600,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "chivas regal 12 años whisky",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "glenlivet 15 whisky",
+                    "foodPrecio": 1800,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "bruichladdich whisky",
+                    "foodPrecio": 1900,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "highland park whisky",
+                    "foodPrecio": 2250,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "laphroaig whisky",
+                    "foodPrecio": 2450,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "woodford reserve whisky",
+                    "foodPrecio": 2250,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "havana club añejo 3 años ron",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "havana club añejo especial ron",
+                    "foodPrecio": 1050,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "havana club añejo reserva ron",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "havana club añejo 7 años ron",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "ron santiago añejo ron",
+                    "foodPrecio": 1200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "ron santiago 8 años ron",
+                    "foodPrecio": 1650,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "ron santiago 11 años ron",
+                    "foodPrecio": 2200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "selección de maestros ron",
+                    "foodPrecio": 1800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "olmeca blanco tequila",
+                    "foodPrecio": 750,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "olmeca reposado tequila",
+                    "foodPrecio": 850,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "don ramón punta plateau tequila",
+                    "foodPrecio": 1050,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "don ramón punta dorada tequila",
+                    "foodPrecio": 1150,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "don julio reposado tequila",
+                    "foodPrecio": 1500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "baileys licores & cremas",
+                    "foodPrecio": 1100,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "jägermeister licores & cremas",
+                    "foodPrecio": 1800,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "té",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café expreso",
+                    "foodPrecio": 380,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "espresso macchiato (cortado)",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "americano",
+                    "foodPrecio": 420,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "cappuccino",
+                    "foodPrecio": 650,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "café con leche",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "leche con chocolate",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

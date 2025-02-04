@@ -1,0 +1,200 @@
+{
+    "municipality": "Playa",
+    "info":
+        {
+        "nameLocal": "Tiki Bar Parrillada",
+        "location":
+        {
+            "address": "Avenida 3ra % 484 & 486",
+            "barrio": "Guanabo",
+            "GPS": "23.171038,-82.135904"
+        },
+        "horarios": 
+        {
+            "monday": "0900-2200",
+            "thuesday": "0900-2200",
+            "wednesday": "0900-2200",
+            "thursday": "0900-2200",
+            "friday": "0900-2200",
+            "saturday": "0900-2200",
+            "sunday": "0900-2200"
+        },
+        "contactUs":
+        {
+            "phone": [7991302],
+            "web": "",
+            "social": ["https://www.facebook.com/p/TIKI-BAR-Parrillada-100064883114524/?locale=es_LA",""]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": true,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Tostones de Jamon y Queso",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Tostones de Chorizo y Queso",
+                    "foodPrecio": 1200
+                },
+                {
+                    "foodName": "Tostones de Cangrejo",
+                    "foodPrecio": 2300
+                },
+                {
+                    "foodName": "Tostones de Langosta",
+                    "foodPrecio": 4000
+                },
+                {
+                    "foodName": "Tostones de Camaron",
+                    "foodPrecio": 4000
+                },
+                {
+                    "foodName": "Taco de Cangrejo",
+                    "foodPrecio": 2500
+                },
+                {
+                    "foodName": "Taco de Camaron",
+                    "foodPrecio": 4000
+                },
+                {
+                    "foodName": "Taco de Langosta",
+                    "foodPrecio": 4000
+                },
+                {
+                    "foodName": "Papas Tiki",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Ceviche de Pescado",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Ceviche de Langosta",
+                    "foodPrecio": 3000
+                },
+                {
+                    "foodName": "Coctel de Camaron",
+                    "foodPrecio": 3500
+                },
+                {
+                    "foodName": "Coctel de Langosta",
+                    "foodPrecio": 2900
+                },
+                {
+                    "foodName": "Fajita de Cerdo",
+                    "foodPrecio": 2250
+                },
+                {
+                    "foodName": "Fajita de Pollo",
+                    "foodPrecio": 2100
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Camaron al Gusto",
+                    "foodPrecio": 4000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Langosta al Gusto",
+                    "foodPrecio": 4000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Enchilado de Cangrejo",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Bistec de Cerdo",
+                    "foodPrecio": 2500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ribeye",
+                    "foodPrecio": 12500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pulpo al Gusto",
+                    "foodPrecio": 3800,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "Red Bull",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Energizante",
+                    "foodPrecio": 420,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refresco",
+                    "foodPrecio": 450,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Malteada",
+                    "foodPrecio": 1000,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}
