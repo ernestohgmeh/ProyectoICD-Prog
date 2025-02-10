@@ -77,8 +77,6 @@ def Promedio_recortado_seccion(lista:list):
     except:
         print(lista)
         
-    
-    if len(lista) == 0: return 0
     output = sum(int(k["foodPrecio"]) for k in lista) / len(lista)
     return output
 
@@ -115,7 +113,7 @@ def Promedio_municipio(lista:list):
         elif k["municipality"].lower() == "san miguel del padron": salida[11]["San"].append(Promedio_restaurant(k))
         elif k["municipality"].lower() == "marianao": salida[12]["Marianao"].append(Promedio_restaurant(k))
         elif k["municipality"].lower() == "regla": salida[13]["Regla"].append(Promedio_restaurant(k))
-        elif k["municipality"].lower() == "lisa": salida[14]["Lisa"].append(Promedio_restaurant(k))
+        elif k["municipality"].lower() == "la lisa": salida[14]["Lisa"].append(Promedio_restaurant(k))
     
     
     for k in salida:
@@ -123,4 +121,38 @@ def Promedio_municipio(lista:list):
             if len(k[key[0]]) == 0: k[key[0]] = 0
             else: k[key[0]] = sum(k[key[0]]) / len(k[key[0]])
     return salida
-            
+
+def BuscarEnLink(string, objetivo):
+    string = string.split('.')
+    for k in string:
+        if k == objetivo: return True
+    return False
+
+def Usuarios_Fb_Ig(lista:list)->tuple:
+    fb=0
+    ig=0
+    if lista is not None:
+        for k in lista:
+            if BuscarEnLink(k,"facebook"):fb+=1
+            elif BuscarEnLink(k,"instagram"):ig+=1 
+    return[fb,ig]
+
+def Usuarios_Fb_Ig_Municip(univ):
+    salida = [{"Cerro": []},{"Centro": []},{"Vieja": []},{"Plaza": []},{"Playa": []},{"Este": []},{"Gua": []},{"Diez": []},{"Boyeros": []},{"Cotorro": []},{"Arroyo": []},{"San": []},{"Marianao": []},{"Regla": []},{"Lisa": []}]
+    for k in univ:
+        if k["municipality"].lower() == "cerro": salida[0]["Cerro"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "centro habana": salida[1]["Centro"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "habana vieja": salida[2]["Vieja"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "plaza de la revolucion": salida[3]["Plaza"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "playa": salida[4]["Playa"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "habana del este": salida[5]["Este"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "guanabacoa": salida[6]["Gua"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "10 de octubre": salida[7]["Diez"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "boyeros": salida[8]["Boyeros"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "cotorro": salida[9]["Cotorro"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "arroyo naranjo": salida[10]["Arroyo"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "san miguel del padron": salida[11]["San"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "marianao": salida[12]["Marianao"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "regla": salida[13]["Regla"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+        elif k["municipality"].lower() == "la lisa": salida[14]["Lisa"].append(Usuarios_Fb_Ig(k["contactUs"]["social"]))
+    return salida

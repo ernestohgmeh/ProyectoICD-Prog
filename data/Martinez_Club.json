@@ -1,0 +1,204 @@
+{
+    "municipality": "Cotorro",
+    "info":
+        {
+        "nameLocal": "Martinez Club",
+        "location":
+        {
+            "address": "Calle 20 % Calle 69 y Calle 67A",
+            "barrio": "",
+            "GPS": "23.047087,-82.268312"
+        },
+        "horarios": 
+        {
+            "monday": "0900-2100",
+            "thuesday": "0900-2100",
+            "wednesday": "0900-2100",
+            "thursday": "0900-2100",
+            "friday": "0900-2100",
+            "saturday": "0900-2100",
+            "sunday": "0900-2100"
+        },
+        "contactUs":
+        {
+            "phone": [],
+            "web": "",
+            "social": []
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": false,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "fritura de malanga",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "ensalada fría",
+                    "foodPrecio": 150
+                },
+                {
+                    "foodName": "croquetas",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "tostones al ajillo",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "pan con jamón",
+                    "foodPrecio": 250
+                },
+                {
+                    "foodName": "pan con perro",
+                    "foodPrecio": 200
+                },
+                {
+                    "foodName": "pan con croqueta",
+                    "foodPrecio": 100
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "hamburguesa simple",
+                    "foodPrecio": 230,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa con mayonesa",
+                    "foodPrecio": 280,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa con jamón",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa con chorizo",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa con cebolla",
+                    "foodPrecio": 330,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa con queso blanco",
+                    "foodPrecio": 330,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "hamburguesa con queso gouda",
+                    "foodPrecio": 430,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pollo chiflado",
+                    "foodPrecio": 700,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "masa de cerdo frita",
+                    "foodPrecio": 1100,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "espaguetti con queso blanco",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "espaguetti con queso gouda",
+                    "foodPrecio": 500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza con queso blanco",
+                    "foodPrecio": 200,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza con queso gouda",
+                    "foodPrecio": 350,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar con queso blanco",
+                    "foodPrecio": 450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "pizza familiar con queso gouda",
+                    "foodPrecio": 650,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "refresco",
+                    "foodPrecio": 20,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "jugo",
+                    "foodPrecio": 50,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "malteada",
+                    "foodPrecio": 330,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

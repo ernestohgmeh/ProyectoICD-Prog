@@ -1,0 +1,178 @@
+{
+    "municipality": "Guanabacoa",
+    "info":
+        {
+        "nameLocal": "El Mexicano",
+        "location":
+        {
+            "address": "Ave. 3ra. No. 6 % 2da & 3ra",
+            "barrio": "Reparto Chivaz",
+            "GPS": ""
+        },
+        "horarios": 
+        {
+            "monday": "1000-2200",
+            "thuesday": "1000-2200",
+            "wednesday": "1000-2200",
+            "thursday": "1000-2200",
+            "friday": "1000-2200",
+            "saturday": "1000-2200",
+            "sunday": "1000-2200"
+        },
+        "contactUs":
+        {
+            "phone": ["int/ numero del local"],
+            "web": "string/ link del local",
+            "social": ["string/ link a las diferentes redes del local "]
+        },
+        "services":
+        {
+            "tranfer": false,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": false,
+            "tipoDeMoneda": ["string/ siglas de las monedas q acepta"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": false,
+            "bajos": true,
+            "altos": false,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Sandwich de Jamón y Queso",
+                    "foodPrecio": 350
+                },
+                {
+                    "foodName": "Sandwich de Queso Jamón Especial",
+                    "foodPrecio": 600
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Pizza Queso Gouda",
+                    "foodPrecio": 450,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetti Queso Gouda",
+                    "foodPrecio": 770,
+                    "description": null,
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":[],
+            "bebidas":
+            [
+                {
+                    "foodName": "Cerveza",
+                    "foodPrecio": 200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Holandia",
+                    "foodPrecio": 200,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Cristal Lata",
+                    "foodPrecio": 250,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cristal Botella",
+                    "foodPrecio": 200,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Shaka",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Tigon",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Malta 1 Hyper",
+                    "foodPrecio": 270,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Pepsi",
+                    "foodPrecio": 270,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Mirinda",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Perla negra",
+                    "foodPrecio": 270,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Ironbeer",
+                    "foodPrecio": 240,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Orange",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cola Polo",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limon",
+                    "foodPrecio": 220,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Coca Cola",
+                    "foodPrecio": 280,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}

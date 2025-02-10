@@ -27,11 +27,11 @@
         },
         "services":
         {
-            "tranfer": false,
+            "tranfer": true,
             "delivery": false,
             "parallevar": true,
             "reservation": false,
-            "tipoDeMoneda": ["string/ siglas de las monedas q acepta"],
+            "tipoDeMoneda": ["CUP"],
             "parqueo": false,
             "porCiento": false,
             "alquiler": false,

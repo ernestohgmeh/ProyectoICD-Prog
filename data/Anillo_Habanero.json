@@ -1,0 +1,352 @@
+{
+    "municipality": "Guanabacoa",
+    "info":
+        {
+        "nameLocal": "Anillo Habanero",
+        "location":
+        {
+            "address": "Carretera Primer Anillo Km 2",
+            "barrio": "string/ nombre del barrio",
+            "GPS": "23.097829,-82.265550"
+        },
+        "horarios": 
+        {
+            "monday": "1000-2300",
+            "thuesday": "1000-2300",
+            "wednesday": "1000-2300",
+            "thursday": "1000-2300",
+            "friday": "1000-2300",
+            "saturday": "1000-2300",
+            "sunday": "1000-2300"
+        },
+        "contactUs":
+        {
+            "phone": [52042710],
+            "web": "https://anillohabanero.com/",
+            "social": ["https://www.instagram.com/anillohabanerooficial/","https://www.facebook.com/anillohabanerooficial/"]
+        },
+        "services":
+        {
+            "tranfer": true,
+            "delivery": false,
+            "parallevar": false,
+            "reservation": true,
+            "tipoDeMoneda": ["CUP"],
+            "parqueo": false,
+            "porCiento": false,
+            "alquiler": false,
+            "comentarios": "string/ algun comentario sobre el lugar"
+        },
+        "ambientacion":
+        {
+            "inside": true,
+            "outside": true,
+            "bajos": true,
+            "altos": true,
+            "ac": false,
+            "entretenimiento": ["string/ diferentes servicios para e lentretenimiento del local"],
+            "comentarios": "string/ algun comentario sobre el lugar"
+
+        },
+        "vestimenta": ["string/ tipo de ropa adecuada"],
+        "estatal": false,
+        "tipoDeComidaEspecializada": ["string/ tipo de comida q ofrece"],
+        "menu":
+        {
+            "entrantes":
+            [
+                {
+                    "foodName": "Picadera Anillo",
+                    "foodPrecio": 3000
+                },
+                {
+                    "foodName": "Tacos de vegetales",
+                    "foodPrecio": 600
+                },
+                {
+                    "foodName": "Croquetas Habaneras",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Nachos, Salsa Rosa y Guacamole",
+                    "foodPrecio": 400
+                },
+                {
+                    "foodName": "Brochetas",
+                    "foodPrecio": 1300
+                },
+                {
+                    "foodName": "Cóctel de camarones",
+                    "foodPrecio": 2000
+                },
+                {
+                    "foodName": "Frituras",
+                    "foodPrecio": 300
+                },
+                {
+                    "foodName": "Tostones rellenos",
+                    "foodPrecio": 550
+                },
+                {
+                    "foodName": "Tacos de Pollo",
+                    "foodPrecio": 800
+                }
+            ],
+            "platoFuerte":
+            [
+                {
+                    "foodName": "Lomo ahumado",
+                    "foodPrecio": 2000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Chuletas de cerdo",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Ropa vieja",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Vaca Frita",
+                    "foodPrecio": 3000,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarones enchilados",
+                    "foodPrecio": 3500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Camarones al ajillo",
+                    "foodPrecio": 3500,
+                    "description": null,
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Pizza Napolitana",
+                    "foodPrecio": 800,
+                    "description": "Pizza con 90g de queso blanco",
+                    "clasficacion": "aaa"
+                },
+                {
+                    "foodName": "Spaguetis Napolés",
+                    "foodPrecio": 850,
+                    "description": "Spaguetis con 45g de queso blanco",
+                    "clasficacion": "aaa"
+                }
+            ],
+            "postre":
+            [
+                {
+                    "foodName": "Tarta de Vainilla",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Cheesecake de Limón",
+                    "foodPrecio": 750
+                },
+                {
+                    "foodName": "Coctel de Frutas Importadas",
+                    "foodPrecio": 350
+                }
+            ],
+            "bebidas":
+            [
+                {
+                    "foodName": "Michelada",
+                    "foodPrecio": 600,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Margarita",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipiroska",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cócteles Analcohólicos",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Caipirisima",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Vodka Tonic",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Screwdriver",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Gin Tonic",
+                    "foodPrecio": 900,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Agua Marina",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cancha",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Tinto de Verano",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Limonada Frappé",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Daiquirí",
+                    "foodPrecio": 800,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Chelada",
+                    "foodPrecio": 450,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Piña Colada",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Sangría",
+                    "foodPrecio": 1000,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza Nacional",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cerveza importada",
+                    "foodPrecio": 300,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Trago Jonny Walker",
+                    "foodPrecio": 500,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "William Lawsons",
+                    "foodPrecio": 350,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Lyubov Vodka",
+                    "foodPrecio": 200,
+                    "alcoholica": true,
+                    "importada": true
+                },
+                {
+                    "foodName": "Energizantes Importados",
+                    "foodPrecio": 500,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Maltas Importadas",
+                    "foodPrecio": 320,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Pepsi Refresco gaseado",
+                    "foodPrecio": 400,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Jugos naturales",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Agua natural",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Kermato",
+                    "foodPrecio": 700,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Refrescos Importados",
+                    "foodPrecio": 300,
+                    "alcoholica": false,
+                    "importada": true
+                },
+                {
+                    "foodName": "Expresso",
+                    "foodPrecio": 100,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Cortadito",
+                    "foodPrecio": 200,
+                    "alcoholica": false,
+                    "importada": false
+                },
+                {
+                    "foodName": "Capuchino",
+                    "foodPrecio": 250,
+                    "alcoholica": false,
+                    "importada": false
+                }
+            ]            
+        }
+    }
+}
